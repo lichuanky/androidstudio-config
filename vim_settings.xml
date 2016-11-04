@@ -668,6 +668,11 @@
         <mark key="^" line="11" column="58" />
         <mark key="." line="11" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/wxapi/WXEntryActivity.java" timestamp="1478251091373">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/common/gift/view/GiftGridAdapter.java" timestamp="1472182505354">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="4" />
@@ -971,11 +976,11 @@
       <jump line="163" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/SplashActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getImageUrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getImageUrl</text>
+        <text encoding="base64">bXNnIA==</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -984,73 +989,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygkdmlkZW9bJ3ZpZCddLiIgUHVibGlzaCBMaXZlIE5vdGlmaWNhdGlvbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5jb21tb24uc2hhcmVsb2dpbi5tb2RlbC5TaGFyZUNvbnRlbnRUZXh0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5jb21tb24uc2hhcmVsb2dpbi5TaGFyZUJsb2NrOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ZW5jZW50Lm1tLnNkay5tb2RlbGJhc2UuQmFzZVJlc3A7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJbml0IFNoYXJlTG9naW4gbGlicmFyeSBLZXkKICAgICAgICBTaGFyZUJsb2NrLmdldEluc3RhbmNlKCkuaW5pdFNoYXJlKENvbnN0YW50cy5XRUlYSU5fQVBQX0lELCBDb25zdGFudHMuV0VJQk9fQVBQX0lELAogICAgICAgICAgICAgICAgQ29uc3RhbnRzLlFRX0FQUF9JRCwgQ29uc3RhbnRzLldFSVhJTl9BUFBfU0VDUkVUKTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ZW5jZW50Lm1tLnNkay5tb2RlbGJhc2UuQmFzZVJlcTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTaGFyZUNvbnRlbnRXZWJwYWdlKCkgewogICAgICAgIHN1cGVyKCk7CiAgICB9CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>private String shareTitle;
-    private String shareContent;
-    private String shareUrl;
-    private String shareThumbUrl;
-
-    public ShareContentWebpage(String title, String content, String thumbUrl, String url) {
-        shareTitle = title;
-        shareContent = content;
-        shareThumbUrl = thumbUrl;
-        shareUrl = url;
-    }
-
-    public String getShareTitle() {
-        return shareTitle;
-    }
-
-    public void setShareTitle(String shareTitle) {
-        this.shareTitle = shareTitle;
-    }
-
-    public String getShareContent() {
-        return shareContent;
-    }
-
-    public void setShareContent(String shareContent) {
-        this.shareContent = shareContent;
-    }
-
-    public String getShareUrl() {
-        return shareUrl;
-    }
-
-    public void setShareUrl(String shareUrl) {
-        this.shareUrl = shareUrl;
-    }
-
-    public String getShareThumbUrl() {
-        return shareThumbUrl;
-    }
-
-    public void setShareThumbUrl(String shareThumbUrl) {
-        this.shareThumbUrl = shareThumbUrl;
-    }</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uUmVxKEJhc2VSZXEgcmVxKSB7CiAgICAgICAgc3VwZXIub25SZXEocmVxKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uUmVzcChCYXNlUmVzcCByZXNwKSB7CiAgICAgICAgc3VwZXIub25SZXNwKHJlc3ApOwogICAgICAgIExvZ2dlci5kKFRBRywgIlJlc3BvbnNlIGNvZGU6ICIgKyByZXNwLmVyckNvZGUpOwogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5jb21tb24uc2hhcmVsb2dpbi5tb2RlbC5TaGFyZUNvbnRlbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5jb21tb24uc2hhcmVsb2dpbi51dGlsLlNoYXJlVXRpbDsK</text>
+        <text encoding="base64">ICAgICAgICBpYyB2b2lkIG9uR2V0TWVzc2FnZUZyb21XWFJlcShXWE1lZGlhTWVzc2FnZSBtc2cpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5jb21tb24uc2hhcmVsb2dpbi5tb2RlbC5TaGFyZUNvbnRlbnRXZWJwYWdlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5jb21tb24uc2hhcmVsb2dpbi5tb2RlbC5TaGFyZUNvbnRlbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
