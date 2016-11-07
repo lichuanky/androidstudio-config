@@ -537,12 +537,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/net/ApiHelper.java" timestamp="1478514024505">
-        <mark key="[" line="247" column="60" />
-        <mark key="]" line="247" column="60" />
-        <mark key="^" line="247" column="60" />
-        <mark key="." line="247" column="60" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/service/push.php" timestamp="1477995580664">
         <mark key="[" line="22" column="90" />
         <mark key="]" line="23" column="40" />
@@ -579,10 +573,10 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1478247193145">
-        <mark key="[" line="134" column="20" />
-        <mark key="]" line="134" column="20" />
-        <mark key="." line="134" column="20" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1478517044162">
+        <mark key="[" line="137" column="42" />
+        <mark key="]" line="137" column="42" />
+        <mark key="." line="137" column="42" />
         <mark key="^" line="138" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/item_chat_group.xml" timestamp="1474265610327">
@@ -1005,10 +999,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
