@@ -111,11 +111,11 @@
         <mark key="^" line="67" column="44" />
         <mark key="." line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/ShareManager.java" timestamp="1478504060778">
-        <mark key="[" line="60" column="42" />
-        <mark key="]" line="60" column="42" />
-        <mark key="." line="60" column="42" />
-        <mark key="^" line="27" column="56" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/ShareManager.java" timestamp="1478505340222">
+        <mark key="[" line="67" column="89" />
+        <mark key="]" line="67" column="87" />
+        <mark key="." line="67" column="87" />
+        <mark key="^" line="67" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/drawable/ic_live_permission.xml" timestamp="1473501584720">
         <mark key="[" line="3" column="33" />
@@ -988,10 +988,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1000,31 +1000,46 @@
         <text encoding="base64">CQkJTG9nZ2VyLmQoVEFHLCAib25TaG93TWVzc2FnZUZyb21XWFJlcSBleHRJbmZvOiAiICsgb2JqLmV4dEluZm8pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWlmIChsb2dpbkxpc3RlbmVyICE9IG51bGwpIHsKCQkJCQlsb2dpbkxpc3RlbmVyLm9uTG9naW4ocGxhdCwgKEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KSBvYmpzWzFdKTsKCQkJCX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGF0Zm9ybS5nZXREYigpLmV4cG9ydERhdGEoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldE9uTG9naW5MaXN0ZW5lcihPbkxvZ2luTGlzdGVuZXIgbG9naW4pewoJCXRoaXMubG9naW5MaXN0ZW5lcj1sb2dpbjsKCX0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGF0Zm9ybS5nZXREYigpLmV4cG9ydERhdGEoKS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGF0Zm9ybS5nZXREYigpLgo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">YXBpLnNldE9uTG9naW5MaXN0ZW5lcihuZXcgT25Mb2dpbkxpc3RlbmVyKCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBvbkxvZ2luKFN0cmluZyBwbGF0Zm9ybSwgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4gcmVzKSB7CiAgICAgICAgICAgICAgICAvLyDlnKjov5nkuKrmlrnms5XloavlhpnlsJ3or5XnmoTku6PnoIHvvIzov5Tlm550cnVl6KGo56S66L+Y5LiN6IO955m75b2V77yM6ZyA6KaB5rOo5YaMCiAgICAgICAgICAgICAgICAvLyDmraTlpITlhajpg6jnu5nlm57pnIDopoHms6jlhowKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25SZWdpc3RlcihVc2VySW5mbyBpbmZvKSB7CiAgICAgICAgICAgICAgICAvLyDloavlhpnlpITnkIbms6jlhozkv6Hmga/nmoTku6PnoIHvvIzov5Tlm550cnVl6KGo56S65pWw5o2u5ZCI5rOV77yM5rOo5YaM6aG16Z2i5Y+v5Lul5YWz6ZetCiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
+        <text>ShareConstants.PARAMS_ACCESS_TOKEN, platform.getDb().getToken();
+                    userInfo.putLong(ShareConstants.PARAMS_EXPIRES_IN, platform.getDb().getExpiresIn());
+                    shareLoginListener.onComplete(userInfo);
+                }
+            }
+
+            @Override
+            public void onError(Platform platform, int i, Throwable throwable) {
+                shareLoginListener.onError();
+            }
+
+            @Override
+            public void onCancel(Platform platform, int i) {
+                shareLoginListener.onCancel();
+            }
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaXZhdGUgT25Mb2dpbkxpc3RlbmVyIGxvZ2luTGlzdGVuZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkmJgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIChTdHJpbmcpIGhhc2hNYXAuZ2V0KCJhY2Nlc3N0b2tlbiIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQkJCWlmIChsb2dpbkxpc3RlbmVyICE9IG51bGwpIHsKCQkJCQlsb2dpbkxpc3RlbmVyLm9uTG9naW4ocGxhdCwgKEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KSBvYmpzWzFdKTsKCQkJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb250ZXh0LnN0YXJ0QWN0aXZpdHkoaW50ZW50KTsK</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldE9uTG9naW5MaXN0ZW5lcihPbkxvZ2luTGlzdGVuZXIgbG9naW4pewoJCXRoaXMubG9naW5MaXN0ZW5lcj1sb2dpbjsKCX0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlSZWdpc3RlclBhZ2Uuc2V0T25Mb2dpbkxpc3RlbmVyKGxvZ2luTGlzdGVuZXIpOwoJCQkJCVJlZ2lzdGVyUGFnZS5zZXRQbGF0Zm9ybShwbGF0KTsKCQkJCQlJbnRlbnQgaW50ZW50PW5ldyBJbnRlbnQoY29udGV4dCwgUmVnaXN0ZXJQYWdlLmNsYXNzKTsKCQkJCQlpbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
