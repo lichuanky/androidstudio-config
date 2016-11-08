@@ -78,7 +78,6 @@
         <mark key="^" line="32" column="80" />
         <mark key="." line="32" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/res/values/ssdk_oks_strings.xml" timestamp="1478587770535" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/layout/fragment_message.xml" timestamp="1473402883429">
         <mark key="[" line="16" column="35" />
         <mark key="]" line="16" column="46" />
@@ -195,6 +194,7 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="67" />
       </file>
+      <file name="$USER_HOME$/android/android-sdk-linux/sources/android-21/android/view/View.java" timestamp="1478589479800" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/pay/AlipayHelper.java" timestamp="1473840891796">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -218,12 +218,6 @@
         <mark key="]" line="23" column="85" />
         <mark key="^" line="23" column="85" />
         <mark key="." line="23" column="85" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/login/LoginApi.java" timestamp="1478576713430">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/adapter/MyGroupAdapter.java" timestamp="1473819473920">
         <mark key="[" line="6" column="32" />
@@ -284,11 +278,12 @@
         <mark key="^" line="215" column="19" />
         <mark key="." line="215" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/ShareManager.java" timestamp="1478588334710">
-        <mark key="'" line="63" column="64" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="59" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/ShareManager.java" timestamp="1478589982259">
+        <mark key="'" line="77" column="64" />
+        <mark key="[" line="61" column="77" />
+        <mark key="]" line="62" column="15" />
+        <mark key="." line="62" column="15" />
+        <mark key="^" line="62" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/drawable/ic_live_permission.xml" timestamp="1473501584720">
         <mark key="[" line="3" column="33" />
@@ -560,6 +555,7 @@
         <mark key="^" line="36" column="79" />
         <mark key="." line="36" column="79" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/onekeyshare/ClipboardPlatform.java" timestamp="1478589690678" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/onekeyshare/ShareContent.java" timestamp="1478586307449">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="26" />
@@ -578,7 +574,6 @@
         <mark key="." line="231" column="64" />
         <mark key="^" line="231" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/libs/ShareSDK-Core-2.7.9.jar!/cn/sharesdk/framework/InnerShareParams.class" timestamp="1478586774287" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/usercenter/FriendsUserInfoActivity.java" timestamp="1473498921369">
         <mark key="[" line="159" column="40" />
         <mark key="]" line="159" column="40" />
@@ -691,7 +686,6 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/onekeyshare/themes/classic/PlatformPageAdapter.java" timestamp="1478587952504" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/chat_view_rcv_pull_load.xml" timestamp="1473323421470">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="31" />
@@ -704,12 +698,12 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/onekeyshare/OnekeyShare.java" timestamp="1478587513712" />
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/onekeyshare/themes/classic/PlatformPage.java" timestamp="1478588417728">
-        <mark key="[" line="117" column="47" />
-        <mark key="]" line="118" column="19" />
-        <mark key="^" line="118" column="19" />
-        <mark key="." line="118" column="19" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/onekeyshare/OnekeyShare.java" timestamp="1478589473728" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/onekeyshare/themes/classic/PlatformPage.java" timestamp="1478589902115">
+        <mark key="[" line="119" column="50" />
+        <mark key="]" line="119" column="50" />
+        <mark key="." line="119" column="50" />
+        <mark key="^" line="119" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/home/HomeTabActivity.java" timestamp="1473496591717">
         <mark key="[" line="160" column="25" />
@@ -765,7 +759,6 @@
         <mark key="^" line="74" column="35" />
         <mark key="." line="77" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/assets/ShareSDK.xml" timestamp="1478574876990" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/activity_message_queue.xml" timestamp="1473323160768">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="30" />
@@ -832,8 +825,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/demo/src/main/java/com/easyvaas/sdk/demo/LiveOptionsActivity.java" timestamp="1478519734133" />
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/onekeyshare/OnekeyShareThemeImpl.java" timestamp="1478587506583" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/CommentAdapterItem.java" timestamp="1474616731187">
         <mark key="[" line="88" column="34" />
         <mark key="]" line="88" column="34" />
@@ -999,43 +990,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTaGFyZVNESy5yZWdpc3RlclBsYXRmb3JtKENsaXBib2FyZFBsYXRmb3JtLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCAiQ2xpcGJvYXJkIi5lcXVhbHMocC5nZXROYW1lKCkpKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibXNnX2NvcHlfdG9fY2xpcGJvYXJkX3N1Y2Nlc3MiPuWkjeWItuaIkOWKnzwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCAiUVpvbmUiLmVxdWFscyhwLmdldE5hbWUoKSkpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTaGFyZVNESy5yZWdpc3RlclBsYXRmb3JtKENsaXBib2FyZFBsYXRmb3JtLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCAiQ2xpcGJvYXJkIi5lcXVhbHMocC5nZXROYW1lKCkpKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTaGFyZVNESy5yZWdpc3RlclBsYXRmb3JtKENsaXBib2FyZFBsYXRmb3JtLmNsYXNzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbGljaHVhbiBvbiAxMS84LzE2LgogKi8K</text>
+        <text encoding="base64">ICAgICAgICBSCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpbWFnZVBhdGjmmK/lm77niYfnmoTmnKzlnLDot6/lvoTvvIxMaW5rZWQtSW7ku6XlpJbnmoTlubPlj7Dpg73mlK/mjIHmraTlj4LmlbAK</text>
+        <text encoding="base64">ICAgICAgICBub3RCdWlsZGVyLnNldExhcmdlSWNvbihsYXJnZUljb24pOyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBva3Muc2V0Q3VzdG9tZXJMb2dvKEJpdG1hcEZhY3RvcnkuZGVjb2RlUmVzb3VyY2UobUNvbnRleHQuZ2V0UmVzb3VyY2VzKCksIFIuZHJhd2FibGUubGFyZ2VfaWNvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtCg==</text>
+        <text encoding="base64">ICAgICAgICBTaGFyZVNESy5yZWdpc3RlclBsYXRmb3JtKENsaXBib2FyZFBsYXRmb3JtLmNsYXNzKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LQogICAgICAgICAgICBBdXRob3JpemVBZGFwdGVy57un5om/6IeqCiAgICAgICAgICAgIGNuLnNoYXJlc2RrLmZyYW1ld29yay4gYXV0aG9yaXplLkF1dGhvcml6ZUFkYXB0ZXLvvIwKICAgICAgICAgICAg5Y+v5Lul55uR5ZCs5Yiw6aG16Z2i55qE55Sf5ZG95ZGo5pyf77yM5Lmf6IO96I635Y+W6aG16Z2i55qE5ZCE56eNVUnmjqfku7bjgIIKICAgICAgICAgICAg5byA5Y+R6ICF5Y+v5Lul6YCa6L+H57un5om/QXV0aG9yaXplQWRhcHRlcu+8jOmHjeWGmeWFtuaWueazle+8jAogICAgICAgICAgICDlubbojrflj5blkITnp41VSeadpeiHquWumuS5iei/meS4qumhtemdoueahOihjOS4uuOAggogICAgICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iQXV0aG9yaXplQWRhcHRlciIKICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnZhbHVlPSJjbi5zaGFyZXNkay5kZW1vLk15QWRhcHRlciIKICAgICAgICAgICAgICAgICAgICAgICAgLS0+Lz4KICAgICAgICA8L2FjdGl2aXR5Pg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgPGFjdGl2aXR5CiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iY29tLnRlbmNlbnQudGF1dGguQXV0aEFjdGl2aXR5IgogICAgICAgICAgICBhbmRyb2lkOmxhdW5jaE1vZGU9InNpbmdsZVRhc2siCiAgICAgICAgICAgIGFuZHJvaWQ6bm9IaXN0b3J5PSJ0cnVlIj4KICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLlZJRVciLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkJST1dTQUJMRSIvPgogICAgICAgICAgICAgICAgPGRhdGEgYW5kcm9pZDpzY2hlbWU9InRlbmNlbnQxMTAzMDg0MjIwIi8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4KICAgICAgICA8L2FjdGl2aXR5Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbGljaHVhbiBvbiAxMS84LzE2LgogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJzZXNzaW9uaWQiLCBtUHJlZi5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpbWFnZVBhdGjmmK/lm77niYfnmoTmnKzlnLDot6/lvoTvvIxMaW5rZWQtSW7ku6XlpJbnmoTlubPlj7Dpg73mlK/mjIHmraTlj4LmlbAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
