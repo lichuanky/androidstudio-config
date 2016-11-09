@@ -603,12 +603,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" timestamp="1478674424952">
-        <mark key="'" line="220" column="41" />
-        <mark key="[" line="298" column="23" />
-        <mark key="]" line="276" column="41" />
-        <mark key="." line="276" column="41" />
-        <mark key="^" line="276" column="41" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" timestamp="1478676022124">
+        <mark key="'" line="222" column="41" />
+        <mark key="[" line="305" column="26" />
+        <mark key="]" line="308" column="58" />
+        <mark key="." line="308" column="58" />
+        <mark key="^" line="309" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/usercenter/FriendsUserInfoActivity.java" timestamp="1473498921369">
         <mark key="[" line="159" column="40" />
@@ -663,6 +663,7 @@
         <mark key="^" line="231" column="60" />
         <mark key="." line="231" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oupai/android/oupai/yzb-app/src/com/yizhibo/video/activity/list/VideoListActivity.java" timestamp="1478676550827" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/adapter/item/SelectFriendsAdapterItem.java" timestamp="1474263320154">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="19" />
@@ -1052,10 +1053,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>thumb</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>thumb</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1065,31 +1066,31 @@
             DialogInterface.OnClickListener confirmOnClickListener) {</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUlucHV0RGlhbG9nID0gZGlhbG9nOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUlucHV0RGlhbG9nLnNldENvbnRlbnRWaWV3KGlucHV0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1JbnB1dERpYWxvZy52aQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBuZXcgRWRpdFRleHQodGhpcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKGNvbnRlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRWaWV3KGlucHV0KQo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBFZGl0VGV4dCBpbnB1dCA9IG5ldyBFZGl0VGV4dChhY3Rpdml0eSk7CiAgICAgICAgaW5wdXQuc2V0SW5wdXRUeXBlKElucHV0VHlwZS5UWVBFX0NMQVNTX1RFWFQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1JbnB1dERpYWxvZy52aQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRUaXRsZSh0aXRsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKGNvbnRlbnQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dC5zZXRtYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRWaWV3KGlucHV0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTcGVjaWZ5IHRoZSB0eXBlIG9mIGlucHV0IGV4cGVjdGVkOyB0aGlzLCBmb3IgZXhhbXBsZSwgc2V0cyB0aGUgaW5wdXQgYXMgYSBwYXNzd29yZCwgYW5kIHdpbGwgbWFzayB0aGUgdGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBFZGl0VGV4dCBpbnB1dCA9IG5ldyBFZGl0VGV4dChhY3Rpdml0eSk7CiAgICAgICAgaW5wdXQuc2V0SW5wdXRUeXBlKElucHV0VHlwZS5UWVBFX0NMQVNTX1RFWFQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
