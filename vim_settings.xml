@@ -27,7 +27,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1478656846678">
+      <file name="/a.dummy" timestamp="1478673079253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -77,6 +77,13 @@
         <mark key="]" line="32" column="80" />
         <mark key="^" line="32" column="80" />
         <mark key="." line="32" column="80" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DialogUtil.java" timestamp="1478674721366">
+        <mark key="'" line="417" column="4" />
+        <mark key="[" line="153" column="36" />
+        <mark key="]" line="154" column="30" />
+        <mark key="." line="154" column="30" />
+        <mark key="^" line="154" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/layout/fragment_message.xml" timestamp="1473402883429">
         <mark key="[" line="16" column="35" />
@@ -596,11 +603,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" timestamp="1478578792065">
-        <mark key="[" line="231" column="64" />
-        <mark key="]" line="231" column="64" />
-        <mark key="." line="231" column="64" />
-        <mark key="^" line="231" column="48" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" timestamp="1478674424952">
+        <mark key="'" line="220" column="41" />
+        <mark key="[" line="298" column="23" />
+        <mark key="]" line="276" column="41" />
+        <mark key="." line="276" column="41" />
+        <mark key="^" line="276" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/usercenter/FriendsUserInfoActivity.java" timestamp="1473498921369">
         <mark key="[" line="159" column="40" />
@@ -744,11 +752,11 @@
         <mark key="^" line="196" column="14" />
         <mark key="." line="160" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/menu/video_operation.xml" timestamp="1477375569250">
-        <mark key="[" line="9" column="62" />
-        <mark key="]" line="9" column="62" />
-        <mark key="." line="9" column="62" />
-        <mark key="^" line="9" column="36" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/menu/video_operation.xml" timestamp="1478674398658">
+        <mark key="[" line="10" column="75" />
+        <mark key="]" line="10" column="79" />
+        <mark key="." line="10" column="79" />
+        <mark key="^" line="10" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/proguard-rules.txt" timestamp="1476258689112">
         <mark key="[" line="93" column="39" />
@@ -917,13 +925,14 @@
         <mark key="." line="20" column="64" />
         <mark key="^" line="20" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478606027161">
+      <file name="/Dummy.txt" timestamp="1478673727192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1478586689461">
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="62" />
-        <mark key="." line="10" column="48" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1478673061745">
+        <mark key="[" line="578" column="40" />
+        <mark key="]" line="578" column="40" />
+        <mark key="." line="578" column="40" />
+        <mark key="^" line="578" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharesdk/share/ShareParams.java" timestamp="1478247970614">
         <mark key="[" line="8" column="81" />
@@ -1002,7 +1011,7 @@
         <mark key="^" line="30" column="68" />
         <mark key="." line="30" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1478606027165">
+      <file name="/fragment.java" timestamp="1478673727183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="18" />
@@ -1038,46 +1047,49 @@
       <jump line="11" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/pay/WechatPayManager.java" />
       <jump line="36" column="13" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/Gift/src/main/java/com/easyvaas/common/gift/utils/GiftUtility.java" />
       <jump line="76" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/Gift/src/main/java/com/easyvaas/common/gift/action/ZipAnimAction.java" />
+      <jump line="405" column="4" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DialogUtil.java" />
+      <jump line="214" column="41" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>thumb</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>thumb</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PFdlY2hhdE1vbWVudHMKICAgICAgICBJZD0iNSIKICAgICAgICBTb3J0SWQ9IjUiCiAgICAgICAgQXBwSWQ9Ind4NmYyMmZhODg2Zjk5MTRjMiIKICAgICAgICBBcHBTZWNyZXQ9ImUxZjExY2VjMWM4YjlkMTQ1NzRjYTE2MmM2ODg1NWZiIgogICAgICAgIEJ5cGFzc0FwcHJvdmFsPSJmYWxzZSIKICAgICAgICBFbmFibGU9InRydWUiLz4=</text>
+        <text>Activity activity, String content,
+            DialogInterface.OnClickListener confirmOnClickListener) {</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGdpZnRJZERpciA9IG5ldyBGaWxlKEdpZnRVdGlsaXR5LkNBQ0hFX0FOSU1fRElSICsgRmlsZS5zZXBhcmF0b3IgKyBnaWZ0SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1JbnB1dERpYWxvZy52aQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKGNvbnRlbnQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRWaWV3KGlucHV0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBFZGl0VGV4dCBpbnB1dCA9IG5ldyBFZGl0VGV4dChhY3Rpdml0eSk7CiAgICAgICAgaW5wdXQuc2V0SW5wdXRUeXBlKElucHV0VHlwZS5UWVBFX0NMQVNTX1RFWFQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDQUNIRV9GSUxFID0gRmlsZVV0aWwuQ0FDSEVfRE9XTkxPQURfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAiY2FjaGUudG1wIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRUaXRsZSh0aXRsZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FjaGVGaWxlID0gY29udGV4dC5nZXRFeHRlcm5hbEZpbGVzRGlyKCJDYWNoZSIpICsgRmlsZS5zZXBhcmF0b3IgKyAiY2FjaGUudG1wIjsK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dC5zZXRtYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTcGVjaWZ5IHRoZSB0eXBlIG9mIGlucHV0IGV4cGVjdGVkOyB0aGlzLCBmb3IgZXhhbXBsZSwgc2V0cyB0aGUgaW5wdXQgYXMgYSBwYXNzd29yZCwgYW5kIHdpbGwgbWFzayB0aGUgdGV4dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
