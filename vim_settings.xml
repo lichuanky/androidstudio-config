@@ -663,7 +663,6 @@
         <mark key="^" line="231" column="60" />
         <mark key="." line="231" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oupai/android/oupai/yzb-app/src/com/yizhibo/video/activity/list/VideoListActivity.java" timestamp="1478676550827" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/adapter/item/SelectFriendsAdapterItem.java" timestamp="1474263320154">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="19" />
@@ -976,7 +975,6 @@
         <mark key="^" line="324" column="48" />
         <mark key="." line="324" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" timestamp="1478749450810" />
       <file name="$USER_HOME$/workspace/yzb/hooview/HooViewAndroid/build.gradle" timestamp="1476251225595">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
@@ -988,6 +986,9 @@
         <mark key="]" line="29" column="5" />
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/oupai/android/oupai/yzb-app/src/com/yizhibo/video/net/ChatHelper.java" timestamp="1479098112372">
+        <mark key="'" line="468" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/db/mysql/t_video.php" timestamp="1478148343218">
         <mark key="[" line="521" column="66" />
@@ -1051,6 +1052,7 @@
       <jump line="76" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/Gift/src/main/java/com/easyvaas/common/gift/action/ZipAnimAction.java" />
       <jump line="405" column="4" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DialogUtil.java" />
       <jump line="214" column="41" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" />
+      <jump line="468" column="0" filename="$USER_HOME$/workspace/yzb/oupai/android/oupai/yzb-app/src/com/yizhibo/video/net/ChatHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
