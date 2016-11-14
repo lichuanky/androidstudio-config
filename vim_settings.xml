@@ -828,11 +828,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/build.gradle" timestamp="1478519658781">
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="54" />
-        <mark key="^" line="6" column="54" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/build.gradle" timestamp="1479122427874">
+        <mark key="[" line="31" column="40" />
+        <mark key="]" line="31" column="40" />
+        <mark key="." line="31" column="40" />
+        <mark key="^" line="31" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/HomeTopicAdapterItem.java" timestamp="1473663540856">
         <mark key="[" line="48" column="52" />
@@ -1060,10 +1060,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
