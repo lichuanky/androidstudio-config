@@ -66,11 +66,11 @@
         <mark key="^" line="32" column="80" />
         <mark key="." line="32" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DialogUtil.java" timestamp="1479200411813">
-        <mark key="'" line="417" column="4" />
-        <mark key="[" line="153" column="36" />
-        <mark key="]" line="154" column="30" />
-        <mark key="." line="154" column="30" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DialogUtil.java" timestamp="1479208581668">
+        <mark key="'" line="413" column="4" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
+        <mark key="." line="313" column="0" />
         <mark key="^" line="154" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/layout/fragment_message.xml" timestamp="1473402883429">
@@ -568,6 +568,12 @@
         <mark key="." line="207" column="36" />
         <mark key="^" line="207" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LiveRoomBaseActivity.java" timestamp="1479208473793">
+        <mark key="[" line="1136" column="79" />
+        <mark key="]" line="1136" column="82" />
+        <mark key="." line="1136" column="82" />
+        <mark key="^" line="1136" column="82" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/usercenter/FriendsUserInfoActivity.java" timestamp="1473498921369">
         <mark key="[" line="159" column="40" />
         <mark key="]" line="159" column="40" />
@@ -743,6 +749,12 @@
         <mark key="]" line="85" column="16" />
         <mark key="^" line="84" column="23" />
         <mark key="." line="85" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/PlayerActivity.java" timestamp="1479208564723">
+        <mark key="[" line="392" column="27" />
+        <mark key="]" line="392" column="27" />
+        <mark key="." line="392" column="27" />
+        <mark key="^" line="392" column="92" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/values/styles.xml" timestamp="1474176686774">
         <mark key="[" line="66" column="12" />
@@ -933,9 +945,6 @@
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oupai/android/oupai/yzb-app/src/com/yizhibo/video/net/ChatHelper.java" timestamp="1479098112372">
-        <mark key="'" line="468" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/db/mysql/t_video.php" timestamp="1478148343218">
         <mark key="[" line="521" column="66" />
         <mark key="]" line="521" column="86" />
@@ -960,7 +969,7 @@
         <mark key="^" line="30" column="68" />
         <mark key="." line="30" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1479196692674">
+      <file name="/fragment.java" timestamp="1479208130142">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="18" />
@@ -1008,11 +1017,11 @@
       <jump line="340" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/UpdateManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mRemoveConfirmDialog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIERpYWxvZyBzaG93UmVwb3J0R3JvdXBEaWFsb2coQWN0aXZpdHkgYWN0aXZpdHksIFN0cmluZyBuYW1lKSB7CiAgICAgICAgcmV0dXJuIHNob3dSZXBvcnREaWFsb2coYWN0aXZpdHksIG5hbWUsIEFwaUhlbHBlci5SRVBPUlRfVFlQRV9HUk9VUCk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mRemoveConfirmDialog</text>
+        <text>showReportVideoDialog</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1021,31 +1030,31 @@
         <text>getCacheDir(context, &quot;Image&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIERpYWxvZyBzaG93UmVwb3J0R3JvdXBEaWFsb2coQWN0aXZpdHkgYWN0aXZpdHksIFN0cmluZyBuYW1lKSB7CiAgICAgICAgcmV0dXJuIHNob3dSZXBvcnREaWFsb2coYWN0aXZpdHksIG5hbWUsIEFwaUhlbHBlci5SRVBPUlRfVFlQRV9HUk9VUCk7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3JlYXRlRGlyZWN0b3J5KENBQ0hFX0lNQUdFX0RJUikgJiYgY3JlYXRlRGlyZWN0b3J5KENBQ0hFX1NIQVJFX0RJUik7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRGlhbG9nIHNob3dSZXBvcnRWaWRlb0RpYWxvZyhBY3Rpdml0eSBhY3Rpdml0eSwgU3RyaW5nIG5hbWUpIHsKICAgICAgICByZXR1cm4gc2hvd1JlcG9ydERpYWxvZyhhY3Rpdml0eSwgbmFtZSwgQXBpSGVscGVyLlJFUE9SVF9UWVBFX1ZJREVPKTsKICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgTG9nZ2VyLmQoVEFHLCAiRVZBcHBsaWNhdGlvbjogIiArIEVWQXBwbGljYXRpb24uZ2V0QXBwKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLnBsYXllcl9yZXBvcnRfYnRuOgogICAgICAgICAgICAgICAgaGlkZVVzZXJQb3B1cFZpZXcoKTsKICAgICAgICAgICAgICAgIERpYWxvZ1V0aWwuc2hvd1JlcG9ydFZpZGVvRGlhbG9nKHRoaXMsIG1DdXJyZW50VmlkZW8uZ2V0TmFtZSgpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChUQUcsICJEb3dubG9hZDogIiArIGN0eC5nZXRFeHRlcm5hbEZpbGVzRGlyKEVudmlyb25tZW50LkRJUkVDVE9SWV9ET1dOTE9BRFMpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChUQUcsICJEb3dubG9hZDogIiArIGN0eC5nZXRFeHRlcm5hbEZpbGVzRGlyKEVudmlyb25tZW50LkRJUkVDVE9SWV9ET1dOTE9BRFMpKS47Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3JlYXRlRGlyZWN0b3J5KENBQ0hFX0lNQUdFX0RJUikgJiYgY3JlYXRlRGlyZWN0b3J5KENBQ0hFX1NIQVJFX0RJUik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDQUNIRV9ESVIgPSBjdHguZ2V0RXh0ZXJuYWxGaWxlc0RpcihudWxsKS5nZXRBYnNvbHV0ZVBhdGgoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgTG9nZ2VyLmQoVEFHLCAiRVZBcHBsaWNhdGlvbjogIiArIEVWQXBwbGljYXRpb24uZ2V0QXBwKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChUQUcsICJEb3dubG9hZDogIiArIGN0eC5nZXRFeHRlcm5hbEZpbGVzRGlyKEVudmlyb25tZW50LkRJUkVDVE9SWV9ET1dOTE9BRFMpKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IExvZ2dlci5kKFRBRywgIkVWQXBwbGljYXRpb246ICIgKyBFVkFwcGxpY2F0aW9uLmdldEFwcCgpKTsKICAgICAgICBMb2dnZXIuZChUQUcsICJEb3dubG9hZDogIiArIEVWQXBwbGljYXRpb24uZ2V0QXBwKCkuZ2V0RXh0ZXJuYWxGaWxlc0RpcihFbnZpcm9ubWVudC5ESVJFQ1RPUllfRE9XTkxPQURTKSk7CiAgICAgICAgQ0FDSEVfRE9XTkxPQURfRElSID0gRVZBcHBsaWNhdGlvbi5nZXRBcHAoKQogICAgICAgICAgICAgICAgLmdldEV4dGVybmFsRmlsZXNEaXIoRW52aXJvbm1lbnQuRElSRUNUT1JZX0RPV05MT0FEUykuZ2V0QWJzb2x1dGVQYXRoKCk7CiAgICAgICAgQ0FDSEVfU1BMQVNIX0RJUiA9IEVWQXBwbGljYXRpb24uZ2V0QXBwKCkKICAgICAgICAgICAgICAgIC5nZXRFeHRlcm5hbEZpbGVzRGlyKEVudmlyb25tZW50LkRJUkVDVE9SWV9QSUNUVVJFUykuZ2V0QWJzb2x1dGVQYXRoKCk7CiAgICAgICAgQ0FDSEVfU0hBUkVfRElSID0gRVZBcHBsaWNhdGlvbi5nZXRBcHAoKS5nZXRFeHRlcm5hbEZpbGVzRGlyKCJTaGFyZSIpLmdldEFic29sdXRlUGF0aCgpOwogICAgICAgIENBQ0hFX0lNQUdFX0RJUiA9IEVWQXBwbGljYXRpb24uZ2V0QXBwKCkuZ2V0RXh0ZXJuYWxGaWxlc0RpcigiSW1hZ2UiKS5nZXRBYnNvbHV0ZVBhdGgoKTsKICAgICAgICBDQUNIRV9ESVIgPSBFVkFwcGxpY2F0aW9uLmdldEFwcCgpLmdldEV4dGVybmFsRmlsZXNEaXIobnVsbCkuZ2V0QWJzb2x1dGVQYXRoKCk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChUQUcsICJEb3dubG9hZDogIiArIGN0eC5nZXRFeHRlcm5hbEZpbGVzRGlyKEVudmlyb25tZW50LkRJUkVDVE9SWV9ET1dOTE9BRFMpKS47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBDQUNIRV9ESVIgPSBjdHguZ2V0RXh0ZXJuYWxGaWxlc0RpcihudWxsKS5nZXRBYnNvbHV0ZVBhdGgoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
