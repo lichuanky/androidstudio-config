@@ -729,12 +729,12 @@
         <mark key="." line="343" column="39" />
         <mark key="^" line="343" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/FileUtil.java" timestamp="1479192146404">
-        <mark key="'" line="44" column="102" />
-        <mark key="[" line="44" column="123" />
-        <mark key="]" line="44" column="122" />
-        <mark key="^" line="44" column="122" />
-        <mark key="." line="44" column="122" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/FileUtil.java" timestamp="1479192764425">
+        <mark key="'" line="209" column="24" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="30" column="43" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/Feedback/src/main/java/com/easyvaas/common/feedback/MyIWxCallback.java" timestamp="1473325667632">
         <mark key="[" line="4" column="0" />
@@ -1072,46 +1072,47 @@
       <jump line="268" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/UpdateManager.java" />
       <jump line="321" column="33" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/UpdateManager.java" />
       <jump line="44" column="102" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/FileUtil.java" />
+      <jump line="214" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/FileUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Q0FDSEVfRElSIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q0FDSEVfRElSIA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBQ0hFX0RPV05MT0FEX0RJUiA9IENBQ0hFX0RJUiArIEZpbGUuc2VwYXJhdG9yICsgImRvd25sb2FkIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBQ0hFX1NQTEFTSF9ESVIgPSBDQUNIRV9ESVIgKyBGaWxlLnNlcGFyYXRvciArICJzcGxhc2giOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfU0hBUkVfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAic2hhcmUiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfSU1BR0VfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAiaW1hZ2UiOwo=</text>
+        <text encoding="base64">ICAgICAgICBDQUNIRV9JTUFHRV9ESVIgPSBFVkFwcGxpY2F0aW9uLmdldEFwcCgpLmdldEV4dGVybmFsRmlsZXNEaXIoImltYWdlIikuZ2V0QWJzb2x1dGVQYXRoKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShTQVZFX1BBVEgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWZpbGUuZXhpc3RzKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZmlsZS5ta2RpcigpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBQ0hFX0RPV05MT0FEX0RJUiA9IENBQ0hFX0RJUiArIEZpbGUuc2VwYXJhdG9yICsgImRvd25sb2FkIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBQ0hFX1NQTEFTSF9ESVIgPSBDQUNIRV9ESVIgKyBGaWxlLnNlcGFyYXRvciArICJzcGxhc2giOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfU0hBUkVfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAic2hhcmUiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfSU1BR0VfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAiaW1hZ2UiOyovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcGtGaWxlLnBhCg==</text>
+        <text encoding="base64">ICAgIC8qcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfRElSID0gRW52aXJvbm1lbnQKICAgICAgICAgICAgLmdldEV4dGVybmFsU3RvcmFnZURpcmVjdG9yeSgpLmdldEFic29sdXRlUGF0aCgpICsgRmlsZS5zZXBhcmF0b3IgKyAiZWxhcHAiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfRE9XTkxPQURfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAiZG93bmxvYWQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfU1BMQVNIX0RJUiA9IENBQ0hFX0RJUiArIEZpbGUuc2VwYXJhdG9yICsgInNwbGFzaCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlucHV0RGlhbG9nID0gZGlhbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShTQVZFX1BBVEgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlucHV0RGlhbG9nLnNldENvbnRlbnRWaWV3KGlucHV0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWZpbGUuZXhpc3RzKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZmlsZS5ta2RpcigpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBuZXcgRWRpdFRleHQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcGtGaWxlLnBhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUlucHV0RGlhbG9nID0gZGlhbG9nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUlucHV0RGlhbG9nLnNldENvbnRlbnRWaWV3KGlucHV0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1JbnB1dERpYWxvZy52aQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBuZXcgRWRpdFRleHQodGhpcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
