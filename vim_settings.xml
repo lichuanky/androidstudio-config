@@ -293,12 +293,12 @@
         <mark key="^" line="83" column="40" />
         <mark key="." line="83" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/Gift/src/main/java/com/easyvaas/common/gift/utils/GiftUtility.java" timestamp="1478658784060">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/Gift/src/main/java/com/easyvaas/common/gift/utils/GiftUtility.java" timestamp="1479193731974">
         <mark key="'" line="36" column="13" />
-        <mark key="[" line="169" column="52" />
-        <mark key="]" line="169" column="50" />
-        <mark key="." line="169" column="50" />
-        <mark key="^" line="169" column="50" />
+        <mark key="[" line="76" column="35" />
+        <mark key="]" line="76" column="50" />
+        <mark key="." line="76" column="50" />
+        <mark key="^" line="76" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/drawable/ic_live_permission.xml" timestamp="1473501584720">
         <mark key="[" line="3" column="33" />
@@ -545,11 +545,10 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/Gift/src/main/java/com/easyvaas/common/gift/utils/FileUtil.java" timestamp="1478657527933">
-        <mark key="[" line="20" column="86" />
-        <mark key="]" line="20" column="86" />
-        <mark key="^" line="47" column="11" />
-        <mark key="." line="20" column="86" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/Gift/src/main/java/com/easyvaas/common/gift/utils/FileUtil.java" timestamp="1479193809714">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/login/activity/LoginMainActivity.java" timestamp="1472365369912">
         <mark key="[" line="20" column="58" />
@@ -910,6 +909,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
+      <file name="$USER_HOME$/android/android-sdk-linux/sources/android-23/android/content/Context.java" timestamp="1479193891335" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/utils/DialogUtil.java" timestamp="1474270806011">
         <mark key="[" line="191" column="0" />
         <mark key="]" line="191" column="0" />
@@ -1076,10 +1076,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldENhY2hlRG93bmxvYWREaXIoQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgcmV0dXJuIGdldENhY2hlRGlyKGNvbnRleHQsIEVudmlyb25tZW50LkRJUkVDVE9SWV9ET1dOTE9BRFMpOwogICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1088,31 +1088,31 @@
         <text encoding="base64">ICAgICAgICBDQUNIRV9JTUFHRV9ESVIgPSBFVkFwcGxpY2F0aW9uLmdldEFwcCgpLmdldEV4dGVybmFsRmlsZXNEaXIoImltYWdlIikuZ2V0QWJzb2x1dGVQYXRoKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldENhY2hlRG93bmxvYWREaXIoQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgcmV0dXJuIGdldENhY2hlRGlyKGNvbnRleHQsIEVudmlyb25tZW50LkRJUkVDVE9SWV9ET1dOTE9BRFMpOwogICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBQ0hFX0RPV05MT0FEX0RJUiA9IENBQ0hFX0RJUiArIEZpbGUuc2VwYXJhdG9yICsgImRvd25sb2FkIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBQ0hFX1NQTEFTSF9ESVIgPSBDQUNIRV9ESVIgKyBGaWxlLnNlcGFyYXRvciArICJzcGxhc2giOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfU0hBUkVfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAic2hhcmUiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfSU1BR0VfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAiaW1hZ2UiOyovCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgZG93bmxvYWRQYXRoID0gQ0FDSEVfQU5JTV9ESVIgKyBGaWxlLnNlcGFyYXRvciArICJhbmltIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfRElSID0gRW52aXJvbm1lbnQKICAgICAgICAgICAgLmdldEV4dGVybmFsU3RvcmFnZURpcmVjdG9yeSgpLmdldEFic29sdXRlUGF0aCgpICsgRmlsZS5zZXBhcmF0b3IgKyAiZWxhcHAiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfRE9XTkxPQURfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAiZG93bmxvYWQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfU1BMQVNIX0RJUiA9IENBQ0hFX0RJUiArIEZpbGUuc2VwYXJhdG9yICsgInNwbGFzaCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENBQ0hFX0RPV05MT0FEX0RJUjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShTQVZFX1BBVEgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWZpbGUuZXhpc3RzKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZmlsZS5ta2RpcigpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDQUNIRV9ET1dOTE9BRF9ESVIgPSAoRW52aXJvbm1lbnQKICAgICAgICAgICAgLmdldEV4dGVybmFsU3RvcmFnZURpcmVjdG9yeSgpLmdldEFic29sdXRlUGF0aCgpICsgRmlsZS5zZXBhcmF0b3IgKyAiZWxhcHAiKSArIEZpbGUuc2VwYXJhdG9yICsgIkRvd25sb2FkIjsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcGtGaWxlLnBhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlucHV0RGlhbG9nID0gZGlhbG9nOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBQ0hFX0RPV05MT0FEX0RJUiA9IENBQ0hFX0RJUiArIEZpbGUuc2VwYXJhdG9yICsgImRvd25sb2FkIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBQ0hFX1NQTEFTSF9ESVIgPSBDQUNIRV9ESVIgKyBGaWxlLnNlcGFyYXRvciArICJzcGxhc2giOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfU0hBUkVfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAic2hhcmUiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfSU1BR0VfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAiaW1hZ2UiOyovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlucHV0RGlhbG9nLnNldENvbnRlbnRWaWV3KGlucHV0KTsK</text>
+        <text encoding="base64">ICAgIC8qcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfRElSID0gRW52aXJvbm1lbnQKICAgICAgICAgICAgLmdldEV4dGVybmFsU3RvcmFnZURpcmVjdG9yeSgpLmdldEFic29sdXRlUGF0aCgpICsgRmlsZS5zZXBhcmF0b3IgKyAiZWxhcHAiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfRE9XTkxPQURfRElSID0gQ0FDSEVfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAiZG93bmxvYWQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0FDSEVfU1BMQVNIX0RJUiA9IENBQ0hFX0RJUiArIEZpbGUuc2VwYXJhdG9yICsgInNwbGFzaCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBuZXcgRWRpdFRleHQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShTQVZFX1BBVEgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
