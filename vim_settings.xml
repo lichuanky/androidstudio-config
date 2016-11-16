@@ -256,7 +256,8 @@
         <mark key="^" line="67" column="44" />
         <mark key="." line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" timestamp="1479212668954">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" timestamp="1479266434383">
+        <mark key="'" line="170" column="96" />
         <mark key="[" line="177" column="56" />
         <mark key="]" line="177" column="56" />
         <mark key="." line="177" column="56" />
@@ -377,7 +378,8 @@
         <mark key="^" line="206" column="88" />
         <mark key="." line="206" column="88" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/IChatHelper.java" timestamp="1479212665183">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/IChatHelper.java" timestamp="1479266353035">
+        <mark key="'" line="65" column="40" />
         <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="24" />
         <mark key="^" line="67" column="24" />
@@ -601,12 +603,12 @@
         <mark key="." line="207" column="36" />
         <mark key="^" line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LiveRoomBaseActivity.java" timestamp="1479265095230">
-        <mark key="'" line="130" column="39" />
-        <mark key="[" line="1434" column="5" />
-        <mark key="]" line="130" column="39" />
-        <mark key="." line="130" column="39" />
-        <mark key="^" line="130" column="39" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LiveRoomBaseActivity.java" timestamp="1479266326806">
+        <mark key="'" line="436" column="44" />
+        <mark key="[" line="429" column="0" />
+        <mark key="]" line="429" column="0" />
+        <mark key="." line="429" column="0" />
+        <mark key="^" line="431" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/usercenter/FriendsUserInfoActivity.java" timestamp="1473498921369">
         <mark key="[" line="159" column="40" />
@@ -784,11 +786,12 @@
         <mark key="^" line="84" column="23" />
         <mark key="." line="85" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/PlayerActivity.java" timestamp="1479213546651">
-        <mark key="[" line="156" column="55" />
-        <mark key="]" line="156" column="78" />
-        <mark key="." line="156" column="78" />
-        <mark key="^" line="156" column="78" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/PlayerActivity.java" timestamp="1479266159747">
+        <mark key="'" line="163" column="4" />
+        <mark key="[" line="326" column="13" />
+        <mark key="]" line="328" column="7" />
+        <mark key="." line="328" column="7" />
+        <mark key="^" line="328" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/values/styles.xml" timestamp="1474176686774">
         <mark key="[" line="66" column="12" />
@@ -916,6 +919,12 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveVideoCallHelper.java" timestamp="1479265667335">
+        <mark key="[" line="66" column="53" />
+        <mark key="]" line="66" column="57" />
+        <mark key="." line="66" column="57" />
+        <mark key="^" line="66" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/Gift/src/main/java/com/easyvaas/common/gift/action/NotificationAction.java" timestamp="1473761790642">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
@@ -931,11 +940,11 @@
       <file name="/Dummy.txt" timestamp="1479212721047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1478673061745">
-        <mark key="[" line="578" column="40" />
-        <mark key="]" line="578" column="40" />
-        <mark key="." line="578" column="40" />
-        <mark key="^" line="578" column="35" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1479266242646">
+        <mark key="[" line="416" column="40" />
+        <mark key="]" line="416" column="40" />
+        <mark key="." line="416" column="40" />
+        <mark key="^" line="416" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharesdk/share/ShareParams.java" timestamp="1478247970614">
         <mark key="[" line="8" column="81" />
@@ -973,12 +982,12 @@
         <mark key="^" line="324" column="48" />
         <mark key="." line="324" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" timestamp="1479265031552">
-        <mark key="'" line="660" column="21" />
-        <mark key="[" line="660" column="17" />
-        <mark key="]" line="660" column="21" />
-        <mark key="." line="660" column="21" />
-        <mark key="^" line="660" column="21" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" timestamp="1479265987431">
+        <mark key="'" line="74" column="29" />
+        <mark key="[" line="441" column="13" />
+        <mark key="]" line="443" column="7" />
+        <mark key="." line="443" column="7" />
+        <mark key="^" line="443" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/hooview/HooViewAndroid/build.gradle" timestamp="1476251225595">
         <mark key="[" line="18" column="25" />
@@ -1071,13 +1080,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
       <jump line="660" column="21" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
       <jump line="130" column="39" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LiveRoomBaseActivity.java" />
+      <jump line="73" column="29" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
+      <jump line="170" column="96" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" />
+      <jump line="436" column="44" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LiveRoomBaseActivity.java" />
+      <jump line="163" column="4" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/PlayerActivity.java" />
+      <jump line="65" column="40" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/IChatHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcGlIZWxwZXIuZ2V0SW5zdGFuY2UoKS52aWRlb0NhbGxBY2NlcHQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1086,28 +1100,28 @@
         <text encoding="base64">ICAgICAgICBMb2dnZXIuZChUQUcsICJDYWxsIEFjY2VwdCAuLiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcGlIZWxwZXIuZ2V0SW5zdGFuY2UoKS52aWRlb0NhbGxBY2NlcHQoKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyByZXF1ZXN0TmFtZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChUQUcsICJDYWxsIFJlcXVlc3Qgbmlja25hbWU6ICIgKyBuaWNrbmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcGlIZWxwZXIuZ2V0SW5zdGFuY2UoKS52aWRlb0NhbGxBY2NlcHQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFZJREVPX0NBTExfRU5BQkxFRCA9IDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGYK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgY2FsbFJlcXVlc3QoKSB7CiAgICAgICAgQXBpSGVscGVyLmdldEluc3RhbmNlKCkudmlkZW9DYWxsUmVxdWVzdChtdmkpOwogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
