@@ -27,7 +27,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1479367965084">
+      <file name="/a.dummy" timestamp="1479372435099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -731,11 +731,12 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479370225487">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479372466360">
         <mark key="'" line="176" column="57" />
-        <mark key="[" line="308" column="16" />
-        <mark key="]" line="310" column="0" />
-        <mark key="." line="310" column="0" />
+        <mark key="[" line="314" column="37" />
+        <mark key="]" line="323" column="0" />
+        <mark key="." line="323" column="0" />
+        <mark key="^" line="323" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
@@ -1168,11 +1169,11 @@
       <jump line="176" column="57" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">ICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1181,32 +1182,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmQoVEFHLCAiT25WaWRlb0NhbGxMaXN0ZW5lciBvbkpvaW4gLi4uIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy4K</text>
+        <text encoding="base64">ICAgICAgICBtSXNSZXF1ZXN0ZWQgPSBmYWxzZTsKICAgICAgICBtSXNJblZpZGVvQ2FsbCA9IGZhbHNlOwogICAgICAgIG1WaWQgPSAiIjsKICAgICAgICBtQ2FsbElkID0gIiI7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>.
-                        mVideoView</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIi8+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb25DYWxsRW5kKGZhbHNlKTsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVsZWFzZSgpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlzUmVxdWVzdGVkID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtSXNSZXF1ZXN0ZWQgPSBmYWxzZTsKICAgICAgICBtSXNJblZpZGVvQ2FsbCA9IGZhbHNlOwogICAgICAgIG1WaWQgPSAiIjsKICAgICAgICBtQ2FsbElkID0gIiI7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVmlkID0gIiI7CiAgICAgICAgbUNhbGxJZCA9ICIiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVmlkID0gIiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNBbmNob3IpIHsKICAgICAgICBWaWRlb0NhbGxIZWxwZXIuZ2V0SW5zdGFuY2UoKS5pbml0QW5jaG9yKHRoaXMsCiAgICAgICAgICAgICAgICAoRnJhbWVMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLnZfY2FsbF9yZW1vdGVfY29udGFpbmVyKSk7Cg==</text>
+      <register name="9" type="4">
+        <text>.
+                        mVideoView</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
