@@ -220,11 +220,11 @@
         <mark key="^" line="12" column="73" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1478594036943">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="138" column="22" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1479362665610">
+        <mark key="[" line="142" column="41" />
+        <mark key="]" line="142" column="42" />
+        <mark key="." line="142" column="42" />
+        <mark key="^" line="142" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/net/OkHttpRequest.java" timestamp="1479210768165">
         <mark key="[" line="50" column="0" />
@@ -1139,11 +1139,11 @@
       <jump line="214" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtSW5zdGFuY2UK</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
