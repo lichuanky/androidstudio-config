@@ -678,12 +678,12 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479379706321">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479379749127">
         <mark key="'" line="287" column="34" />
-        <mark key="[" line="168" column="51" />
-        <mark key="]" line="168" column="51" />
-        <mark key="." line="168" column="51" />
-        <mark key="^" line="168" column="41" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
+        <mark key="^" line="162" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
@@ -1110,44 +1110,44 @@
       <jump line="287" column="34" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihpbnQgaSwgU3RyaW5nIHMpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibXNnX25vX25lZWRfcmVxdWVzdF90d2ljZSI+5oKo5bey57uP55Sz6K+36L+H55Sz6L+e6bqm5LqG77yM5peg6ZyA6YeN5aSN55Sz6K+3PC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihpbnQgY29kZSwgU3RyaW5nIG1lc3NhZ2UpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM2NmYyMzUxOCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihpbnQgaSwgU3RyaW5nIHMpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209Ijg4ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM2NmYyMzUxOCIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM2Njc3ZjIxOCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209Ijg4ZHAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM2Njc3ZjIxOCIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBWaWRlb0NhbGxIZWxwZXIuZ2V0SW5zdGFuY2UoKS5yZWxlYXNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBWaWRlb0NhbGxIZWxwZXIuZ2V0SW5zdGFuY2UoKS5yZWxlYXNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWaWRlb0NhbGxIZWxwZXIuZ2V0SW5zdGFuY2UoKS5yZWxlYXNlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5kKFRBRywgIm9uRmlyc3RMb2NhbFZpZGVvRnJhbWUgLi4uICIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5kKFRBRywgIm9uRmlyc3RMb2NhbFZpZGVvRnJhbWUgLi4uICIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
