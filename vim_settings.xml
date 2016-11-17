@@ -397,11 +397,11 @@
         <mark key="^" line="67" column="24" />
         <mark key="." line="67" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/activity_player.xml" timestamp="1479369836638">
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="34" column="46" />
-        <mark key="." line="34" column="46" />
-        <mark key="^" line="34" column="3" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/activity_player.xml" timestamp="1479370762945">
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="33" column="46" />
+        <mark key="." line="33" column="46" />
+        <mark key="^" line="33" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatRedPackInfoEntity.java" timestamp="1474284182397">
         <mark key="[" line="9" column="0" />
@@ -834,11 +834,11 @@
         <mark key="^" line="84" column="23" />
         <mark key="." line="85" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/PlayerActivity.java" timestamp="1479370294687">
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="72" />
-        <mark key="." line="223" column="0" />
-        <mark key="^" line="216" column="68" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/PlayerActivity.java" timestamp="1479370887972">
+        <mark key="[" line="213" column="42" />
+        <mark key="]" line="214" column="45" />
+        <mark key="." line="214" column="45" />
+        <mark key="^" line="214" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/values/styles.xml" timestamp="1474176686774">
         <mark key="[" line="66" column="12" />
@@ -1169,10 +1169,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmQoVEFHLCAiT25WaWRlb0NhbGxMaXN0ZW5lciBvbkpvaW4gLi4uIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy4K</text>
       </register>
       <register name="-" type="4">
-        <text>VISIBLE</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1181,31 +1181,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmQoVEFHLCAiT25WaWRlb0NhbGxMaXN0ZW5lciBvbkpvaW4gLi4uIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25DYWxsRW5kKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlzUmVxdWVzdGVkID0gZmFsc2U7Cg==</text>
+      <register name="2" type="4">
+        <text>.
+                        mVideoView</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIi8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25DYWxsRW5kKGZhbHNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUlzUmVxdWVzdGVkID0gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNBbmNob3IpIHsKICAgICAgICBWaWRlb0NhbGxIZWxwZXIuZ2V0SW5zdGFuY2UoKS5pbml0QW5jaG9yKHRoaXMsCiAgICAgICAgICAgICAgICAoRnJhbWVMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLnZfY2FsbF9yZW1vdGVfY29udGFpbmVyKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNBbmNob3IpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoRnJhbWVMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLnZfY2FsbF9yZW1vdGVfY29udGFpbmVyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNBbmNob3IpIHsKICAgICAgICBWaWRlb0NhbGxIZWxwZXIuZ2V0SW5zdGFuY2UoKS5pbml0QW5jaG9yKHRoaXMsCiAgICAgICAgICAgICAgICAoRnJhbWVMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLnZfY2FsbF9yZW1vdGVfY29udGFpbmVyKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
