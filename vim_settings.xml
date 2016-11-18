@@ -677,11 +677,11 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479437319323">
-        <mark key="'" line="194" column="16" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="38" />
-        <mark key="." line="216" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479438384636">
+        <mark key="'" line="195" column="16" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="35" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
@@ -1111,7 +1111,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQ2FsbENhbmNlbChtVmlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyLm9uTGVhdmUoKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -1120,7 +1120,7 @@
         <text>ret_obj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQ2FsbENhbmNlbChtVmlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyLm9uTGVhdmUoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQ2FsbENhbmNlbChtVmlkKTsK</text>
