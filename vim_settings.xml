@@ -677,11 +677,11 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479436040013">
-        <mark key="'" line="193" column="16" />
-        <mark key="[" line="272" column="8" />
-        <mark key="]" line="272" column="8" />
-        <mark key="." line="272" column="8" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479437319323">
+        <mark key="'" line="194" column="16" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="38" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
@@ -1110,8 +1110,8 @@
       <jump line="192" column="16" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQ2FsbENhbmNlbChtVmlkKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -1120,34 +1120,34 @@
         <text>ret_obj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Jc0luVmlkZW9DYWxsID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQ2FsbENhbmNlbChtVmlkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQ2FsbENhbmNlbChtVmlkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KG1DYWxsSWQpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KG1DYWxsSWQpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVJlcXVlc3RVc2Vycy5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVJlcXVlc3RVc2Vycy5jbGVhcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zdG9wQmFja2dyb3VuZFBsYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zdG9wUGxheWJhY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zdG9wQmFja2dyb3VuZFBsYXkoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUVWUGxheWVyLndhdGNoU3RvcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zdG9wUGxheWJhY2soKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
