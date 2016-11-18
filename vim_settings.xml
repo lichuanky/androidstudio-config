@@ -27,7 +27,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1479372435099">
+      <file name="/a.dummy" timestamp="1479436042844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -350,7 +350,6 @@
         <mark key="^" line="139" column="27" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build/intermediates/exploded-aar/com.easyvaas.sdk/evlive/1.0.21/jars/classes.jar!/com/easyvaas/sdk/live/wrapper/EVLive.class" timestamp="1479365427154" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatStatusEntity.java" timestamp="1479212372622">
         <mark key="[" line="43" column="5" />
         <mark key="]" line="15" column="60" />
@@ -678,9 +677,11 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479384956033">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479436040013">
         <mark key="'" line="193" column="16" />
-        <mark key="[" line="148" column="39" />
+        <mark key="[" line="272" column="8" />
+        <mark key="]" line="272" column="8" />
+        <mark key="." line="272" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
@@ -1109,11 +1110,11 @@
       <jump line="192" column="16" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1122,31 +1123,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1Jc0luVmlkZW9DYWxsID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVJlcXVlc3RVc2Vycy5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KG1DYWxsSWQpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVJlcXVlc3RVc2Vycy5jbGVhcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zdG9wQmFja2dyb3VuZFBsYXkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zdG9wUGxheWJhY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUVWUGxheWVyLndhdGNoU3RvcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zdG9wQmFja2dyb3VuZFBsYXkoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihpbnQgaSwgU3RyaW5nIHMpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZGVvVmlldy5zdG9wUGxheWJhY2soKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiM2NmYyMzUxOCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUVWUGxheWVyLndhdGNoU3RvcCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
