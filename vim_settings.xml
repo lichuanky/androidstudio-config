@@ -681,12 +681,12 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479802072030">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="321" column="45" />
-        <mark key="]" line="321" column="43" />
-        <mark key="." line="321" column="43" />
-        <mark key="^" line="321" column="43" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479803827011">
+        <mark key="'" line="155" column="19" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="35" />
+        <mark key="." line="188" column="0" />
+        <mark key="^" line="233" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
@@ -1117,13 +1117,14 @@
       <jump line="145" column="43" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" />
       <jump line="241" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" />
+      <jump line="155" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyLm9uTGVhdmUoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1132,31 +1133,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1FVlZDYWxsTGl2ZS5lbmRJbnRlcmFjdGl2ZUxpdmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyLm9uTGVhdmUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1FVlZDYWxsTGl2ZS5lbmRJbnRlcmFjdGl2ZUxpdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlkID0gdmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1FVlZDYWxsTGl2ZS5lbmRJbnRlcmFjdGl2ZUxpdmUoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBtVmlkID0gdmlkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtRVZWQ2FsbExpdmUudmkK</text>
+        <text encoding="base64">ICAgICAgICBtVmlkID0gdmlkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtRVZWQ2FsbExpdmUudmkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uQ29ubmVjdEJ1dHRvbkNsaWNrKCkgewogICAgICAgIG9uQ29ubmVjdEJ1dHRvbkNsaWNrKCIiKTsKICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uQ29ubmVjdEJ1dHRvbkNsaWNrKCkgewogICAgICAgIG9uQ29ubmVjdEJ1dHRvbkNsaWNrKCIiKTsKICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
