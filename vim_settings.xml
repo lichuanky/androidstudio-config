@@ -681,12 +681,12 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479812456651">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479813450207">
         <mark key="'" line="156" column="19" />
-        <mark key="[" line="355" column="0" />
-        <mark key="]" line="355" column="0" />
-        <mark key="^" line="361" column="27" />
-        <mark key="." line="355" column="0" />
+        <mark key="[" line="337" column="12" />
+        <mark key="]" line="337" column="15" />
+        <mark key="^" line="337" column="15" />
+        <mark key="." line="339" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
@@ -1120,11 +1120,11 @@
       <jump line="155" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlzSW5WaWRlb0NhbGwgPSBmYWxzZTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYgKG1Jc0luVmlkZW9DYWxsICYmIG5hbWUuZXF1YWxzKG1SZXF1ZXN0ZXIpKSB7CiAgICAgICAgICAgIGVuZEludGVyYWN0aXZlTGl2ZSgpOwogICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1132,32 +1132,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbGVhc2UoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlzSW5WaWRlb0NhbGwgPSBmYWxzZTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKG1Jc0luVmlkZW9DYWxsICYmIG5hbWUuZXF1YWxzKG1SZXF1ZXN0ZXIpKSB7CiAgICAgICAgICAgIGVuZEludGVyYWN0aXZlTGl2ZSgpOwogICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZ2dsZVJlcXVlc3RWaWV3KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIW1Jc1JlcXVlc3RlZCAmJiAhbUlzSW5WaWRlb0NhbGwpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RlbmVyLm9uTGVhdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChCYXNlVXNlckVudGl0eSB1IDogbVJlcXVlc3RVc2VycykgewogICAgICAgICAgICAgICAgaWYgKHUuZ2V0TmFtZSgpLmVxdWFscyhuYW1lKSkgewogICAgICAgICAgICAgICAgICAgIG1SZXF1ZXN0VXNlcnMucmVtb3ZlKHUpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      <register name="6" type="4">
+        <text>if (mIsAnchor) {
+            for (BaseUserEntity u : mRequestUsers) {
+                if (u.getName().equals(name)) {
+                    mRequestUsers.remove(u);
+                    break;
+                }
+            }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHZpZGVvQ2FsbENhbmNlbCgpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUlzSW5WaWRlb0NhbGwgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1Jc0FuY2hvcikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZ2dsZVJlcXVlc3RWaWV3KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQ2FsbEVuZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
