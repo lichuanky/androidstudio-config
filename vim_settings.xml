@@ -682,12 +682,11 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVMessage/src/com/easyvaas/sdk/message/base/EVMessageBase.java" timestamp="1479703487584" />
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479697298613">
-        <mark key="[" line="276" column="58" />
-        <mark key="]" line="276" column="58" />
-        <mark key="^" line="276" column="58" />
-        <mark key="." line="276" column="58" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1479797427963">
+        <mark key="[" line="278" column="68" />
+        <mark key="]" line="279" column="8" />
+        <mark key="^" line="279" column="8" />
+        <mark key="." line="279" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
