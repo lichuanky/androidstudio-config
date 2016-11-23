@@ -27,7 +27,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1479706105950">
+      <file name="/a.dummy" timestamp="1479872249813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -559,6 +559,7 @@
         <mark key="^" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVPlayer/src/com/easyvaas/sdk/player/EVPlayer.java" timestamp="1479871843972" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/utils/GroupUtil.java" timestamp="1474179979649">
         <mark key="[" line="49" column="63" />
         <mark key="]" line="49" column="63" />
@@ -922,7 +923,7 @@
         <mark key="." line="20" column="64" />
         <mark key="^" line="20" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479870303097">
+      <file name="/Dummy.txt" timestamp="1479871968976">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -958,7 +959,7 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/src/com/easyvaas/sdk/core/net/Constants.java" timestamp="1479869737004" />
+      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/src/com/easyvaas/sdk/core/net/Constants.java" timestamp="1479872285414" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/item_chat_contact.xml" timestamp="1473324153275">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="24" column="35" />
