@@ -27,7 +27,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1479986258341">
+      <file name="/a.dummy" timestamp="1479987117189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -888,6 +888,7 @@
         <mark key="^" line="108" column="42" />
         <mark key="." line="109" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/demo/src/main/res/values/strings.xml" timestamp="1479987141544" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/res/layout/fragment_message.xml" timestamp="1473905465642">
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="26" />
@@ -959,6 +960,9 @@
         <mark key="]" line="8" column="47" />
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
+      </file>
+      <file name="/a.regexp" timestamp="1479987128818">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/item_chat_contact.xml" timestamp="1473324153275">
         <mark key="[" line="24" column="29" />
