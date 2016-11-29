@@ -230,12 +230,12 @@
         <mark key="^" line="12" column="73" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1480389303595">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1480391838812">
         <mark key="'" line="20" column="4" />
-        <mark key="[" line="139" column="42" />
-        <mark key="]" line="139" column="42" />
-        <mark key="." line="139" column="42" />
-        <mark key="^" line="139" column="42" />
+        <mark key="[" line="136" column="44" />
+        <mark key="]" line="136" column="44" />
+        <mark key="." line="136" column="44" />
+        <mark key="^" line="136" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/net/OkHttpRequest.java" timestamp="1479210768165">
         <mark key="[" line="50" column="0" />
@@ -827,10 +827,10 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/build.gradle" timestamp="1479122427874">
-        <mark key="[" line="31" column="40" />
-        <mark key="]" line="31" column="40" />
-        <mark key="." line="31" column="40" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/build.gradle" timestamp="1480392195983">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
         <mark key="^" line="31" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/HomeTopicAdapterItem.java" timestamp="1473663540856">
@@ -1122,10 +1122,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
