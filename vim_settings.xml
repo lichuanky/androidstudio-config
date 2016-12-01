@@ -417,6 +417,7 @@
         <mark key="^" line="65" column="112" />
         <mark key="." line="65" column="112" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/live_top_anchor_info.xml" timestamp="1480590873185" />
       <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVLiveBase/gradle.properties" timestamp="1477470542180">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="25" />
@@ -458,6 +459,12 @@
         <mark key="]" line="147" column="59" />
         <mark key="^" line="147" column="59" />
         <mark key="." line="147" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/live_bottom_user_info.xml" timestamp="1480590861754">
+        <mark key="[" line="76" column="32" />
+        <mark key="]" line="76" column="31" />
+        <mark key="^" line="76" column="31" />
+        <mark key="." line="76" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/wxapi/WXPayEntryActivity.java" timestamp="1478593591011">
         <mark key="[" line="26" column="46" />
@@ -609,7 +616,7 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LiveRoomBaseActivity.java" timestamp="1480585843645">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LiveRoomBaseActivity.java" timestamp="1480590416626">
         <mark key="'" line="1031" column="29" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -950,12 +957,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1479376260468">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1480589888466">
         <mark key="'" line="60" column="88" />
-        <mark key="[" line="207" column="22" />
-        <mark key="]" line="207" column="22" />
-        <mark key="." line="207" column="22" />
-        <mark key="^" line="207" column="50" />
+        <mark key="[" line="273" column="36" />
+        <mark key="]" line="273" column="36" />
+        <mark key="." line="273" column="36" />
+        <mark key="^" line="273" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharesdk/share/ShareParams.java" timestamp="1478247970614">
         <mark key="[" line="8" column="81" />
@@ -981,12 +988,12 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" timestamp="1480589283815">
-        <mark key="'" line="324" column="54" />
-        <mark key="[" line="182" column="88" />
-        <mark key="]" line="183" column="39" />
-        <mark key="^" line="183" column="39" />
-        <mark key="." line="183" column="39" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" timestamp="1480591051467">
+        <mark key="'" line="183" column="39" />
+        <mark key="[" line="217" column="92" />
+        <mark key="]" line="218" column="43" />
+        <mark key="^" line="218" column="43" />
+        <mark key="." line="218" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/item_chat_contact.xml" timestamp="1473324153275">
         <mark key="[" line="24" column="29" />
@@ -1150,46 +1157,47 @@
       <jump line="324" column="54" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
       <jump line="191" column="46" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" />
       <jump line="56" column="43" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/ShutUpHelper.java" />
+      <jump line="183" column="39" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UmVsYXRlZCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXBvcnRUdi5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVsYXRlZCA=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IENvbW1vbiBSZWxhdGVkIE1ldGhvZCA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobVByZWYuZ2V0VXNlck51bWJlcigpLmVxdWFscyh1c2VyLmdldE5hbWUoKSkpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXBvcnRUdi5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobVByZWYuZ2V0VXNlck51bWJlcigpLmVxdWFscyh1c2VyLmdldE5hbWUoKSkpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlckxpc3QgPSBtTWFuYWdlckxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobVByZWYuZ2V0VXNlck51bWJlcigpLmVxdWFscyh1c2VyLmdldE5hbWUoKSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVwb3J0VHYuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAodHlwZSA9PSBUWVBFX1NIVVRVUCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyTGlzdCA9IG1TaHV0VXBMaXN0OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAodHlwZSA9PSBUWVBFX0tJQ0spIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlckxpc3QgPSBtS2lja0xpc3Q7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmICh0eXBlID09IFRZUEVfTUFOQUdFUikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maW5kVmlld0J5SWQoUi5pZC5wbGF5ZXJfcmVwb3J0X2J0bik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIHNodXRVcCA9IHNodXRVcFR2LmdldENvbnRleHQoKS5nZXRTdHJpbmcoUi5zdHJpbmcuc2h1dF91cCkuZXF1YWxzKHNodXRVcFR2LmdldFRleHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5hbCBUZXh0VmlldyByZXBvcnRUdiA9IChUZXh0VmlldykgcG9wdXBWaWV3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3J0VHYuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3J0VHYuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IE1hbmFnZXIgUmVsYXRlZCBNZXRob2QgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAobVByZWYuZ2V0VXNlck51bWJlcigpLmVxdWFscyh1c2VyLmdldE5hbWUoKSkpIHsKICAgICAgICAgICAgZm9sbG93Vmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7CiAgICAgICAgICAgIHJlcG9ydFR2LnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
