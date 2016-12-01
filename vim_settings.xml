@@ -159,6 +159,7 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build/intermediates/exploded-aar/com.easyvaas.sdk/evmessage/1.0.16/jars/classes.jar!/com/easyvaas/sdk/message/wrapper/EVMessage.class" timestamp="1480577431839" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/HeaderFieldVideoAdapterItem.java" timestamp="1473745592197">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -260,7 +261,7 @@
         <mark key="." line="29" column="41" />
         <mark key="^" line="29" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" timestamp="1480576281822">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" timestamp="1480577485682">
         <mark key="'" line="170" column="96" />
         <mark key="[" line="170" column="96" />
         <mark key="]" line="170" column="96" />
