@@ -296,12 +296,12 @@
         <mark key="^" line="83" column="40" />
         <mark key="." line="83" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/ShutUpHelper.java" timestamp="1480589327828">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/ShutUpHelper.java" timestamp="1480651949604">
         <mark key="'" line="56" column="43" />
-        <mark key="[" line="111" column="49" />
-        <mark key="]" line="87" column="18" />
-        <mark key="^" line="87" column="18" />
-        <mark key="." line="87" column="18" />
+        <mark key="[" line="135" column="45" />
+        <mark key="]" line="135" column="45" />
+        <mark key="^" line="134" column="44" />
+        <mark key="." line="135" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/drawable/ic_live_permission.xml" timestamp="1473501584720">
         <mark key="[" line="3" column="33" />
@@ -461,10 +461,10 @@
         <mark key="." line="147" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/live_bottom_user_info.xml" timestamp="1480590861754">
-        <mark key="[" line="76" column="32" />
-        <mark key="]" line="76" column="31" />
-        <mark key="^" line="76" column="31" />
-        <mark key="." line="76" column="31" />
+        <mark key="[" line="77" column="32" />
+        <mark key="]" line="77" column="31" />
+        <mark key="^" line="77" column="31" />
+        <mark key="." line="77" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/wxapi/WXPayEntryActivity.java" timestamp="1478593591011">
         <mark key="[" line="26" column="46" />
@@ -617,7 +617,6 @@
         <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LiveRoomBaseActivity.java" timestamp="1480592136003">
-        <mark key="'" line="1031" column="29" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
@@ -1163,11 +1162,11 @@
       <jump line="125" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>vi</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vi</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
