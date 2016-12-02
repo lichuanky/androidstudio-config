@@ -949,17 +949,17 @@
         <mark key="." line="20" column="64" />
         <mark key="^" line="20" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480658038397">
+      <file name="/Dummy.txt" timestamp="1480662010821">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1480661090916">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1480662126047">
         <mark key="'" line="60" column="88" />
-        <mark key="[" line="208" column="42" />
-        <mark key="]" line="208" column="42" />
-        <mark key="." line="208" column="42" />
-        <mark key="^" line="208" column="39" />
+        <mark key="[" line="273" column="36" />
+        <mark key="]" line="273" column="36" />
+        <mark key="." line="273" column="36" />
+        <mark key="^" line="273" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharesdk/share/ShareParams.java" timestamp="1478247970614">
         <mark key="[" line="8" column="81" />
@@ -985,12 +985,12 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" timestamp="1480660666524">
-        <mark key="'" line="234" column="20" />
-        <mark key="[" line="51" column="37" />
-        <mark key="]" line="125" column="31" />
-        <mark key="." line="125" column="31" />
-        <mark key="^" line="125" column="31" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" timestamp="1480662340729">
+        <mark key="'" line="254" column="20" />
+        <mark key="[" line="153" column="29" />
+        <mark key="]" line="151" column="29" />
+        <mark key="." line="151" column="29" />
+        <mark key="^" line="151" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/item_chat_contact.xml" timestamp="1473324153275">
         <mark key="[" line="24" column="29" />
@@ -1059,7 +1059,7 @@
         <mark key="^" line="30" column="68" />
         <mark key="." line="30" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1480658038402">
+      <file name="/fragment.java" timestamp="1480662010824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -1169,16 +1169,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shutup</text>
+        <text>MANAGER</text>
       </register>
       <register name="-" type="4">
-        <text>shutup</text>
+        <text>MANAGER</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibXNnX2Rpc2Nvbm5lY3RfdmlkZW9fY2FsbCI+57uT5p2f5b2T5YmN6L+e6bqmPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ia2lja191c2VyIj7ouKLkuro8L3N0cmluZz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
