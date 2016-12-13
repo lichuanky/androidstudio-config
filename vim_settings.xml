@@ -189,6 +189,11 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/vrdemo/Demo/src/com/demo/panoplayer/PlayerActivity.java" timestamp="1481614836199">
+        <mark key="[" line="151" column="52" />
+        <mark key="]" line="151" column="52" />
+        <mark key="." line="151" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/pay/AlipayHelper.java" timestamp="1473840891796">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -484,6 +489,9 @@
         <mark key="]" line="87" column="65" />
         <mark key="." line="87" column="65" />
         <mark key="^" line="87" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/vrdemo/Demo/AndroidManifest.xml" timestamp="1481614557408">
+        <mark key="'" line="36" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/pay/adapter/CashInAmountAdapter.java" timestamp="1473845176165">
         <mark key="[" line="29" column="43" />
@@ -1037,7 +1045,7 @@
         <mark key="^" line="30" column="68" />
         <mark key="." line="30" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1480662010824">
+      <file name="/fragment.java" timestamp="1481614883035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -1144,13 +1152,14 @@
       <jump line="228" column="56" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
       <jump line="235" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
       <jump line="76" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" />
+      <jump line="36" column="28" filename="$USER_HOME$/workspace/yzb/vrdemo/Demo/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>currentViewMode</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>currentViewMode</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
