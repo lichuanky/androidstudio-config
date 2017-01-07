@@ -801,12 +801,12 @@
         <mark key="^" line="99" column="44" />
         <mark key="." line="99" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/market/ExponentStockDetailActivity.java" timestamp="1483787985536">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/market/ExponentStockDetailActivity.java" timestamp="1483788280104">
         <mark key="'" line="240" column="0" />
-        <mark key="[" line="128" column="41" />
-        <mark key="]" line="129" column="31" />
-        <mark key="." line="129" column="31" />
-        <mark key="^" line="129" column="31" />
+        <mark key="[" line="121" column="103" />
+        <mark key="]" line="121" column="103" />
+        <mark key="." line="121" column="103" />
+        <mark key="^" line="106" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/android/oupai/yzb-app/src/com/ccvideo/wxapi/WXPayEntryActivity.java" timestamp="1473845928314">
         <mark key="[" line="0" column="0" />
@@ -1239,10 +1239,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzaWRcPg==</text>
