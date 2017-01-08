@@ -570,12 +570,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/common/WebDetailActivity.java" timestamp="1483857452692">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/common/WebDetailActivity.java" timestamp="1483882225725">
         <mark key="'" line="120" column="57" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="133" column="69" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="143" column="63" />
+        <mark key="]" line="143" column="63" />
+        <mark key="." line="143" column="63" />
+        <mark key="^" line="143" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/build/intermediates/exploded-aar/android/EasyChat/unspecified/res/layout/chat_view_rcv_pull_load.xml" timestamp="1473323438196">
         <mark key="[" line="7" column="25" />
@@ -1005,6 +1005,7 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lzyzsd/jsbridge/1.0.4/d4e8d67538046589736f6c9504e6bbcf5e0d8de5/jsbridge-1.0.4-sources.jar!/com/github/lzyzsd/jsbridge/BridgeWebView.java" timestamp="1483882147851" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/values/styles.xml" timestamp="1474176686774">
         <mark key="[" line="66" column="12" />
         <mark key="]" line="57" column="0" />
@@ -1258,43 +1259,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev.yizhibo.tv/hooview/stock&quot;;</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>dev.yizhibo.tv/hooview/stock&quot;;</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzaWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERFVEFJTF9XRUJfSE9TVCA9ICJodHRwOi8vZGV2LnlpemhpYm8udHYvaG9vdmlldy9zdG9jayI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBuZXdzSWQgPSBKc29uUGFyc2VyVXRpbC5nZXRTdHJpbmcoZGF0YSwgIm5ld3NpZCIpOwogICAgICAgICAgICAgICAgU3RyaW5nIHRpdGxlID0gSnNvblBhcnNlclV0aWwuZ2V0U3RyaW5nKGRhdGEsICJ0aXRsZSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc3RhcnROZXdzRGV0YWlsKENvbnRleHQgY29udGV4dCwgU3RyaW5nIHRpdGxlLCBTdHJpbmcgbmV3c0lkKSB7CiAgICAgICAgSW50ZW50IHN0YXJ0ZXIgPSBuZXcgSW50ZW50KGNvbnRleHQsIFdlYkRldGFpbEFjdGl2aXR5LmNsYXNzKTsKICAgICAgICBzdGFydGVyLnB1dEV4dHJhKEVYVFJBX05BTUUsIHRpdGxlKTsKICAgICAgICBzdGFydGVyLnB1dEV4dHJhKEVYVFJBX0NPREUsIG5ld3NJZCk7CiAgICAgICAgc3RhcnRlci5wdXRFeHRyYShFWFRSQV9UWVBFLCBUWVBFX05FV1MpOwogICAgICAgIGNvbnRleHQuc3RhcnRBY3Rpdml0eShzdGFydGVyKTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGhhbmRsZXIoU3RyaW5nIGRhdGEsIENhbGxCYWNrRnVuY3Rpb24gZnVuY3Rpb24pIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc3RhcnRTdG9ja0RldGFpbChDb250ZXh0IGNvbnRleHQsIFN0cmluZyBuYW1lLCBTdHJpbmcgY29kZSwgYm9vbGVhbiBpc1N0b2NrKSB7CiAgICAgICAgSW50ZW50IHN0YXJ0ZXIgPSBuZXcgSW50ZW50KGNvbnRleHQsIFdlYkRldGFpbEFjdGl2aXR5LmNsYXNzKTsKICAgICAgICBzdGFydGVyLnB1dEV4dHJhKEVYVFJBX05BTUUsIG5hbWUpOwogICAgICAgIHN0YXJ0ZXIucHV0RXh0cmEoRVhUUkFfQ09ERSwgY29kZSk7CiAgICAgICAgc3RhcnRlci5wdXRFeHRyYShFWFRSQV9UWVBFLCBpc1N0b2NrID8gVFlQRV9TVE9DSyA6IFRZUEVfRVhQT05FTlQpOwogICAgICAgIGNvbnRleHQuc3RhcnRBY3Rpdml0eShzdGFydGVyKTsKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgV2ViRGV0YWlsQWN0aXZpdHkK</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBjbGFzcyBNeUJyaWRnZUhhbmRsZXIgaW1wbGVtZW50cyBCcmlkZ2VIYW5kbGVyIHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBoYW5kbGVyKFN0cmluZyBkYXRhLCBDYWxsQmFja0Z1bmN0aW9uIGZ1bmN0aW9uKSB7CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdlYkRldGFpbEFjdGl2aXR5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gV2ViRGV0YWlsQWN0aXZpdHkuVFlQRV9TVE9DSyA6IFdlYkRldGFpbEFjdGl2aXR5LlRZUEVfRVhQT05FTlQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc3RhcnROZXdzRGV0YWlsKENvbnRleHQgY29udGV4dCwgU3RyaW5nIHRpdGxlLCBTdHJpbmcgbmV3c0lkKSB7CiAgICAgICAgSW50ZW50IHN0YXJ0ZXIgPSBuZXcgSW50ZW50KGNvbnRleHQsIFdlYkRldGFpbEFjdGl2aXR5LmNsYXNzKTsKICAgICAgICBzdGFydGVyLnB1dEV4dHJhKEVYVFJBX05BTUUsIHRpdGxlKTsKICAgICAgICBzdGFydGVyLnB1dEV4dHJhKEVYVFJBX0NPREUsIG5ld3NJZCk7CiAgICAgICAgc3RhcnRlci5wdXRFeHRyYShFWFRSQV9UWVBFLCBUWVBFX05FV1MpOwogICAgICAgIGNvbnRleHQuc3RhcnRBY3Rpdml0eShzdGFydGVyKTsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
