@@ -380,6 +380,11 @@
         <mark key="^" line="84" column="23" />
         <mark key="." line="85" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/PlayerActivity.java" timestamp="1483946818843">
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="13" />
+        <mark key="." line="42" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatGiftEntity.java" timestamp="1474284013074">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -1257,11 +1262,11 @@
       <jump line="162" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/adapter/recycler/ChineseMarketListAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRXhwb25lbnRTdG9ja0RldGFpbEFjdGl2aXR5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN0YXJ0RXhwb25lbnREZXRhaWwodi5nZXRDb250ZXh0KCksIG1vZGVsLmdldE5hbWUoKSwgbW9kZWwuZ2V0Q29kZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>P</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzaWRcPg==</text>
