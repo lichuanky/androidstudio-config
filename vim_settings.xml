@@ -848,11 +848,12 @@
         <mark key="^" line="100" column="16" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/SplashActivity.java" timestamp="1483787287552">
-        <mark key="[" line="323" column="12" />
-        <mark key="]" line="323" column="13" />
-        <mark key="^" line="323" column="13" />
-        <mark key="." line="323" column="13" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/SplashActivity.java" timestamp="1484050878909">
+        <mark key="'" line="240" column="12" />
+        <mark key="[" line="51" column="53" />
+        <mark key="]" line="51" column="53" />
+        <mark key="." line="51" column="53" />
+        <mark key="^" line="51" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/ExponentCellView.java" timestamp="1483778732207">
         <mark key="[" line="12" column="38" />
@@ -1160,10 +1161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="405" column="4" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DialogUtil.java" />
-      <jump line="214" column="41" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" />
-      <jump line="468" column="0" filename="$USER_HOME$/workspace/yzb/oupai/android/oupai/yzb-app/src/com/yizhibo/video/net/ChatHelper.java" />
-      <jump line="341" column="44" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/UpdateManager.java" />
       <jump line="274" column="29" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/UpdateManager.java" />
       <jump line="268" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/UpdateManager.java" />
       <jump line="321" column="33" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/UpdateManager.java" />
@@ -1260,13 +1257,17 @@
       <jump line="31" column="23" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/common/WebDetailActivity.java" />
       <jump line="137" column="57" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/common/WebDetailActivity.java" />
       <jump line="162" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/adapter/recycler/ChineseMarketListAdapter.java" />
+      <jump line="314" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/SplashActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/SplashActivity.java" />
+      <jump line="244" column="12" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/SplashActivity.java" />
+      <jump line="240" column="12" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/SplashActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>P</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzaWRcPg==</text>
@@ -1275,31 +1276,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBuZXdzSWQgPSBKc29uUGFyc2VyVXRpbC5nZXRTdHJpbmcoZGF0YSwgIm5ld3NpZCIpOwogICAgICAgICAgICAgICAgU3RyaW5nIHRpdGxlID0gSnNvblBhcnNlclV0aWwuZ2V0U3RyaW5nKGRhdGEsICJ0aXRsZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRXhwb25lbnRTdG9ja0RldGFpbEFjdGl2aXR5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN0YXJ0RXhwb25lbnREZXRhaWwodi5nZXRDb250ZXh0KCksIG1vZGVsLmdldE5hbWUoKSwgbW9kZWwuZ2V0Q29kZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlbnQgaW50IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZWxsVmlldy5zZXRDYXJkQmFja2dyb3VuZENvbG9yKFIuY29sb3IuZXhwb25lbnRfdXApOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBjZWxsVmlldy5zZXRDYXJkQmFja2dyb3VuZENvbG9yKFIuY29sb3IuZXhwb25lbnRfZG93bik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoQ29uc3RhbnRzLkVYVFJBX0tFWV9JU19GUk9NX1NQTEFTSCwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgY2VsbFZpZXcuc2V0Q2FyZEJhY2tncm91bmRDb2xvcihSLmNvbG9yLmV4cG9uZW50X2Rvd24pOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoQ29uc3RhbnRzLkVYVFJBX0tFWV9JU19GUk9NX1NQTEFTSCwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZWxsVmlldy5zZXRDYXJkQmFja2dyb3VuZENvbG9yKFIuY29sb3IuZXhwb25lbnRfZG93bik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudChhY3Rpdml0eSwgSG9tZVRhYkFjdGl2aXR5LmNsYXNzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFpbkFjdGl2aXR5LnN0YXJ0KGFjdGl2aXR5LCBNYWluQWN0aXZpdHkuVEFCX05FV1MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS5zdGFydEFjdGl2aXR5KGludGVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGhhbmRsZXIoU3RyaW5nIGRhdGEsIENhbGxCYWNrRnVuY3Rpb24gZnVuY3Rpb24pIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS5zdGFydEFjdGl2aXR5KGludGVudCk7CiAgICAgICAgICAgICAgICAgICAgICAgIE1haW5BY3Rpdml0eS5zdGFydChhY3Rpdml0eSwgTWFpbkFjdGl2aXR5LlRBQl9ORVdTKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYWN0aXZpdHkubUlzTG9naW4pIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBtSXNMb2dpbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
