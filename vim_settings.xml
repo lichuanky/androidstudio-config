@@ -817,6 +817,11 @@
         <mark key="^" line="11" column="58" />
         <mark key="." line="11" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/net/ApiConstant.java" timestamp="1484728695486">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/wxapi/WXEntryActivity.java" timestamp="1478573893407">
         <mark key="[" line="30" column="48" />
         <mark key="]" line="30" column="52" />
@@ -931,6 +936,7 @@
         <mark key="^" line="231" column="60" />
         <mark key="." line="231" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/proguard-rules.txt" timestamp="1484729022156" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/lib/JPush/JpushConfig.php" timestamp="1477993677401">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1244,8 +1250,8 @@
       <jump line="240" column="12" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/SplashActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5lbGFwcC5CdWlsZENvbmZpZzsK</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -1257,34 +1263,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBuZXdzSWQgPSBKc29uUGFyc2VyVXRpbC5nZXRTdHJpbmcoZGF0YSwgIm5ld3NpZCIpOwogICAgICAgICAgICAgICAgU3RyaW5nIHRpdGxlID0gSnNvblBhcnNlclV0aWwuZ2V0U3RyaW5nKGRhdGEsICJ0aXRsZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlbnQgaW50IAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5lbGFwcC5CdWlsZENvbmZpZzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoQ29uc3RhbnRzLkVYVFJBX0tFWV9JU19GUk9NX1NQTEFTSCwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5lbGFwcC5CdWlsZENvbmZpZzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoQ29uc3RhbnRzLkVYVFJBX0tFWV9JU19GUk9NX1NQTEFTSCwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlbnQgaW50IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudChhY3Rpdml0eSwgSG9tZVRhYkFjdGl2aXR5LmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoQ29uc3RhbnRzLkVYVFJBX0tFWV9JU19GUk9NX1NQTEFTSCwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFpbkFjdGl2aXR5LnN0YXJ0KGFjdGl2aXR5LCBNYWluQWN0aXZpdHkuVEFCX05FV1MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoQ29uc3RhbnRzLkVYVFJBX0tFWV9JU19GUk9NX1NQTEFTSCwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS5zdGFydEFjdGl2aXR5KGludGVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudChhY3Rpdml0eSwgSG9tZVRhYkFjdGl2aXR5LmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS5zdGFydEFjdGl2aXR5KGludGVudCk7CiAgICAgICAgICAgICAgICAgICAgICAgIE1haW5BY3Rpdml0eS5zdGFydChhY3Rpdml0eSwgTWFpbkFjdGl2aXR5LlRBQl9ORVdTKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFpbkFjdGl2aXR5LnN0YXJ0KGFjdGl2aXR5LCBNYWluQWN0aXZpdHkuVEFCX05FV1MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYWN0aXZpdHkubUlzTG9naW4pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS5zdGFydEFjdGl2aXR5KGludGVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBtSXNMb2dpbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS5zdGFydEFjdGl2aXR5KGludGVudCk7CiAgICAgICAgICAgICAgICAgICAgICAgIE1haW5BY3Rpdml0eS5zdGFydChhY3Rpdml0eSwgTWFpbkFjdGl2aXR5LlRBQl9ORVdTKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>215</text>
       </register>
     </registers>
     <search>
@@ -1310,6 +1316,7 @@
         <entry>wq</entry>
         <entry>18</entry>
         <entry>w</entry>
+        <entry>215</entry>
       </history-cmd>
       <history-expr />
       <history-input />
