@@ -612,11 +612,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/common/WebDetailActivity.java" timestamp="1484804962207">
-        <mark key="'" line="268" column="47" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/common/WebDetailActivity.java" timestamp="1484872799870">
+        <mark key="'" line="281" column="47" />
+        <mark key="[" line="179" column="16" />
+        <mark key="]" line="43" column="46" />
+        <mark key="^" line="43" column="46" />
+        <mark key="." line="43" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/build/intermediates/exploded-aar/android/EasyChat/unspecified/res/layout/chat_view_rcv_pull_load.xml" timestamp="1473323438196">
         <mark key="[" line="7" column="25" />
@@ -952,11 +953,11 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/Utils.java" timestamp="1484761299810">
-        <mark key="[" line="717" column="76" />
-        <mark key="]" line="717" column="79" />
-        <mark key="." line="717" column="79" />
-        <mark key="^" line="717" column="79" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/Utils.java" timestamp="1484872793768">
+        <mark key="[" line="707" column="43" />
+        <mark key="]" line="707" column="75" />
+        <mark key="." line="707" column="75" />
+        <mark key="^" line="707" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/MessageListActivity.java" timestamp="1473497847141">
         <mark key="[" line="20" column="0" />
@@ -1312,22 +1313,25 @@
       <jump line="18" column="13" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/db/Preferences.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgIVByZWZlcmVuY2VzLmdldEluc3RhbmNlKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpKS5pc0xvZ2luKCkpIHs=</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzaWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFRZUEVfTkVXUyA9IDEwMzsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgPSBnZXRJbnRlbnQoKS5nZXRJbnRFeHRyYShFWFRSQV9UWVBFLCBUWVBFX1NUT0NLKTsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>mEtComment.setOnFocusChangeListener(new View.OnFocusChangeListener() {
             @Override
             public void onFocusChange(View view, boolean b) {
@@ -1337,26 +1341,23 @@
             }
         });</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcGlVdGlsLmNoZWNrU2Vzc2lvbih2aWV3LmdldENvbnRleHQoKSk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVtb3ZlKEtfVXNlcik7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBoaWRpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcGlVdGlsLmNoZWNrU2Vzc2lvbihnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFByZWZlcmVuY2VzLmdldEluc3RhbmNlKGNvbnRleHQpLmxvZ291dCh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
