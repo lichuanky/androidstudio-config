@@ -402,10 +402,9 @@
         <mark key="^" line="10" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/user/UserProfileFragment.java" timestamp="1484801039797">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="^" line="90" column="44" />
-        <mark key="." line="187" column="0" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/proguard-rules.txt" timestamp="1476258689112">
         <mark key="[" line="93" column="39" />
@@ -1127,11 +1126,11 @@
         <mark key="^" line="20" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1484799471265">
-        <mark key="'" line="696" column="0" />
-        <mark key="[" line="667" column="42" />
-        <mark key="]" line="667" column="40" />
-        <mark key="." line="667" column="40" />
-        <mark key="^" line="667" column="21" />
+        <mark key="'" line="697" column="0" />
+        <mark key="[" line="668" column="42" />
+        <mark key="]" line="668" column="40" />
+        <mark key="." line="668" column="40" />
+        <mark key="^" line="668" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharesdk/share/ShareParams.java" timestamp="1478247970614">
         <mark key="[" line="8" column="81" />
