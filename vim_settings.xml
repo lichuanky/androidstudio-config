@@ -616,11 +616,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/common/WebDetailActivity.java" timestamp="1485068170425">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/common/WebDetailActivity.java" timestamp="1485071846150">
         <mark key="'" line="338" column="25" />
-        <mark key="[" line="87" column="36" />
-        <mark key="]" line="87" column="66" />
-        <mark key="." line="87" column="66" />
+        <mark key="[" line="101" column="36" />
+        <mark key="]" line="101" column="36" />
+        <mark key="." line="101" column="36" />
         <mark key="^" line="87" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/build/intermediates/exploded-aar/android/EasyChat/unspecified/res/layout/chat_view_rcv_pull_load.xml" timestamp="1473323438196">
@@ -1322,10 +1322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzaWRcPg==</text>
