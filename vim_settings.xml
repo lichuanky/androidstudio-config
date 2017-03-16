@@ -494,6 +494,12 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
+      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK_DEMO_ORIGIN/VtcSdkDemo/app/src/main/java/com/strategy/intecom/vtc/vtcsdkdemo/MainActivity.java" timestamp="1489649540013">
+        <mark key="[" line="84" column="51" />
+        <mark key="]" line="84" column="51" />
+        <mark key="^" line="84" column="51" />
+        <mark key="." line="84" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/drawable/btn_send_comment.xml" timestamp="1484757432217">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="37" />
@@ -1315,10 +1321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>easylive</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>easylive</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzaWRcPg==</text>
@@ -1354,7 +1360,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1380,8 +1386,8 @@
         <entry>18</entry>
         <entry>215</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
