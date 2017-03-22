@@ -140,11 +140,11 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/src/main/java/com/strategy/intecom/vtc/vtcsdkdemo/MainActivity.java" timestamp="1490176756840">
-        <mark key="[" line="85" column="44" />
-        <mark key="]" line="85" column="44" />
-        <mark key="^" line="32" column="9" />
-        <mark key="." line="85" column="44" />
+      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/src/main/java/com/strategy/intecom/vtc/vtcsdkdemo/MainActivity.java" timestamp="1490178792843">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/drawable/ic_live_permission.xml" timestamp="1473501584720">
         <mark key="[" line="3" column="33" />
@@ -591,6 +591,12 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
+      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/src/main/AndroidManifest.xml" timestamp="1490178703116">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/layout/activity_set_video_permission.xml" timestamp="1473502364214">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="9" column="32" />
@@ -812,6 +818,9 @@
         <mark key="." line="34" column="46" />
         <mark key="^" line="34" column="46" />
       </file>
+      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/build/intermediates/exploded-aar/VTCSdk/res/values/values.xml" timestamp="1490178723217">
+        <mark key="[" line="64" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatRedPackInfoEntity.java" timestamp="1474284182397">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -943,8 +952,8 @@
         <mark key="^" line="20" column="57" />
         <mark key="." line="20" column="57" />
       </file>
-      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/build.gradle" timestamp="1490176490221">
-        <mark key="[" line="47" column="4" />
+      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/build.gradle" timestamp="1490178665854">
+        <mark key="[" line="7" column="43" />
         <mark key="]" line="47" column="4" />
         <mark key="." line="47" column="4" />
       </file>
@@ -1341,16 +1350,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>accountName</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>accountName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzaWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEdPT0dMRV9DTElFTlRfU0VDUkVUID0gIkd6TmtfNmRZbXdjSnNGaTdJYVlsR3VCWSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywgYWNjb3VudE5hbWUsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUoJ2RlLmtleWJvYXJkc3VyZmVyLmFuZHJvaWQud2lkZ2V0OmNyb3V0Cg==</text>
