@@ -140,7 +140,7 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/src/main/java/com/strategy/intecom/vtc/vtcsdkdemo/MainActivity.java" timestamp="1490178792843">
+      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/src/main/java/com/strategy/intecom/vtc/vtcsdkdemo/MainActivity.java" timestamp="1490244374682">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="32" />
         <mark key="^" line="12" column="32" />
@@ -521,6 +521,12 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/src/main/res/values/strings.xml" timestamp="1490244418203">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1484799536131">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -591,7 +597,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/src/main/AndroidManifest.xml" timestamp="1490178703116">
+      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/src/main/AndroidManifest.xml" timestamp="1490244365706">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="37" />
         <mark key="^" line="2" column="37" />
@@ -818,7 +824,7 @@
         <mark key="." line="34" column="46" />
         <mark key="^" line="34" column="46" />
       </file>
-      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/build/intermediates/exploded-aar/VTCSdk/res/values/values.xml" timestamp="1490178723217">
+      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/build/intermediates/exploded-aar/VTCSdk/res/values/values.xml" timestamp="1490244403978">
         <mark key="[" line="64" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatRedPackInfoEntity.java" timestamp="1474284182397">
@@ -952,10 +958,10 @@
         <mark key="^" line="20" column="57" />
         <mark key="." line="20" column="57" />
       </file>
-      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/build.gradle" timestamp="1490178665854">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="47" column="4" />
-        <mark key="." line="47" column="4" />
+      <file name="$USER_HOME$/Downloads/SDK/vtc/SDK DEMO/VtcSdkDemo/app/build.gradle" timestamp="1490244358978">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/live/activity/SetVideoPermisionActivity.java" timestamp="1473502230448">
         <mark key="[" line="4" column="15" />
@@ -1350,10 +1356,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accountName</text>
+        <text>Vtc</text>
       </register>
       <register name="-" type="4">
-        <text>accountName</text>
+        <text>Vtc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzaWRcPg==</text>
