@@ -202,6 +202,9 @@
         <mark key="]" line="58" column="84" />
         <mark key="." line="58" column="84" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LivePrepareActivity.java" timestamp="1490681317057">
+        <mark key="'" line="627" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/net/RequestHelper.java" timestamp="1478607256806">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -395,7 +398,6 @@
         <mark key="^" line="20" column="57" />
         <mark key="." line="20" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/net/HooviewApiConstant.java" timestamp="1490668083594" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/pay/WeixinOrderEntity.java" timestamp="1473840732546">
         <mark key="[" line="137" column="5" />
         <mark key="]" line="18" column="28" />
@@ -562,7 +564,6 @@
         <mark key="^" line="206" column="92" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" timestamp="1490669299618" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/live_bottom_user_info.xml" timestamp="1480590861754">
         <mark key="[" line="76" column="32" />
         <mark key="]" line="76" column="31" />
@@ -1251,9 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="39" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
-      <jump line="115" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
-      <jump line="147" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
       <jump line="125" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
       <jump line="223" column="69" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
       <jump line="224" column="40" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
@@ -1351,6 +1349,9 @@
       <jump line="392" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/live/LiveRoomManager.java" />
       <jump line="439" column="16" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/live/LiveRoomManager.java" />
       <jump line="586" column="20" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/live/LiveRoomManager.java" />
+      <jump line="62" column="81" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LivePrepareActivity.java" />
+      <jump line="696" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LivePrepareActivity.java" />
+      <jump line="627" column="12" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LivePrepareActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
