@@ -838,6 +838,7 @@
         <mark key="^" line="65" column="112" />
         <mark key="." line="65" column="112" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/pay/AlipayHelper.java" timestamp="1490777306730" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/activity_exponent_stock_detail.xml" timestamp="1484804242005">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="97" column="0" />
@@ -1164,9 +1165,6 @@
         <mark key="]" line="20" column="64" />
         <mark key="." line="20" column="64" />
         <mark key="^" line="20" column="82" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1484874144631">
-        <mark key="'" line="697" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharesdk/share/ShareParams.java" timestamp="1478247970614">
         <mark key="[" line="8" column="81" />
