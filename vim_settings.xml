@@ -9,7 +9,7 @@
         <mark key="^" line="117" column="36" />
         <mark key="." line="117" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1490777436367">
+      <file name="/a.dummy" timestamp="1490868970756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -358,12 +358,6 @@
         <mark key="]" line="32" column="19" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" timestamp="1489656186219">
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="49" />
-        <mark key="^" line="42" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/java/com.easyvaas.common/sharelogin/wechat/WechatPayManager.java" timestamp="1478256084823">
         <mark key="[" line="27" column="8" />
