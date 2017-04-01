@@ -382,6 +382,12 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="45" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/UserVipBuyActivity.java" timestamp="1491031954868">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="12" column="52" />
+        <mark key="." line="12" column="52" />
+        <mark key="^" line="12" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/login/activity/UserLoginHomeFragment.java" timestamp="1472365431087">
         <mark key="[" line="43" column="62" />
         <mark key="]" line="43" column="62" />
@@ -506,6 +512,11 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" timestamp="1491032025283">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" timestamp="1489742786370">
         <mark key="[" line="50" column="35" />
       </file>
@@ -521,7 +532,7 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491030024091">
+      <file name="/Dummy.txt" timestamp="1491031717221">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1043,6 +1054,12 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/UserVipCenterActivity.java" timestamp="1491031921499">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/view_important_news_header.xml" timestamp="1484800607146">
         <mark key="[" line="196" column="39" />
         <mark key="]" line="196" column="39" />
@@ -1370,52 +1387,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGlhbG9nIG1Db25maXJtQmluZFBob25lRGlhbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>wo</text>
+        <text>CenterUserInfoActivity</text>
       </register>
       <register name="/" type="4">
-        <text>ApiHelper</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdE1lbnVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0icG9ydHJhaXQiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGlhbG9nIG1Db25maXJtQmluZFBob25lRGlhbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgaXNCaW5kUGhvbmU7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwcm90ZWN0ZWQgdm9pZCBvblN0YXJ0KCkgewogICAgICAgIHN1cGVyLm9uU3RhcnQoKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRVFVRVNUX0NPREVfQklORF9QSE9ORSA9IDExMTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbGljaHVhbiBvbiA0LzEvMTcuCiAqLwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgbVZpZGVvQ291bnRUdi5zZXRUZXh0KHVzZXIuZ2V0TGl2aW5nX2NvdW50KCkgKyB1c2VyLmdldEF1ZGlvX2NvdW50KCkgKyAiIik7CiAgICAgICAgICAgIC8vICAgICAgICAgIG1GYW5zQ291bnRUdi5zZXRUZXh0KHVzZXIuZ2V0RmFuc19jb3VudCgpICsgIiIpOwogICAgICAgICAgICAvLyAgICAgICAgICBtRm9sbG93ZXJDb3VudFR2LnNldFRleHQodXNlci5nZXRGb2xsb3dfY291bnQoKSArICIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9tU2lnbkluQ291bnRUdi5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5zaWduX2luX2NvdW50LCB1c2VyLmdldFNpZ25fZGF5cygpKSk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbGljaHVhbiBvbiA0LzEvMTcuCiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9tU2lnbkluQ291bnRUdiA9IChUZXh0VmlldykgbVZpZXcuZmluZFZpZXdCeUlkKFIuaWQuc2lnbl9pbl9jb3VudF90dik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGlhbG9nIG1Db25maXJtQmluZFBob25lRGlhbG9nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbVNpZ25JbkNvdW50VHYuc2V0VGV4dChnZXRTdHJpbmcoUi5zdHJpbmcuc2lnbl9pbl9jb3VudCwgcmVzdWx0LmdldFNpZ25fZGF5cygpKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgaXNCaW5kUGhvbmU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoc2hvd0ltYWdlKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRVFVRVNUX0NPREVfQklORF9QSE9ORSA9IDExMTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ApiHelper</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>ApiHelper</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1429,6 +1446,7 @@
         <entry encoding="base64">XDxuZXdzaWRcPg==</entry>
         <entry>net</entry>
         <entry>ApiHelper</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
