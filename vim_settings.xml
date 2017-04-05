@@ -843,11 +843,11 @@
         <mark key="]" line="239" column="0" />
         <mark key="." line="239" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" timestamp="1491380528064">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="37" />
-        <mark key="^" line="10" column="37" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" timestamp="1491382731391">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="51" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="65" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/market/ExponentModel.java" timestamp="1483776689205">
         <mark key="[" line="102" column="26" />
@@ -1474,17 +1474,17 @@
       <jump line="967" column="59" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>personal_find_qq</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvdHJhbnNsdWNlbnQiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>personal_find_qq</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>umeng</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJWZXJ0aWNhbD0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudExlZnQ9InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvdHJhbnNsdWNlbnQiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgVGV4dFZpZXcgbUZyZWVDb2luc1R2Owo=</text>
