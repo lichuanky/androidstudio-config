@@ -996,6 +996,9 @@
         <mark key="." line="12" column="46" />
         <mark key="^" line="12" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/UpdateManager.java" timestamp="1491361355103">
+        <mark key="'" line="355" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/common/gift/view/GiftGridAdapter.java" timestamp="1472182505354">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="4" />
@@ -1326,7 +1329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="18" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
       <jump line="228" column="56" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
       <jump line="235" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/LiveRoomManager.java" />
       <jump line="76" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" />
@@ -1426,6 +1428,7 @@
       <jump line="26" column="8" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" />
       <jump line="209" column="46" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
+      <jump line="355" column="1" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/UpdateManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
