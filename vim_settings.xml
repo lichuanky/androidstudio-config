@@ -403,20 +403,20 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/UserVipBuyOptionAdapterItem.java" timestamp="1491043676943">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/UserVipBuyOptionAdapterItem.java" timestamp="1491379569602">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/de_panoplay/.project" timestamp="1481617759682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_user_vip_buy_option.xml" timestamp="1491378728293">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_user_vip_buy_option.xml" timestamp="1491379075026">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/item_common_news.xml" timestamp="1484799150518">
         <mark key="[" line="45" column="22" />
@@ -1468,54 +1468,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtRnJlZUNvaW5zVHYuc2V0VGV4dChtQ29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcuZV9jb2luX2dpdmVfY291bnRfcmVhciwgbW9kZWwuZ2V0RnJlZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGV4dFZpZXcgbUZyZWVDb2luc1R2Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>vertical</text>
+        <text>gone</text>
       </register>
       <register name="/" type="4">
         <text>umeng</text>
       </register>
-      <register name="0" type="4">
-        <text>MyUserPhoto myUserPhoto = (MyUserPhoto) findViewById(R.id.my_user_photo);
-        UserUtil.showUserPhoto(this, YZBApplication.getUser().getLogourl(), myUserPhoto);
-        TextView nicknameTv = (TextView) findViewById(R.id.user_vip_nickname_tv);
-        nicknameTv.setText(YZBApplication.getUser().getNickname());
-        TextView vipTipsTv = (TextView) findViewById(R.id.user_vip_tips_tv);
-        Button getVipBtn = (Button) findViewById(R.id.user_vip_get_vip_btn);
-        getVipBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(), UserVipBuyActivity.class));
-            }
-        });</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJWZXJ0aWNhbD0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudExlZnQ9InRydWUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtRnJlZUNvaW5zVHYuc2V0VGV4dChtQ29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcuZV9jb2luX2dpdmVfY291bnRfcmVhciwgbW9kZWwuZ2V0RnJlZSgpKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgVGV4dFZpZXcgbUZyZWVDb2luc1R2Owo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBtRnJlZUNvaW5zVHYgPSAoVGV4dFZpZXcpIHJvb3QuZmluZFZpZXdCeUlkKFIuaWQuZXhjaGFuZ2VfY29pbnNfZ2l2ZV90dik7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9leGNoYW5nZV9jb2luc19naXZlX3R2IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDptYXhMaW5lcz0iMSIKICAgICAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJIb3Jpem9udGFsPSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2NlbnRlclZlcnRpY2FsPSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IkBkaW1lbi90ZXh0X3NpemVfMTEiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2VfY29pbl9naXZlX2NvdW50X3JlYXIiCiAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvdGV4dF9ncmF5XzMiLz4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtRnJlZUNvaW5zVHYuc2V0VGV4dChtQ29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcuZV9jb2luX2dpdmVfY291bnRfcmVhciwgMCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9IiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNpbmdsZUxpbmU9InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjIwZHAiCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3BheV9idG5fc2VsZWN0b3JfbmV3Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iODBkcCIK</text>
+        <text encoding="base64">ICAgICAgICBtRnJlZUNvaW5zVHYuc2V0VGV4dChtQ29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcuZV9jb2luX2dpdmVfY291bnRfcmVhciwgbW9kZWwuZ2V0RnJlZSgpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWRkPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGV4dFZpZXcgbUZyZWVDb2luc1R2Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkobmV3IEludGVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgVXNlclZpcEJ1eUFjdGl2aXR5LmNsYXNzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtRnJlZUNvaW5zVHYgPSAoVGV4dFZpZXcpIHJvb3QuZmluZFZpZXdCeUlkKFIuaWQuZXhjaGFuZ2VfY29pbnNfZ2l2ZV90dik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
