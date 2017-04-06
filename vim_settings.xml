@@ -36,6 +36,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/colors.xml" timestamp="1491452170766" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/Statistics/src/main/java/com/easyvaas/common/statistics/net/ApiConstant.java" timestamp="1474338689822">
         <mark key="[" line="32" column="81" />
         <mark key="]" line="32" column="80" />
@@ -811,11 +812,11 @@
         <mark key="]" line="661" column="0" />
         <mark key="." line="661" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" timestamp="1491382731391">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="51" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="65" column="49" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" timestamp="1491452268167">
+        <mark key="[" line="132" column="41" />
+        <mark key="]" line="132" column="41" />
+        <mark key="^" line="132" column="41" />
+        <mark key="." line="132" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/market/ExponentModel.java" timestamp="1483776689205">
         <mark key="[" line="102" column="26" />
@@ -1430,44 +1431,44 @@
       <jump line="192" column="16" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aHkuY2hhbmdlc2tpbi5Ta2luTWFuYWdlCg==</text>
+      <register name="&quot;" type="4">
+        <text>user_vip_anim_iv</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>user_vip_anim_iv</text>
       </register>
       <register name="/" type="4">
         <text>umeng</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9MQVNUX0NVU1RPTV9BTElQQVlfQ09JTiA9ICJrZXlfbGFzdF9jdXN0b21fYWxpcGF5X2NvaW4iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25Ub3A9IkBpZC91c2VyX3ZpcF9hbmltX2l2Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aHkuY2hhbmdlc2tpbi5Ta2luTWFuYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9iYXNlX25ld19icmlnaHQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzMDQ1NmIxLi4uIG1vZGlmeSB0aGUgY2hhbmdlIHNraW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aHkuY2hhbmdlc2tpbi5Ta2luTWFuYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiAzMDQ1NmIxLi4uIG1vZGlmeSB0aGUgY2hhbmdlIHNraW4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAzMDQ1NmIxLi4uIG1vZGlmeSB0aGUgY2hhbmdlIHNraW4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGV4dFZpZXcgbUZyZWVDb2luc1R2Owo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
