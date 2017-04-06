@@ -1273,10 +1273,11 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_buy.xml" timestamp="1491465390898">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_buy.xml" timestamp="1491466563363">
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/lib/JPush/Client.php" timestamp="1477995592372">
         <mark key="[" line="20" column="64" />
@@ -1465,7 +1466,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduVG9wPSJAaWQvbXlfdXNlcl9waG90byIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSIyN2RwIj4K</text>
       </register>
       <register name="-" type="4">
         <text>result.getDiff()));</text>
@@ -1477,31 +1478,31 @@
         <text encoding="base64">RVhUUkFfVklQX1NUQVRVUyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduVG9wPSJAaWQvbXlfdXNlcl9waG90byIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSIyN2RwIj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmRWaWV3QnlJZChSLmlkLnVzZXJfdmlwX2dldF92aXBfYl9idG4pLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2NlbnRlclZlcnRpY2FsPSJ0cnVlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1HZXRWaXBCdG4uc2V0VGV4dChSLnN0cmluZy51c2VyX3ZpcF9nZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy91c2VyX3ZpcF90aXBfbm90X3ZpcCIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmRWaWV3QnlJZChSLmlkLnVzZXJfdmlwX2dldF92aXBfYl9idG4pLnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjdkcCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmRWaWV3QnlJZChSLmlkLnVzZXJfdmlwX2dldF92aXBfYl9idG4pLnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduVG9wPSJAaWQvbXlfdXNlcl9waG90byIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1HZXRWaXBCdG4uc2V0VGV4dChSLnN0cmluZy51c2VyX3ZpcF9yZW5ldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmRWaWV3QnlJZChSLmlkLnVzZXJfdmlwX2dldF92aXBfYl9idG4pLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1HZXRWaXBCdG4uc2V0VGV4dChSLnN0cmluZy51c2VyX3ZpcF9yZW5ldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1HZXRWaXBCdG4uc2V0VGV4dChSLnN0cmluZy51c2VyX3ZpcF9nZXQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmRWaWV3QnlJZChSLmlkLnVzZXJfdmlwX2dldF92aXBfYl9idG4pLnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0VmlldyB2aXBUaXBzVHYgPSAoVGV4dFZpZXcpIGZpbmRWaWV3QnlJZChSLmlkLnVzZXJfdmlwX3RpcHNfdHYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmRWaWV3QnlJZChSLmlkLnVzZXJfdmlwX2dldF92aXBfYl9idG4pLnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
