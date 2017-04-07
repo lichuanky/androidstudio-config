@@ -14,7 +14,7 @@
         <mark key="^" line="117" column="36" />
         <mark key="." line="117" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1491550725218">
+      <file name="/a.dummy" timestamp="1491551524197">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1401,12 +1401,12 @@
         <mark key="^" line="396" column="49" />
         <mark key="." line="396" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" timestamp="1491551383026">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" timestamp="1491551499586">
         <mark key="'" line="318" column="122" />
-        <mark key="[" line="573" column="0" />
-        <mark key="]" line="573" column="69" />
-        <mark key="." line="573" column="0" />
-        <mark key="^" line="581" column="48" />
+        <mark key="[" line="571" column="68" />
+        <mark key="]" line="571" column="68" />
+        <mark key="." line="571" column="68" />
+        <mark key="^" line="580" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/styles.xml" timestamp="1484762855700">
         <mark key="[" line="414" column="0" />
@@ -1576,23 +1576,23 @@
       <jump line="1740" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Utils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaG9tZV90YWJfaG9tZV9ub3IucG5nIiwgImhvbWVfdGFiX2hvbWVfc2VsLnBuZyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYmIGZpbGUuZXhpc3RzKCk=</text>
       </register>
       <register name="-" type="4">
-        <text>bitmap</text>
+        <text encoding="base64">ICYmIGZpbGUuZXhpc3RzKCk=</text>
       </register>
       <register name="/" type="4">
         <text>change</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBQ0hFX0FOSU1fRElSID0gQ0FDSEVfSU1BR0VfRElSICsgRmlsZS5zZXBhcmF0b3IgKyAiYW5pbSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRTdGF0ZUxpc3REcmF3YWJsZShpY29uTmFtZSwgbUxpdmVNZXNzYWdlSXYsIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaG9tZV90YWJfaG9tZV9ub3IucG5nIiwgImhvbWVfdGFiX2hvbWVfc2VsLnBuZyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaXRtYXAgYml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVGaWxlKGljb25OYW1lLmdldEFic29sdXRlUGF0aCgpKTsKICAgICAgICAgICAgICAgICAgICBEcmF3YWJsZSBkcmF3YWJsZSA9IG5ldyBCaXRtYXBEcmF3YWJsZShnZXRSZXNvdXJjZXMoKSwgYml0bWFwKTsKICAgICAgICAgICAgICAgICAgICBtTGl2ZUltYWdlLnNldEltYWdlRHJhd2FibGUoZHJhd2FibGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaXRtYXAgYml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVGaWxlKGljb25OYW1lLmdldEFic29sdXRlUGF0aCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaG9tZV90YWJfaG9tZV9ub3IucG5nIiwgImhvbWVfdGFiX2hvbWVfc2VsLnBuZyIsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaXRtYXAgYml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVGaWxlKGljb25OYW1lLmdldEFic29sdXRlUGF0aCgpKTsK</text>
