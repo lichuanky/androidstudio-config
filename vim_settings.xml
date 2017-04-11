@@ -1389,12 +1389,18 @@
         <mark key="^" line="29" column="57" />
         <mark key="." line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiUtil.java" timestamp="1491903647724">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiUtil.java" timestamp="1491905437480">
         <mark key="'" line="379" column="20" />
-        <mark key="[" line="399" column="25" />
-        <mark key="]" line="399" column="25" />
-        <mark key="^" line="395" column="27" />
-        <mark key="." line="399" column="25" />
+        <mark key="[" line="398" column="20" />
+        <mark key="]" line="398" column="21" />
+        <mark key="^" line="398" column="21" />
+        <mark key="." line="398" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" timestamp="1491905044629">
+        <mark key="[" line="624" column="35" />
+        <mark key="]" line="624" column="35" />
+        <mark key="^" line="624" column="35" />
+        <mark key="." line="624" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/styles.xml" timestamp="1484762855700">
         <mark key="[" line="414" column="0" />
@@ -1565,10 +1571,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>putInt</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>putInt</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>change</text>
