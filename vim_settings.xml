@@ -1396,11 +1396,11 @@
         <mark key="^" line="398" column="21" />
         <mark key="." line="398" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" timestamp="1491965759509">
-        <mark key="[" line="608" column="0" />
-        <mark key="]" line="608" column="74" />
-        <mark key="^" line="620" column="78" />
-        <mark key="." line="608" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" timestamp="1491966678251">
+        <mark key="[" line="576" column="41" />
+        <mark key="]" line="576" column="44" />
+        <mark key="^" line="576" column="44" />
+        <mark key="." line="576" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/styles.xml" timestamp="1484762855700">
         <mark key="[" line="414" column="0" />
@@ -1570,17 +1570,17 @@
       <jump line="370" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Utils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdGVMaXN0RHJhd2FibGUgc3RhdGVMaXN0RHJhd2FibGUgPSBuZXcgU3RhdGVMaXN0RHJhd2FibGUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>_sel</text>
       </register>
       <register name="-" type="4">
-        <text>stateListDrawable</text>
+        <text>_sel</text>
       </register>
       <register name="/" type="4">
         <text>change</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVGaWxlKGRyYXdhYmxlRmlsZS5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaG9tZV90YWJfaG9tZV9zZWwucG5nIiwgImhvbWVfdGFiX2hvbWVfbm9yLnBuZyIsCiAgICAgICAgICAgICAgICAgICAgImhvbWVfdGFiX2Rpc2NvdmVyX3NlbC5wbmciLCAiaG9tZV90YWJfZGlzY292ZXJfbm9yLnBuZyIsCiAgICAgICAgICAgICAgICAgICAgImhvbWVfdGFiX2ZyaWVuZF9zZWwucG5nIiwgImhvbWVfdGFiX2ZyaWVuZF9ub3IucG5nIiwKICAgICAgICAgICAgICAgICAgICAiaG9tZV90YWJfbWVzc2FnZV9zZWwiLCAiaG9tZV90YWJfbWVzc2FnZV9ub3IucG5nIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RhdGVMaXN0RHJhd2FibGUgc3RhdGVMaXN0RHJhd2FibGUgPSBuZXcgU3RhdGVMaXN0RHJhd2FibGUoKTsK</text>
