@@ -664,12 +664,11 @@
         <mark key="^" line="521" column="86" />
         <mark key="." line="521" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabBaseMainFragment.java" timestamp="1491988914445">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabBaseMainFragment.java" timestamp="1491990291994">
         <mark key="'" line="54" column="21" />
-        <mark key="[" line="325" column="37" />
-        <mark key="]" line="325" column="37" />
-        <mark key="^" line="323" column="40" />
-        <mark key="." line="325" column="37" />
+        <mark key="[" line="320" column="58" />
+        <mark key="]" line="335" column="0" />
+        <mark key="." line="335" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/de_panoplay/build.gradle" timestamp="1482296095220">
         <mark key="[" line="5" column="0" />
@@ -1379,18 +1378,17 @@
         <mark key="^" line="29" column="57" />
         <mark key="." line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiUtil.java" timestamp="1491905437480">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiUtil.java" timestamp="1491990884191">
         <mark key="'" line="379" column="20" />
         <mark key="[" line="398" column="20" />
-        <mark key="]" line="398" column="21" />
+        <mark key="]" line="398" column="20" />
         <mark key="^" line="398" column="21" />
-        <mark key="." line="398" column="21" />
+        <mark key="." line="398" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" timestamp="1491988692433">
-        <mark key="[" line="621" column="38" />
-        <mark key="]" line="621" column="38" />
-        <mark key="." line="621" column="38" />
-        <mark key="^" line="620" column="63" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" timestamp="1491990427874">
+        <mark key="[" line="573" column="0" />
+        <mark key="]" line="573" column="0" />
+        <mark key="." line="573" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/styles.xml" timestamp="1484762855700">
         <mark key="[" line="414" column="0" />
@@ -1561,10 +1559,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>change</text>
@@ -1573,31 +1571,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbVRhYlRpdGxlVHYxLnNldFNlbGVjdGVkKHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaG9tZV90YWJfbWVzc2FnZV9zZWwucG5nIiwgImhvbWVfdGFiX21lc3NhZ2Vfbm9yLnBuZyIsKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKiJob21lX3RhYl9ob21lX3NlbC5wbmciLCAiaG9tZV90YWJfaG9tZV9ub3IucG5nIiwKICAgICAgICAgICAgICAgICAgICAiaG9tZV90YWJfZGlzY292ZXJfc2VsLnBuZyIsICJob21lX3RhYl9kaXNjb3Zlcl9ub3IucG5nIiwKICAgICAgICAgICAgICAgICAgICAiaG9tZV90YWJfZnJpZW5kX3NlbC5wbmciLCAiaG9tZV90YWJfZnJpZW5kX25vci5wbmciLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShGaWxlVXRpbC5DQUNIRV9TS0lOX0RJUik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVRhYlRpdGxlVHYxLnNldFNlbGVjdGVkKGZhbHNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGRyYXdhYmxlRmlsZSA9IG5ldyBGaWxlKEZpbGVVdGlsLkNBQ0hFX1NLSU5fRElSCiAgICAgICAgICAgICAgICArIEZpbGUuc2VwYXJhdG9yICsgImhvbWVfbmF2YmFyX3RhYl9pY19zZWwucG5nIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVRhYlRpdGxlVHYxLnNldFNlbGVjdGVkKHRydWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVRhYlRpdGxlVHYxLnNldFNlbGVjdGVkKGZhbHNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShGaWxlVXRpbC5DQUNIRV9TS0lOX0RJUik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGRyYXdhYmxlRmlsZSA9IG5ldyBGaWxlKEZpbGVVdGlsLkNBQ0hFX1NLSU5fRElSCiAgICAgICAgICAgICAgICArIEZpbGUuc2VwYXJhdG9yICsgImhvbWVfbmF2YmFyX3RhYl9pY19zZWwucG5nIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
