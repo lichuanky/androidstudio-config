@@ -302,9 +302,6 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabMessageFragment.java" timestamp="1491549423269">
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/layout/live_red_pack.xml" timestamp="1473324228901">
         <mark key="[" line="106" column="35" />
         <mark key="]" line="106" column="35" />
@@ -577,6 +574,9 @@
         <mark key="^" line="72" column="27" />
         <mark key="." line="72" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1491992080472">
+        <mark key="[" line="3581" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/Gift/src/main/AndroidManifest.xml" timestamp="1472440485463">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="25" />
@@ -639,6 +639,9 @@
         <mark key="]" line="8" column="47" />
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/db/Preferences.java" timestamp="1491547432073">
+        <mark key="[" line="58" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" timestamp="1491536036038">
         <mark key="[" line="296" column="0" />
@@ -1218,6 +1221,7 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/JoinAnimationView.java" timestamp="1491992058548" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/user/BaseUserEntityArray.java" timestamp="1474284943875">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
