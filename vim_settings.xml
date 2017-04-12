@@ -666,12 +666,12 @@
         <mark key="^" line="521" column="86" />
         <mark key="." line="521" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabBaseMainFragment.java" timestamp="1491986430383">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabBaseMainFragment.java" timestamp="1491986721621">
         <mark key="'" line="220" column="0" />
-        <mark key="[" line="57" column="17" />
-        <mark key="]" line="57" column="21" />
-        <mark key="^" line="57" column="21" />
-        <mark key="." line="57" column="21" />
+        <mark key="[" line="319" column="67" />
+        <mark key="]" line="319" column="67" />
+        <mark key="^" line="319" column="79" />
+        <mark key="." line="319" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/de_panoplay/build.gradle" timestamp="1482296095220">
         <mark key="[" line="5" column="0" />
@@ -1563,10 +1563,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QnV0dG9uIA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QnV0dG9uIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>change</text>
