@@ -669,11 +669,12 @@
         <mark key="^" line="521" column="86" />
         <mark key="." line="521" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabBaseMainFragment.java" timestamp="1491965679814">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="103" column="51" />
-        <mark key="^" line="103" column="23" />
-        <mark key="." line="103" column="23" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabBaseMainFragment.java" timestamp="1491984782122">
+        <mark key="'" line="110" column="63" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="101" column="51" />
+        <mark key="^" line="101" column="23" />
+        <mark key="." line="101" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/de_panoplay/build.gradle" timestamp="1482296095220">
         <mark key="[" line="5" column="0" />
@@ -848,8 +849,8 @@
         <mark key="^" line="23" column="85" />
         <mark key="." line="23" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Utils.java" timestamp="1491965633681">
-        <mark key="'" line="370" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Utils.java" timestamp="1491984805130">
+        <mark key="'" line="459" column="37" />
         <mark key="[" line="1721" column="53" />
         <mark key="]" line="1721" column="53" />
         <mark key="^" line="1720" column="35" />
@@ -1396,11 +1397,11 @@
         <mark key="^" line="398" column="21" />
         <mark key="." line="398" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" timestamp="1491966678251">
-        <mark key="[" line="576" column="41" />
-        <mark key="]" line="576" column="44" />
-        <mark key="^" line="576" column="44" />
-        <mark key="." line="576" column="44" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" timestamp="1491984660064">
+        <mark key="[" line="596" column="45" />
+        <mark key="]" line="596" column="45" />
+        <mark key="." line="596" column="45" />
+        <mark key="^" line="593" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/styles.xml" timestamp="1484762855700">
         <mark key="[" line="414" column="0" />
@@ -1468,8 +1469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="12" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/SplashActivity.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/activity_exponent_stock_detail.xml" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/activity_exponent_stock_detail.xml" />
       <jump line="75" column="44" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/activity_exponent_stock_detail.xml" />
       <jump line="69" column="38" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/activity_exponent_stock_detail.xml" />
@@ -1568,13 +1567,15 @@
       <jump line="394" column="69" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiUtil.java" />
       <jump line="379" column="20" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiUtil.java" />
       <jump line="370" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Utils.java" />
+      <jump line="112" column="63" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabBaseMainFragment.java" />
+      <jump line="459" column="37" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Utils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_sel</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>_sel</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>change</text>
