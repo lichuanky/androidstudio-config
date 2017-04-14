@@ -439,12 +439,6 @@
         <mark key="^" line="32" column="86" />
         <mark key="." line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1490686557148">
-        <mark key="'" line="21" column="15" />
-        <mark key="[" line="1393" column="17" />
-        <mark key="]" line="1393" column="17" />
-        <mark key="." line="1393" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/ShareSdk/src/main/res/values/strings.xml" timestamp="1478586695498">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="62" />
@@ -533,6 +527,11 @@
         <mark key="]" line="18" column="25" />
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/GiftPagerView.java" timestamp="1492140113193">
+        <mark key="[" line="177" column="65" />
+        <mark key="]" line="177" column="65" />
+        <mark key="." line="177" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1485067740869">
         <mark key="[" line="11" column="19" />
@@ -666,7 +665,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_player_operation_pannel.xml" timestamp="1490686584431" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/lib/JPush/Client.php" timestamp="1477995592372">
         <mark key="[" line="20" column="64" />
         <mark key="]" line="20" column="64" />
@@ -679,7 +677,6 @@
         <mark key="^" line="84" column="57" />
         <mark key="." line="84" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_player.xml" timestamp="1490686137022" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/BottomSheet/proguard-project.txt" timestamp="1474200521305">
         <mark key="[" line="21" column="51" />
         <mark key="]" line="21" column="51" />
@@ -1357,10 +1354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>CashInActivity</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>CashInActivity</text>
       </register>
       <register name="/" type="4">
         <text>ApiHelper</text>
