@@ -1365,6 +1365,11 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Logger.java" timestamp="1492400666241">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -1728,10 +1733,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setVisibility</text>
+        <text>ccvideo</text>
       </register>
       <register name="-" type="4">
-        <text>setVisibility</text>
+        <text>ccvideo</text>
       </register>
       <register name="/" type="4">
         <text>small</text>
