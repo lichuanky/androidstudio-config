@@ -731,11 +731,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" timestamp="1491536036038">
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
-        <mark key="^" line="294" column="11" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" timestamp="1492422718337">
+        <mark key="'" line="171" column="86" />
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/activity/fragment/TabBaseMainFragment.java" timestamp="1474198036730">
         <mark key="[" line="29" column="0" />
@@ -1636,7 +1637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/net/HooviewApiHelper.java" />
       <jump line="109" column="61" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DateTimeUtil.java" />
       <jump line="102" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DateTimeUtil.java" />
       <jump line="126" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DateTimeUtil.java" />
@@ -1736,46 +1736,47 @@
       <jump line="75" column="55" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/WatchingUserView.java" />
       <jump line="66" column="42" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/TopicRecommendAdapter.java" />
       <jump line="353" column="36" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" />
+      <jump line="171" column="86" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZ3Jhdml0eV9sZWZ0Ij5sZWZ0PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImdyYXZpdHlfY2VudGVyIj5jZW50ZXI8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iZ3Jhdml0eV9yaWdodCI+cmlnaHQ8L3N0cmluZz4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">X0hPU1Qg</text>
       </register>
       <register name="-" type="4">
-        <text>sẻ</text>
+        <text encoding="base64">X0hPU1Qg</text>
       </register>
       <register name="/" type="4">
         <text>small</text>
       </register>
-      <register name="0" type="4">
-        <text>拍照</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBURVNUX0hPU1QgPSAiaHR0cDovL2Rldi55aXpoaWJvLnR2L292ZXJzZWEvYXBwZ3cvIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZ3Jhdml0eV9sZWZ0Ij5sZWZ0PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImdyYXZpdHlfY2VudGVyIj5jZW50ZXI8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iZ3Jhdml0eV9yaWdodCI+cmlnaHQ8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBERUJVR19IT1NUID1SRUxFQVNFX0hPU1Q7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYnRuX3RleHRfc2VuZCI+R+G7rWk8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZ3Jhdml0eV9sZWZ0Ij5sZWZ0PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImdyYXZpdHlfY2VudGVyIj5jZW50ZXI8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iZ3Jhdml0eV9yaWdodCI+cmlnaHQ8L3N0cmluZz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6Ym8K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYnRuX3RleHRfc2VuZCI+R+G7rWk8L3N0cmluZz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6Ym8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZ3VvbGl1eWEgb24gMjAxNi8xMC8yOC4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZ3VvbGl1eWEgb24gMjAxNi8xMC8yOC4KICovCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlzbWlzc0xvYWRpbmdEaWFsb2coKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZ3VvbGl1eWEgb24gMjAxNi8xMC8yOC4KICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBnZXRBY3Rpdml0eSgpIG1heWJlIG51bGwgc29tZXRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlzbWlzc0xvYWRpbmdEaWFsb2coKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
