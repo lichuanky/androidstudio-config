@@ -282,6 +282,7 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build/intermediates/exploded-aar/VTCSdk/jars/classes.jar!/com/strategy/intecom/vtc/common/Common.class" timestamp="1492510882403" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/activity_user_selector_list.xml" timestamp="1473323179274">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
@@ -1454,6 +1455,9 @@
         <mark key="^" line="285" column="9" />
         <mark key="." line="285" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build/intermediates/exploded-aar/VTCSdk/jars/classes.jar!/com/strategy/intecom/vtc/tracking/SDKManager.class" timestamp="1492510891738">
+        <mark key="'" line="215" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/values/styles.xml" timestamp="1474176686774">
         <mark key="[" line="66" column="12" />
         <mark key="]" line="57" column="0" />
@@ -1637,7 +1641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="61" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DateTimeUtil.java" />
       <jump line="102" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DateTimeUtil.java" />
       <jump line="126" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DateTimeUtil.java" />
       <jump line="235" column="35" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/ImportNewsListHeaderView.java" />
@@ -1737,6 +1740,7 @@
       <jump line="66" column="42" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/TopicRecommendAdapter.java" />
       <jump line="353" column="36" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" />
       <jump line="171" column="86" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" />
+      <jump line="215" column="23" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build/intermediates/exploded-aar/VTCSdk/jars/classes.jar!/com/strategy/intecom/vtc/tracking/SDKManager.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
