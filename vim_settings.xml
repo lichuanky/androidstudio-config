@@ -637,7 +637,7 @@
         <mark key="^" line="72" column="27" />
         <mark key="." line="72" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1492658931876">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1492660930427">
         <mark key="[" line="622" column="16" />
         <mark key="]" line="622" column="32" />
         <mark key="." line="622" column="33" />
@@ -687,7 +687,13 @@
         <mark key="." line="39" column="35" />
         <mark key="^" line="39" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" timestamp="1492658532568" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" timestamp="1492661242631">
+        <mark key="'" line="34" column="47" />
+        <mark key="[" line="43" column="44" />
+        <mark key="]" line="43" column="70" />
+        <mark key="." line="43" column="70" />
+        <mark key="^" line="43" column="70" />
+      </file>
       <file name="$USER_HOME$/Downloads/SDK/vtc/SDK_DEMO_ORIGIN/VtcSdkDemo/app/src/main/java/com/strategy/intecom/vtc/vtcsdkdemo/MainActivity.java" timestamp="1489651542445">
         <mark key="[" line="84" column="51" />
         <mark key="]" line="84" column="51" />
@@ -1643,7 +1649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DateTimeUtil.java" />
       <jump line="126" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/DateTimeUtil.java" />
       <jump line="235" column="35" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/ImportNewsListHeaderView.java" />
       <jump line="259" column="47" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/common/WebDetailActivity.java" />
@@ -1743,13 +1748,14 @@
       <jump line="353" column="36" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" />
       <jump line="171" column="86" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" />
       <jump line="215" column="23" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build/intermediates/exploded-aar/VTCSdk/jars/classes.jar!/com/strategy/intecom/vtc/tracking/SDKManager.class" />
+      <jump line="34" column="47" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>small</text>
