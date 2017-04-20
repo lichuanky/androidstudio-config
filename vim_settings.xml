@@ -442,7 +442,7 @@
         <mark key="." line="57" column="88" />
         <mark key="^" line="171" column="87" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" timestamp="1492674003172">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" timestamp="1492675146887">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -458,12 +458,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1492674447425">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1492675027675">
         <mark key="'" line="1428" column="57" />
-        <mark key="[" line="1265" column="0" />
-        <mark key="]" line="1265" column="0" />
-        <mark key="." line="1265" column="0" />
-        <mark key="^" line="2" column="34" />
+        <mark key="[" line="1266" column="31" />
+        <mark key="]" line="1266" column="46" />
+        <mark key="." line="1266" column="46" />
+        <mark key="^" line="1266" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/adapter/item/SelectFriendsAdapterItem.java" timestamp="1474263320154">
         <mark key="[" line="32" column="8" />
@@ -676,12 +676,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" timestamp="1492674459624">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" timestamp="1492675047292">
         <mark key="'" line="839" column="30" />
-        <mark key="[" line="77" column="35" />
-        <mark key="]" line="77" column="35" />
-        <mark key="." line="77" column="35" />
-        <mark key="^" line="8" column="55" />
+        <mark key="[" line="74" column="27" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
+        <mark key="^" line="74" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_chat_group_info.xml" timestamp="1492150676012">
         <mark key="[" line="127" column="0" />
@@ -961,10 +961,10 @@
         <mark key="^" line="23" column="85" />
         <mark key="." line="23" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Utils.java" timestamp="1492673815376">
-        <mark key="[" line="460" column="70" />
-        <mark key="]" line="461" column="27" />
-        <mark key="." line="461" column="27" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Utils.java" timestamp="1492675486282">
+        <mark key="[" line="503" column="36" />
+        <mark key="]" line="503" column="36" />
+        <mark key="." line="503" column="36" />
         <mark key="^" line="461" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1485067740869">
@@ -1753,10 +1753,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fb_app_name</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgUi5pZC5tZW51X3NoYXJlX3FxOgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVXRpbHMuc2hhcmVDb250ZW50KGFjdGl2aXR5LCBDb25zdGFudHMuU0hBUkVfQllfUVEsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlQ29udGVudCwgQ29uc3RhbnRzLlNIQVJFX1RZUEVfTk9USUNFKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFIuaWQubWVudV9zaGFyZV9xcV96b25lOgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVXRpbHMuc2hhcmVDb250ZW50KGFjdGl2aXR5LCBDb25zdGFudHMuU0hBUkVfQllfUVFfWk9ORSwgc2hhcmVDb250ZW50LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zdGFudHMuU0hBUkVfVFlQRV9OT1RJQ0UpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgUi5pZC5tZW51X3NoYXJlX3dlaWJvOgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVXRpbHMuc2hhcmVDb250ZW50KGFjdGl2aXR5LCBDb25zdGFudHMuU0hBUkVfQllfV0VJQk8sCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlQ29udGVudCwgQ29uc3RhbnRzLlNIQVJFX1RZUEVfTk9USUNFKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFIuaWQubWVudV9zaGFyZV93ZWl4aW46Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBVdGlscy5zaGFyZUNvbnRlbnQoYWN0aXZpdHksIENvbnN0YW50cy5TSEFSRV9CWV9XRUlYSU4sCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlQ29udGVudCwgQ29uc3RhbnRzLlNIQVJFX1RZUEVfTk9USUNFKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFIuaWQubWVudV9zaGFyZV93ZWl4aW5fY2lyY2xlOgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVXRpbHMuc2hhcmVDb250ZW50KGFjdGl2aXR5LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zdGFudHMuU0hBUkVfQllfV0VJWElOX0NJUkNMRSwgc2hhcmVDb250ZW50LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zdGFudHMuU0hBUkVfVFlQRV9OT1RJQ0UpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>fb_app_name</text>
+        <text>1833016800269574</text>
       </register>
       <register name="/" type="4">
         <text>facebook</text>
@@ -1764,19 +1764,22 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBURVNUX0hPU1QgPSAiaHR0cDovL2Rldi55aXpoaWJvLnR2L292ZXJzZWEvYXBwZ3cvIjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZmJfYXBwX25hbWUiPkVhc3lMaXZlPC9zdHJpbmc+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgUi5pZC5tZW51X3NoYXJlX3FxOgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVXRpbHMuc2hhcmVDb250ZW50KGFjdGl2aXR5LCBDb25zdGFudHMuU0hBUkVfQllfUVEsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlQ29udGVudCwgQ29uc3RhbnRzLlNIQVJFX1RZUEVfTk9USUNFKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFIuaWQubWVudV9zaGFyZV9xcV96b25lOgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVXRpbHMuc2hhcmVDb250ZW50KGFjdGl2aXR5LCBDb25zdGFudHMuU0hBUkVfQllfUVFfWk9ORSwgc2hhcmVDb250ZW50LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zdGFudHMuU0hBUkVfVFlQRV9OT1RJQ0UpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgUi5pZC5tZW51X3NoYXJlX3dlaWJvOgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVXRpbHMuc2hhcmVDb250ZW50KGFjdGl2aXR5LCBDb25zdGFudHMuU0hBUkVfQllfV0VJQk8sCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlQ29udGVudCwgQ29uc3RhbnRzLlNIQVJFX1RZUEVfTk9USUNFKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFIuaWQubWVudV9zaGFyZV93ZWl4aW46Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBVdGlscy5zaGFyZUNvbnRlbnQoYWN0aXZpdHksIENvbnN0YW50cy5TSEFSRV9CWV9XRUlYSU4sCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlQ29udGVudCwgQ29uc3RhbnRzLlNIQVJFX1RZUEVfTk9USUNFKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFIuaWQubWVudV9zaGFyZV93ZWl4aW5fY2lyY2xlOgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVXRpbHMuc2hhcmVDb250ZW50KGFjdGl2aXR5LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zdGFudHMuU0hBUkVfQllfV0VJWElOX0NJUkNMRSwgc2hhcmVDb250ZW50LAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zdGFudHMuU0hBUkVfVFlQRV9OT1RJQ0UpOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZmJfYXBwX2lkIj48L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZmJfYXBwX25hbWUiPkVhc3lMaXZlPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZmJfYXBwX2lkIj48L3N0cmluZz4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>//            case R.id.menu_share_qq:
 //                Utils.shareContent(ctx, Constants.SHARE_BY_QQ, shareContent, type);
 //                break;
@@ -1796,17 +1799,14 @@
 //                        shareContent, type);
 //                break;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBERUJVR19IT1NUID1SRUxFQVNFX0hPU1Q7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZ3Jhdml0eV9sZWZ0Ij5sZWZ0PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImdyYXZpdHlfY2VudGVyIj5jZW50ZXI8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iZ3Jhdml0eV9yaWdodCI+cmlnaHQ8L3N0cmluZz4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYnRuX3RleHRfc2VuZCI+R+G7rWk8L3N0cmluZz4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6Ym8K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYnRuX3RleHRfc2VuZCI+R+G7rWk8L3N0cmluZz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
