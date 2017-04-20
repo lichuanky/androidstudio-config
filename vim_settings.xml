@@ -14,6 +14,12 @@
         <mark key="^" line="117" column="36" />
         <mark key="." line="117" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/VideoListActivity.java" timestamp="1492681810461">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="^" line="207" column="83" />
+        <mark key="." line="204" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1492404982827">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -89,6 +95,7 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/WebViewActivity.java" timestamp="1492681572845" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/Gift/src/main/java/com/easyvaas/common/gift/GiftManager.java" timestamp="1474281779272">
         <mark key="[" line="25" column="57" />
         <mark key="]" line="25" column="58" />
@@ -1193,6 +1200,12 @@
         <mark key="^" line="147" column="59" />
         <mark key="." line="147" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabPersonFriendFragment.java" timestamp="1492681750083">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="125" column="116" />
+        <mark key="." line="124" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/live_bottom_user_info.xml" timestamp="1480590861754">
         <mark key="[" line="76" column="32" />
         <mark key="]" line="76" column="31" />
@@ -1473,6 +1486,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/dialog/FullScreenShareDialog.java" timestamp="1492681645643">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/drawable/btn_user_vip_buy_bg.xml" timestamp="1492153150897">
         <mark key="[" line="11" column="38" />
         <mark key="]" line="11" column="38" />
@@ -1508,6 +1526,7 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/WeiboFriendAdapter.java" timestamp="1492681767173" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/live/activity/SetVideoPermissionActivity.java" timestamp="1473502498031">
         <mark key="[" line="16" column="7" />
         <mark key="]" line="16" column="7" />
@@ -1776,10 +1795,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IHRodW1iRmlsZS5nZXRBYnNvbHV0ZVBhdGgoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>shareImage</text>
       </register>
       <register name="/" type="4">
         <text>facebook</text>
@@ -1788,31 +1807,31 @@
         <text>mSelectVideo.getThumb()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IHRodW1iRmlsZS5nZXRBYnNvbHV0ZVBhdGgoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0WGlhb2thYmlfdXJsKCkgewogICAgICAgIHJldHVybiB4aWFva2FiaV91cmw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZSB0aHVtYkZpbGUgPSBVdGlscy5nZXRCaXRtYXBVdGlscyhWaWRlb0xpc3RBY3Rpdml0eS50aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRCaXRtYXBGaWxlRnJvbURpc2tDYWNoZShtU2VsZWN0VmlkZW8uZ2V0VGh1bWIoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBzaGFyZUltYWdlID0gdGh1bWJGaWxlID09IG51bGwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGdldEZpbGVzRGlyKCkgKyBGaWxlLnNlcGFyYXRvciArIEZpbGVVdGlsLkxPR09fRklMRV9OQU1FCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRYaWFva2FiaV91cmwoU3RyaW5nIHhpYW9rYWJpX3VybCkgewogICAgICAgIHRoaXMueGlhb2thYmlfdXJsID0geGlhb2thYmlfdXJsOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IHRodW1iRmlsZS5nZXRBYnNvbHV0ZVBhdGgoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZSB0aHVtYkZpbGUgPSBVdGlscy5nZXRCaXRtYXBVdGlscyhnZXRBY3Rpdml0eSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRCaXRtYXBGaWxlRnJvbURpc2tDYWNoZSgpOwogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc2hhcmVJbWFnZSA9IHRodW1iRmlsZSA9PSBudWxsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBnZXRBY3Rpdml0eSgpLmdldEZpbGVzRGlyKCkgKyBGaWxlLnNlcGFyYXRvciArIEZpbGVVdGlsLkxPR09fRklMRV9OQU1FCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHhpYW9rYWJpX3VybDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IHRodW1iRmlsZS5nZXRBYnNvbHV0ZVBhdGgoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFhpYW9rYWJpX3VybChTdHJpbmcgeGlhb2thYmlfdXJsKSB7CiAgICAgICAgdGhpcy54aWFva2FiaV91cmwgPSB4aWFva2FiaV91cmw7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRQaG9uZV9iaW5kKCkgewogICAgICAgIHJldHVybiBwaG9uZV9iaW5kOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBob25lX2JpbmQoU3RyaW5nIHBob25lX2JpbmQpIHsKICAgICAgICB0aGlzLnBob25lX2JpbmQgPSBwaG9uZV9iaW5kOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFuX2NvbW1lbnQoTGlzdDxDb21tZW50UHJlcGFyZXNCZWFuPiBhbl9jb21tZW50KSB7CiAgICAgICAgdGhpcy5hbl9jb21tZW50ID0gYW5fY29tbWVudDsKICAgIH0KCiAgICBwdWJsaWMgTGlzdDxDb21tZW50UHJlcGFyZXNCZWFuPiBnZXRBbl9jb21tZW50KCkgewogICAgICAgIHJldHVybiBhbl9jb21tZW50OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNoYXJlKExpc3Q8U2hhcmVFbnRpdHk+IHNoYXJlKSB7CiAgICAgICAgdGhpcy5zaGFyZSA9IHNoYXJlOwogICAgfQoKICAgIHB1YmxpYyBMaXN0PFNoYXJlRW50aXR5PiBnZXRTaGFyZSgpIHsKICAgICAgICByZXR1cm4gc2hhcmU7CiAgICB9CgogICAgcHVibGljIFN3aXRjaExpc3RFbnRpdHkgZ2V0U3dpdGNobGlzdCgpIHsKICAgICAgICByZXR1cm4gc3dpdGNobGlzdDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTd2l0Y2hsaXN0KFN3aXRjaExpc3RFbnRpdHkgc3dpdGNobGlzdCkgewogICAgICAgIHRoaXMuc3dpdGNobGlzdCA9IHN3aXRjaGxpc3Q7CiAgICB9CgogICAgcHVibGljIExpc3Q8UmVjb21tZW5kVHlwZUVudGl0eT4gZ2V0UmVjb21tZW5kdHlwZSgpIHsKICAgICAgICByZXR1cm4gcmVjb21tZW5kdHlwZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRSZWNvbW1lbmR0eXBlKAogICAgICAgICAgICBMaXN0PFJlY29tbWVuZFR5cGVFbnRpdHk+IHJlY29tbWVuZHR5cGUpIHsKICAgICAgICB0aGlzLnJlY29tbWVuZHR5cGUgPSByZWNvbW1lbmR0eXBlOwogICAgfQoKICAgIHB1YmxpYyBMaXN0PFRhc2tMaXN0RW50aXR5PiBnZXREYWlseV90YXNrX2xpc3QoKSB7CiAgICAgICAgcmV0dXJuIGRhaWx5X3Rhc2tfbGlzdDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREYWlseV90YXNrX2xpc3QoTGlzdDxUYXNrTGlzdEVudGl0eT4gZGFpbHlfdGFza19saXN0KSB7CiAgICAgICAgdGhpcy5kYWlseV90YXNrX2xpc3QgPSBkYWlseV90YXNrX2xpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZSB0aHVtYkZpbGUgPSBVdGlscy5nZXRCaXRtYXBVdGlscyhnZXRBY3Rpdml0eSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRCaXRtYXBGaWxlRnJvbURpc2tDYWNoZShtU2VsZWN0VmlkZW8uZ2V0VGh1bWIoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBzaGFyZUltYWdlID0gdGh1bWJGaWxlID09IG51bGwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGdldEFjdGl2aXR5KCkuZ2V0RmlsZXNEaXIoKSArIEZpbGUuc2VwYXJhdG9yICsgRmlsZVV0aWwuTE9HT19GSUxFX05BTUUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0WGlhb2thYmlfdXJsKCkgewogICAgICAgIHJldHVybiB4aWFva2FiaV91cmw7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
