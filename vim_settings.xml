@@ -472,8 +472,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1492679012306">
-        <mark key="'" line="1428" column="57" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1492684392296">
+        <mark key="'" line="1260" column="55" />
         <mark key="[" line="1266" column="31" />
         <mark key="]" line="1266" column="46" />
         <mark key="." line="1266" column="46" />
@@ -1692,7 +1692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" />
       <jump line="20" column="15" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" />
       <jump line="21" column="15" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" />
       <jump line="57" column="41" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
@@ -1792,6 +1791,7 @@
       <jump line="839" column="30" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="202" column="78" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
       <jump line="338" column="80" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabMyFragment.java" />
+      <jump line="1260" column="55" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
