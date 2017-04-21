@@ -129,10 +129,6 @@
         <mark key="." line="44" column="84" />
         <mark key="^" line="44" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabMyFragment.java" timestamp="1492677120307">
-        <mark key="'" line="331" column="80" />
-        <mark key="^" line="417" column="67" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/gradle.properties" timestamp="1491360655323">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="23" />
@@ -469,7 +465,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1492684392296">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1492746980007">
         <mark key="'" line="1260" column="55" />
         <mark key="[" line="1266" column="31" />
         <mark key="]" line="1266" column="46" />
@@ -754,7 +750,7 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
       </file>
-      <file name="/a.regexp" timestamp="1492674412373">
+      <file name="/a.regexp" timestamp="1492747032104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -771,10 +767,10 @@
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" timestamp="1492422718337">
         <mark key="'" line="171" column="86" />
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="42" />
-        <mark key="." line="15" column="42" />
-        <mark key="^" line="15" column="42" />
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="5" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/activity/fragment/TabBaseMainFragment.java" timestamp="1474198036730">
         <mark key="[" line="29" column="0" />
@@ -985,10 +981,10 @@
         <mark key="." line="23" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Utils.java" timestamp="1492680414828">
-        <mark key="[" line="1350" column="34" />
-        <mark key="]" line="1350" column="34" />
-        <mark key="^" line="1338" column="11" />
-        <mark key="." line="1350" column="34" />
+        <mark key="[" line="1349" column="34" />
+        <mark key="]" line="1349" column="34" />
+        <mark key="^" line="1337" column="11" />
+        <mark key="." line="1349" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1485067740869">
         <mark key="[" line="11" column="19" />
@@ -1000,6 +996,9 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="/a.txt" timestamp="1492747027898">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/app/src/main/java/com/easyvass/sdk/vrdemo/PlayerActivity.java" timestamp="1481618488096">
         <mark key="[" line="39" column="0" />
@@ -1785,11 +1784,11 @@
       <jump line="1260" column="55" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IHRodW1iRmlsZS5nZXRBYnNvbHV0ZVBhdGgoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>share</text>
       </register>
       <register name="-" type="4">
-        <text>shareImage</text>
+        <text>share</text>
       </register>
       <register name="/" type="4">
         <text>facebook</text>
