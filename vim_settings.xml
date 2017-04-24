@@ -51,11 +51,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" timestamp="1493027663709">
-        <mark key="[" line="39" column="73" />
-        <mark key="]" line="39" column="73" />
-        <mark key="." line="39" column="73" />
-        <mark key="^" line="39" column="73" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" timestamp="1493033342797">
+        <mark key="[" line="44" column="72" />
+        <mark key="]" line="43" column="80" />
+        <mark key="." line="43" column="80" />
+        <mark key="^" line="43" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/MyUserPhoto.java" timestamp="1493023127255" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_video_field.xml" timestamp="1492150867912">
@@ -491,10 +491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getApplicationContext</text>
+        <text>AUTOMATIC</text>
       </register>
       <register name="-" type="4">
-        <text>getApplicationContext</text>
+        <text>AUTOMATIC</text>
       </register>
       <register name="/" type="4">
         <text>share_to</text>
