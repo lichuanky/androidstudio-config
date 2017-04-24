@@ -62,7 +62,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1493015264230">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1493015921856">
+        <mark key="'" line="1426" column="18" />
         <mark key="[" line="1422" column="0" />
         <mark key="]" line="1422" column="0" />
         <mark key="." line="1422" column="0" />
@@ -181,8 +182,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" timestamp="1493015220461">
-        <mark key="'" line="38" column="35" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" timestamp="1493015927933">
+        <mark key="'" line="171" column="4" />
+        <mark key="[" line="1370" column="0" />
+        <mark key="]" line="1370" column="0" />
+        <mark key="." line="1370" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1492679669511">
         <mark key="[" line="2629" column="0" />
@@ -350,13 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="15" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" />
-      <jump line="57" column="41" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
-      <jump line="61" column="25" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
-      <jump line="1686" column="24" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
-      <jump line="1288" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
-      <jump line="1348" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
       <jump line="1604" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
       <jump line="1667" column="12" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
       <jump line="1004" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
@@ -450,40 +447,47 @@
       <jump line="338" column="80" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabMyFragment.java" />
       <jump line="1260" column="55" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
       <jump line="38" column="35" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" />
+      <jump line="1371" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" />
+      <jump line="1325" column="67" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" />
+      <jump line="1367" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" />
+      <jump line="171" column="18" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="572" column="24" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="171" column="4" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" />
+      <jump line="1426" column="18" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>terms_of_service_vip_content</text>
       </register>
       <register name="/" type="4">
-        <text>facebook</text>
+        <text>share_to</text>
       </register>
       <register name="0" type="4">
         <text>mSelectVideo.getThumb()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHN0cmluZyBuYW1lPSJ0ZXJtc19vZl9zZXJ2aWNlX3ZpcF9jb250ZW50Ij5Mb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0LgogICAgICAgIEFlbmVhbiBldWlzbW9kIGJpYmVuZHVtIGxhb3JlZXQuIFByb2luIGdyYXZpZGEgZG9sb3Igc2l0IGFtZXQgbGFjdXMgYWNjdW1zYW4gZXQgdml2ZXJyYSBqdXN0byBjb21tb2RvLgogICAgICAgIFByb2luIHNvZGFsZXMgcHVsdmluYXIgdGVtcG9yLiBDdW0gc29jaWlzIG5hdG9xdWUgcGVuYXRpYnVzIGV0IG1hZ25pcyBkaXMgcGFydHVyaWVudCBtb250ZXMsIG5hc2NldHVyCiAgICAgICAgcmlkaWN1bHVzIG11cy4gTmFtIGZlcm1lbnR1bSwgbnVsbGEgbHVjdHVzIHBoYXJldHJhIHZ1bHB1dGF0ZSwgZmVsaXMgdGVsbHVzIG1vbGxpcyBvcmNpLCBzZWQgcmhvbmN1cwogICAgICAgIHNhcGllbiBudW5jIGVnZXQuXG4KICAgICAgICBMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0LiBBZW5lYW4gZXVpc21vZCBiaWJlbmR1bSBsYW9yZWV0LiBQcm9pbgogICAgICAgIGdyYXZpZGEgZG9sb3Igc2l0IGFtZXQgbGFjdXMgYWNjdW1zYW4gZXQgdml2ZXJyYSBqdXN0byBjb21tb2RvLiBQcm9pbiBzb2RhbGVzIHB1bHZpbmFyIHRlbXBvci4gQ3VtCiAgICAgICAgc29jaWlzIG5hdG9xdWUgcGVuYXRpYnVzIGV0IG1hZ25pcyBkaXMgcGFydHVyaWVudCBtb250ZXMsIG5hc2NldHVyIHJpZGljdWx1cyBtdXMuIE5hbSBmZXJtZW50dW0sIG51bGxhCiAgICAgICAgbHVjdHVzIHBoYXJldHJhIHZ1bHB1dGF0ZSwgZmVsaXMgdGVsbHVzIG1vbGxpcyBvcmNpLCBzZWQgcmhvbmN1cyBzYXBpZW4gbnVuYyBlZ2V0LlxuCiAgICAgICAgTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gQWVuZWFuIGV1aXNtb2QgYmliZW5kdW0gbGFvcmVldC4gUHJvaW4KICAgICAgICBncmF2aWRhIGRvbG9yIHNpdCBhbWV0IGxhY3VzIGFjY3Vtc2FuIGV0IHZpdmVycmEganVzdG8gY29tbW9kby4gUHJvaW4gc29kYWxlcyBwdWx2aW5hciB0ZW1wb3IuIEN1bQogICAgICAgIHNvY2lpcyBuYXRvcXVlIHBlbmF0aWJ1cyBldCBtYWduaXMgZGlzIHBhcnR1cmllbnQgbW9udGVzLCBuYXNjZXR1ciByaWRpY3VsdXMgbXVzLiBOYW0gZmVybWVudHVtLCBudWxsYQogICAgICAgIGx1Y3R1cyBwaGFyZXRyYSB2dWxwdXRhdGUsIGZlbGlzIHRlbGx1cyBtb2xsaXMgb3JjaSwgc2VkIHJob25jdXMgc2FwaWVuIG51bmMgZWdldC4KICAgIDwvc3RyaW5nPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icmVwb3J0X3ZpZGVvX2Vycm9yIj5W4bqlbiDEkeG7gSB04buRIGPDoW8gY2xpcDwvc3RyaW5nPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IHRodW1iRmlsZS5nZXRBYnNvbHV0ZVBhdGgoKTsK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibXlfdmlwX21lbWJlciI+SOG7mWkgdmnDqm4gVkk8L3N0cmluZz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZSB0aHVtYkZpbGUgPSBVdGlscy5nZXRCaXRtYXBVdGlscyhWaWRlb0xpc3RBY3Rpdml0eS50aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRCaXRtYXBGaWxlRnJvbURpc2tDYWNoZShtU2VsZWN0VmlkZW8uZ2V0VGh1bWIoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBzaGFyZUltYWdlID0gdGh1bWJGaWxlID09IG51bGwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGdldEZpbGVzRGlyKCkgKyBGaWxlLnNlcGFyYXRvciArIEZpbGVVdGlsLkxPR09fRklMRV9OQU1FCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PHN0cmluZyBuYW1lPSJ0ZXJtc19vZl9zZXJ2aWNlX3ZpcF9jb250ZW50Ij5Mb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0LgogICAgICAgIEFlbmVhbiBldWlzbW9kIGJpYmVuZHVtIGxhb3JlZXQuIFByb2luIGdyYXZpZGEgZG9sb3Igc2l0IGFtZXQgbGFjdXMgYWNjdW1zYW4gZXQgdml2ZXJyYSBqdXN0byBjb21tb2RvLgogICAgICAgIFByb2luIHNvZGFsZXMgcHVsdmluYXIgdGVtcG9yLiBDdW0gc29jaWlzIG5hdG9xdWUgcGVuYXRpYnVzIGV0IG1hZ25pcyBkaXMgcGFydHVyaWVudCBtb250ZXMsIG5hc2NldHVyCiAgICAgICAgcmlkaWN1bHVzIG11cy4gTmFtIGZlcm1lbnR1bSwgbnVsbGEgbHVjdHVzIHBoYXJldHJhIHZ1bHB1dGF0ZSwgZmVsaXMgdGVsbHVzIG1vbGxpcyBvcmNpLCBzZWQgcmhvbmN1cwogICAgICAgIHNhcGllbiBudW5jIGVnZXQuXG4KICAgICAgICBMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0LiBBZW5lYW4gZXVpc21vZCBiaWJlbmR1bSBsYW9yZWV0LiBQcm9pbgogICAgICAgIGdyYXZpZGEgZG9sb3Igc2l0IGFtZXQgbGFjdXMgYWNjdW1zYW4gZXQgdml2ZXJyYSBqdXN0byBjb21tb2RvLiBQcm9pbiBzb2RhbGVzIHB1bHZpbmFyIHRlbXBvci4gQ3VtCiAgICAgICAgc29jaWlzIG5hdG9xdWUgcGVuYXRpYnVzIGV0IG1hZ25pcyBkaXMgcGFydHVyaWVudCBtb250ZXMsIG5hc2NldHVyIHJpZGljdWx1cyBtdXMuIE5hbSBmZXJtZW50dW0sIG51bGxhCiAgICAgICAgbHVjdHVzIHBoYXJldHJhIHZ1bHB1dGF0ZSwgZmVsaXMgdGVsbHVzIG1vbGxpcyBvcmNpLCBzZWQgcmhvbmN1cyBzYXBpZW4gbnVuYyBlZ2V0LlxuCiAgICAgICAgTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gQWVuZWFuIGV1aXNtb2QgYmliZW5kdW0gbGFvcmVldC4gUHJvaW4KICAgICAgICBncmF2aWRhIGRvbG9yIHNpdCBhbWV0IGxhY3VzIGFjY3Vtc2FuIGV0IHZpdmVycmEganVzdG8gY29tbW9kby4gUHJvaW4gc29kYWxlcyBwdWx2aW5hciB0ZW1wb3IuIEN1bQogICAgICAgIHNvY2lpcyBuYXRvcXVlIHBlbmF0aWJ1cyBldCBtYWduaXMgZGlzIHBhcnR1cmllbnQgbW9udGVzLCBuYXNjZXR1ciByaWRpY3VsdXMgbXVzLiBOYW0gZmVybWVudHVtLCBudWxsYQogICAgICAgIGx1Y3R1cyBwaGFyZXRyYSB2dWxwdXRhdGUsIGZlbGlzIHRlbGx1cyBtb2xsaXMgb3JjaSwgc2VkIHJob25jdXMgc2FwaWVuIG51bmMgZWdldC4KICAgIDwvc3RyaW5nPg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IHRodW1iRmlsZS5nZXRBYnNvbHV0ZVBhdGgoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZSB0aHVtYkZpbGUgPSBVdGlscy5nZXRCaXRtYXBVdGlscyhnZXRBY3Rpdml0eSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRCaXRtYXBGaWxlRnJvbURpc2tDYWNoZSgpOwogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc2hhcmVJbWFnZSA9IHRodW1iRmlsZSA9PSBudWxsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBnZXRBY3Rpdml0eSgpLmdldEZpbGVzRGlyKCkgKyBGaWxlLnNlcGFyYXRvciArIEZpbGVVdGlsLkxPR09fRklMRV9OQU1FCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZSB0aHVtYkZpbGUgPSBVdGlscy5nZXRCaXRtYXBVdGlscyhWaWRlb0xpc3RBY3Rpdml0eS50aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRCaXRtYXBGaWxlRnJvbURpc2tDYWNoZShtU2VsZWN0VmlkZW8uZ2V0VGh1bWIoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBzaGFyZUltYWdlID0gdGh1bWJGaWxlID09IG51bGwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGdldEZpbGVzRGlyKCkgKyBGaWxlLnNlcGFyYXRvciArIEZpbGVVdGlsLkxPR09fRklMRV9OQU1FCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -496,15 +500,14 @@
       </register>
     </registers>
     <search>
-      <last-search>facebook</last-search>
+      <last-search>share_to</last-search>
       <last-offset />
-      <last-pattern>facebook</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>share_to</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ret_obj</entry>
         <entry>$vs</entry>
         <entry>data</entry>
         <entry>Hot</entry>
@@ -521,6 +524,10 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>small</entry>
         <entry>facebook</entry>
+        <entry>my_vip</entry>
+        <entry>my_profi</entry>
+        <entry>report_video</entry>
+        <entry>share_to</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
