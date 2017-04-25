@@ -8,9 +8,6 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/VideoListActivity.java" timestamp="1492681810461">
-        <mark key="^" line="25" column="83" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/app/src/main/java/com/easyvass/sdk/vrdemo/SetSourceActivity.java" timestamp="1481618495833">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -196,12 +193,12 @@
         <mark key="." line="30" column="42" />
         <mark key="^" line="30" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" timestamp="1493023310420">
-        <mark key="'" line="452" column="17" />
-        <mark key="[" line="117" column="16" />
-        <mark key="]" line="486" column="24" />
-        <mark key="." line="486" column="24" />
-        <mark key="^" line="486" column="24" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" timestamp="1493092934523">
+        <mark key="'" line="249" column="48" />
+        <mark key="[" line="514" column="24" />
+        <mark key="]" line="514" column="25" />
+        <mark key="^" line="514" column="25" />
+        <mark key="." line="514" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/bean/serverparam/ServerParam.java" timestamp="1492680704235">
         <mark key="[" line="71" column="0" />
@@ -322,10 +319,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/db/Preferences.java" timestamp="1492680630304">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/db/Preferences.java" timestamp="1493092628592">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/styles.xml" timestamp="1484762855700">
         <mark key="[" line="414" column="0" />
@@ -388,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/live/LiveRoomManager.java" />
       <jump line="392" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/live/LiveRoomManager.java" />
       <jump line="439" column="16" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/live/LiveRoomManager.java" />
       <jump line="586" column="20" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/live/LiveRoomManager.java" />
@@ -488,46 +484,77 @@
       <jump line="209" column="36" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
       <jump line="452" column="17" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
       <jump line="587" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" />
+      <jump line="255" column="48" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AUTOMATIC</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbUhhbmRsZXIuc2VuZEVtcHR5TWVzc2FnZShNU0dfRVhJVCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>AUTOMATIC</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>share_to</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtSGFuZGxlci5yZW1vdmVNZXNzYWdlcyhNU0dfRVhJVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUhhbmRsZXIuc2VuZEVtcHR5TWVzc2FnZShNU0dfRVhJVCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghbVByZWYuZ2V0Qm9vbGVhbihQcmVmZXJlbmNlcy5LRVlfSVNfQ0hBTkdFRF9TS0lOLCBmYWxzZSkpIHsK</text>
+      <register name="3" type="4">
+        <text>public static String getDeviceInfoForUmeng(Context context) {
+        try {
+            org.json.JSONObject json = new org.json.JSONObject();
+            android.telephony.TelephonyManager tm = (android.telephony.TelephonyManager) context
+                    .getSystemService(Context.TELEPHONY_SERVICE);
+
+            String device_id = tm.getDeviceId();
+
+            android.net.wifi.WifiManager wifi = (android.net.wifi.WifiManager) context
+                    .getSystemService(Context.WIFI_SERVICE);
+
+            String mac = wifi.getConnectionInfo().getMacAddress();
+            json.put(&quot;mac&quot;, mac);
+
+            if (TextUtils.isEmpty(device_id)) {
+                device_id = mac;
+            }
+
+            if (TextUtils.isEmpty(device_id)) {
+                device_id = android.provider.Settings.Secure
+                        .getString(context.getContentResolver(), android.provider.Settings.Secure.ANDROID_ID);
+            }
+
+            json.put(&quot;device_id&quot;, device_id);
+
+            return json.toString();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return null;
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFtUHJlZi5nZXRCb29sZWFuKFByZWZlcmVuY2VzLktFWV9JU19DSEFOR0VEX1NLSU4sIGZhbHNlKSkgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2b2lkIGNoZWNrVXBkYXRlKCkgewogICAgLy8gICAgICAgIG1VcGRhdGVNYW5hZ2VyLmNoZWNrVXBkYXRlSW5mbyhuZXcgVXBkYXRlTWFuYWdlci5VcGRhdGVMaXN0ZW5lcigpIHsKICAgIC8vICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAvLyAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uVXBkYXRlUmV0dXJuZWQoVXBkYXRlSW5mb0VudGl0eSByZXN1bHQpIHsKICAgIC8vICAgICAgICAgICAgICAgIG1QcmVmLnB1dExvbmcoUHJlZmVyZW5jZXMuS0VZX0xBU1RfQ0hFQ0tfVVBEQVRFX1RJTUUsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgIC8vICAgICAgICAgICAgICAgIHN3aXRjaCAocmVzdWx0LmdldFVwZGF0ZSgpKSB7CiAgICAvLyAgICAgICAgICAgICAgICAgICAgY2FzZSBVcGRhdGVNYW5hZ2VyLlVwZGF0ZVN0YXR1cy5ZZXM6IC8vIGhhcyB1cGRhdGUKICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG1IYW5kbGVyICE9IG51bGwpIHsKICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1IYW5kbGVyLnJlbW92ZU1lc3NhZ2VzKE1TR19FWElUKTsKICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1IYW5kbGVyLnJlbW92ZU1lc3NhZ2VzKE1TR19FWElUX0RPV05MT0FEX0FEX1RJTUVPVVQpOwogICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgbVByZWYucHV0Qm9vbGVhbihQcmVmZXJlbmNlcy5LRVlfSVNfSEFWRV9TSE9XX1VQREFURV9ESUFMT0csIHRydWUpOwogICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RhdGlzdGljc1V0aWwuc3RhdGlzdGljRXZlbnQoQ29uc3RhbnRzLlVNRU5HX0VWRU5UX1NIT1dfVVBEQVRFKTsKICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgLy8gICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgIC8vICAgICAgICAgICAgICAgICAgICBjYXNlIFVwZGF0ZU1hbmFnZXIuVXBkYXRlU3RhdHVzLk5vOiAvLyBoYXMgbm8gdXBkYXRlCiAgICAvLyAgICAgICAgICAgICAgICAgICAgY2FzZSBVcGRhdGVNYW5hZ2VyLlVwZGF0ZVN0YXR1cy5Ob25lV2lmaTogLy8gbm9uZSB3aWZpCiAgICAvLyAgICAgICAgICAgICAgICAgICAgY2FzZSBVcGRhdGVNYW5hZ2VyLlVwZGF0ZVN0YXR1cy5UaW1lb3V0OiAvLyB0aW1lIG91dAogICAgLy8gICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgIC8vICAgICAgICAgICAgICAgIH0KICAgIC8vICAgICAgICAgICAgfQogICAgLy8gICAgICAgIH0sIG5ldyBVcGRhdGVNYW5hZ2VyLlVwZGF0ZURpYWxvZ0xpc3RlbmVyKCl7CiAgICAvLyAgICAgICAgICAgIEBPdmVycmlkZQogICAgLy8gICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKGludCB1cGRhdGVTdGF0dXMpIHsKICAgIC8vICAgICAgICAgICAgICAgIHN3aXRjaCAodXBkYXRlU3RhdHVzKSB7CiAgICAvLyAgICAgICAgICAgICAgICAgICAgY2FzZSBVcGRhdGVNYW5hZ2VyLlVwZGF0ZVN0YXR1cy5VcGRhdGU6CiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgIGlmICghbVVwZGF0ZU1hbmFnZXIuaXNGb3JjZVVwZGF0ZSgpKSB7CiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWxheUV4aXQoMCk7CiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgU3RhdGlzdGljc1V0aWwuc3RhdGlzdGljRXZlbnQoQ29uc3RhbnRzLlVNRU5HX0VWRU5UX0NPTkZJUk1fVVBEQVRFKTsKICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAvLyAgICAgICAgICAgICAgICAgICAgY2FzZSBVcGRhdGVNYW5hZ2VyLlVwZGF0ZVN0YXR1cy5JZ25vcmU6CiAgICAvLyAgICAgICAgICAgICAgICAgICAgY2FzZSBVcGRhdGVNYW5hZ2VyLlVwZGF0ZVN0YXR1cy5Ob3ROb3c6CiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgIGlmICghbVVwZGF0ZU1hbmFnZXIuaXNGb3JjZVVwZGF0ZSgpICYmICFmaW5kVmlld0J5SWQoUi5pZC5ndWlkZV9wYWdlcykuaXNTaG93bigpKSB7CiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWxheUV4aXQoMCk7CiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgU3RhdGlzdGljc1V0aWwuc3RhdGlzdGljRXZlbnQoQ29uc3RhbnRzLlVNRU5HX0VWRU5UX0lHTk9SRV9VUERBVEUpOwogICAgLy8gICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgIC8vICAgICAgICAgICAgICAgICAgICBjYXNlIFVwZGF0ZU1hbmFnZXIuRG93bmxvYWRTdGF0dXMuSW50ZXJjZXB0OgogICAgLy8gICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgIC8vICAgICAgICAgICAgICAgIH0KICAgIC8vICAgICAgICAgICAgICAgIGlmIChtSGFuZGxlciAhPSBudWxsICYmICFtSGFuZGxlci5oYXNNZXNzYWdlcyhNU0dfRVhJVCkpIHsKICAgIC8vICAgICAgICAgICAgICAgICAgICBjaGVja1VzZXJTZXNzaW9uKCk7CiAgICAvLyAgICAgICAgICAgICAgICB9CiAgICAvLyAgICAgICAgICAgIH0KICAgIC8vICAgICAgICB9KTsKICAgIC8vICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2luQnlTTlNBY2NvdW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0xvZ2dlci5kKCJ4eHh4IiwgZ2V0RGV2aWNlSW5mb0ZvclVtZW5nKHRoaXMpKTsKICAgICAgICAvL0xvZ2dlci5kKCJ4eHh4IiwgVXRpbHMuZ2V0QXBwTWV0YURhdGEodGhpcywgIlVNRU5HX0FQUEtFWSIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMbwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgaWYgKG1VcGRhdGVNYW5hZ2VyLmdldERvd25sb2FkU3RhdHVzKCkgPT0gVXBkYXRlTWFuYWdlci5Eb3dubG9hZFN0YXR1cy5Db21wbGV0ZQogICAgICAgIC8vICAgICAgICAgICAgICAgICYmIG1VcGRhdGVNYW5hZ2VyLmlzRm9yY2VVcGRhdGUoKSkgewogICAgICAgIC8vICAgICAgICAgICAgbVVwZGF0ZU1hbmFnZXIuc2hvd0Rvd25sb2FkRGlhbG9nKCk7CiAgICAgICAgLy8gICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgbVVwZGF0ZU1hbmFnZXIgPSBVcGRhdGVNYW5hZ2VyLmdldEluc3RhbmNlKHRoaXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
