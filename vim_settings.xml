@@ -127,6 +127,12 @@
         <mark key="]" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/JoinAnimationView.java" timestamp="1493114159328">
+        <mark key="[" line="236" column="44" />
+        <mark key="]" line="236" column="44" />
+        <mark key="^" line="236" column="43" />
+        <mark key="." line="236" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/UserVipBuyActivity.java" timestamp="1493017783113">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -179,9 +185,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.txt" timestamp="1492747027898">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/app/src/main/java/com/easyvass/sdk/vrdemo/PlayerActivity.java" timestamp="1481618488096">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -200,6 +203,7 @@
         <mark key="^" line="514" column="25" />
         <mark key="." line="514" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/anim_level.xml" timestamp="1493114149254" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/bean/serverparam/ServerParam.java" timestamp="1492680704235">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -491,10 +495,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Vấn đề tố cáo clip</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>Vấn đề tố cáo clip</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>share_to</text>
