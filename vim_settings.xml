@@ -210,11 +210,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" timestamp="1493015927933">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" timestamp="1493111024708">
         <mark key="'" line="171" column="4" />
-        <mark key="[" line="1370" column="0" />
-        <mark key="]" line="1370" column="0" />
-        <mark key="." line="1370" column="0" />
+        <mark key="[" line="1369" column="38" />
+        <mark key="]" line="1369" column="53" />
+        <mark key="." line="1369" column="53" />
+        <mark key="^" line="1369" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_live_notice_detail.xml" timestamp="1492150655327">
         <mark key="[" line="23" column="0" />
@@ -247,11 +248,11 @@
         <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" timestamp="1492675047292">
-        <mark key="'" line="839" column="30" />
-        <mark key="[" line="74" column="27" />
-        <mark key="]" line="74" column="43" />
-        <mark key="." line="74" column="43" />
-        <mark key="^" line="74" column="43" />
+        <mark key="'" line="840" column="30" />
+        <mark key="[" line="75" column="27" />
+        <mark key="]" line="75" column="43" />
+        <mark key="." line="75" column="43" />
+        <mark key="^" line="75" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/TextActivity.java" timestamp="1493018069195">
         <mark key="[" line="50" column="8" />
@@ -314,7 +315,7 @@
         <mark key="." line="312" column="33" />
         <mark key="^" line="312" column="33" />
       </file>
-      <file name="/a.regexp" timestamp="1493021277196">
+      <file name="/a.regexp" timestamp="1493111194594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -488,11 +489,11 @@
       <jump line="255" column="48" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUhhbmRsZXIuc2VuZEVtcHR5TWVzc2FnZShNU0dfRVhJVCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Vấn đề tố cáo clip</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>Vấn đề tố cáo clip</text>
       </register>
       <register name="/" type="4">
         <text>share_to</text>
