@@ -120,7 +120,7 @@
         <mark key="]" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/JoinAnimationView.java" timestamp="1493114159328">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/JoinAnimationView.java" timestamp="1493198030111">
         <mark key="[" line="236" column="44" />
         <mark key="]" line="236" column="44" />
         <mark key="^" line="236" column="43" />
@@ -240,10 +240,11 @@
         <mark key="." line="1369" column="53" />
         <mark key="^" line="1369" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1493117013833">
-        <mark key="[" line="2904" column="0" />
-        <mark key="]" line="2904" column="0" />
-        <mark key="." line="2904" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1493198501624">
+        <mark key="[" line="3731" column="43" />
+        <mark key="]" line="3731" column="43" />
+        <mark key="." line="3731" column="43" />
+        <mark key="^" line="3731" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_live_notice_detail.xml" timestamp="1492150655327">
         <mark key="[" line="23" column="0" />
@@ -517,10 +518,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Cancel</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Cancel</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>share_to</text>
