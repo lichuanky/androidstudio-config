@@ -23,6 +23,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Android/android-sdk-macosx/sources/android-23/android/app/Activity.java" timestamp="1493205552560" />
       <file name="$USER_HOME$/workspace/yzb/hooview/HooViewAndroid/gradle.properties" timestamp="1476266295572">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -629,12 +630,15 @@
         <mark key="^" line="27" column="61" />
         <mark key="." line="27" column="61" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" timestamp="1493201766261" />
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" timestamp="1493205417704" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/usercenter/FriendsUserInfoActivity.java" timestamp="1473498921369">
         <mark key="[" line="159" column="40" />
         <mark key="]" line="159" column="40" />
         <mark key="^" line="163" column="21" />
         <mark key="." line="159" column="40" />
+      </file>
+      <file name="/a.regexp" timestamp="1493205419766">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/HomeTopicAdapterItem.java" timestamp="1473663540856">
         <mark key="[" line="48" column="52" />
@@ -796,6 +800,9 @@
         <mark key="]" line="99" column="44" />
         <mark key="^" line="99" column="44" />
         <mark key="." line="99" column="44" />
+      </file>
+      <file name="/a.txt" timestamp="1493205425408">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/UserVipCenterActivity.java" timestamp="1492142965508">
         <mark key="[" line="85" column="56" />
