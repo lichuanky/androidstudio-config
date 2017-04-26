@@ -204,12 +204,11 @@
         <mark key="]" line="2" column="85" />
         <mark key="." line="2" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" timestamp="1493092934523">
-        <mark key="'" line="249" column="48" />
-        <mark key="[" line="514" column="24" />
-        <mark key="]" line="514" column="25" />
-        <mark key="^" line="514" column="25" />
-        <mark key="." line="514" column="25" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" timestamp="1493207549752">
+        <mark key="'" line="226" column="72" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="41" />
+        <mark key="." line="236" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/live/LiveChatManager.java" timestamp="1493117086106">
         <mark key="[" line="1224" column="100" />
@@ -410,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/styles.xml" />
       <jump line="5" column="32" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" />
       <jump line="26" column="8" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" />
@@ -510,10 +508,11 @@
       <jump line="49" column="62" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/gift/action/NotificationAction.java" />
       <jump line="39" column="8" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/gift/action/NotificationAction.java" />
       <jump line="18" column="34" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" />
+      <jump line="226" column="72" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc21pc3NMb2FkaW5nRGlhbG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXlFeGl0KFNIT1dfRFVSQVRJT05fVElNRU9VVCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -525,36 +524,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZChUQUcsICJvbkNhbmNlbCgpIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc21pc3NMb2FkaW5nRGlhbG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXlFeGl0KFNIT1dfRFVSQVRJT05fVElNRU9VVCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtSGFuZGxlci5zZW5kRW1wdHlNZXNzYWdlRGVsYXllZChNU0dfRVhJVF9ET1dOTE9BRF9BRF9USU1FT1VULCBET1dOTE9BRF9BRF9JTUFHRV9USU1FT1VUKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>new CallbackManager() {
-                @Override
-                public boolean onActivityResult(int requestCode, int resultCode, Intent data) {
-                    return false;
-                }
-            }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtSGFuZGxlci5yZW1vdmVNZXNzYWdlcyhNU0dfRVhJVF9ET1dOTE9BRF9BRF9USU1FT1VUKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlci5vbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgTVNHX0VYSVRfRE9XTkxPQURfQURfVElNRU9VVDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmFjZWJvb2tTZGsuaXNJbml0aWFsaXplZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnJlbW92ZU1lc3NhZ2VzKE1TR19FWElUX0RPV05MT0FEX0FEX1RJTUVPVVQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9naW5NYW5hZ2VyLmdldEluc3RhbmNlKCkubG8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBNU0dfRVhJVF9ET1dOTE9BRF9BRF9USU1FT1VUID0gMHgxMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmb3IgKEVNQ29udmVyc2F0aW9uIGVtQ29udmVyc2F0aW9uIDogbUdyb3VwRU1Db252ZXJzYXRpb25MaXN0KSB7Ci8vICAgICAgICAgICAgICAgIGVtQ29udmVyc2F0aW9uLm1hcmtBbGxNZXNzYWdlc0FzUmVhZCgpOwovLyAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtSGFuZGxlci5yZW1vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZWZyZXNoQ2hhdFBlcnNvblByaXZhdGVEYXRhKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc21pc3NMb2FkaW5nRGlhbG9nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
