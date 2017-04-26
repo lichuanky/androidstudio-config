@@ -48,12 +48,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" timestamp="1493192395922">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" timestamp="1493200739376">
         <mark key="'" line="26" column="34" />
-        <mark key="[" line="72" column="45" />
-        <mark key="]" line="72" column="51" />
-        <mark key="." line="72" column="51" />
-        <mark key="^" line="72" column="51" />
+        <mark key="[" line="59" column="9" />
+        <mark key="]" line="56" column="9" />
+        <mark key="^" line="56" column="9" />
+        <mark key="." line="56" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_video_field.xml" timestamp="1492150867912">
         <mark key="[" line="24" column="0" />
@@ -198,6 +198,7 @@
         <mark key="^" line="185" column="55" />
         <mark key="." line="185" column="57" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/4.4.0/539c64641bb2943d9cfbd23a1eb3251661dde699/facebook-android-sdk-4.4.0-sources.jar!/com/facebook/AccessToken.java" timestamp="1493199588079" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/drawable/btn_home_tab_timeline.xml" timestamp="1493176762347">
         <mark key="[" line="2" column="68" />
         <mark key="]" line="2" column="85" />
@@ -239,12 +240,6 @@
         <mark key="]" line="1369" column="53" />
         <mark key="." line="1369" column="53" />
         <mark key="^" line="1369" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1493198501624">
-        <mark key="[" line="3731" column="43" />
-        <mark key="]" line="3731" column="43" />
-        <mark key="." line="3731" column="43" />
-        <mark key="^" line="3731" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_live_notice_detail.xml" timestamp="1492150655327">
         <mark key="[" line="23" column="0" />
@@ -517,8 +512,8 @@
       <jump line="18" column="34" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -532,7 +527,10 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>new CallbackManager() {
                 @Override
                 public boolean onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -540,26 +538,23 @@
                 }
             }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlci5vbgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRmFjZWJvb2tTZGsuaXNJbml0aWFsaXplZCgpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9naW5NYW5hZ2VyLmdldEluc3RhbmNlKCkubG8K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBmb3IgKEVNQ29udmVyc2F0aW9uIGVtQ29udmVyc2F0aW9uIDogbUdyb3VwRU1Db252ZXJzYXRpb25MaXN0KSB7Ci8vICAgICAgICAgICAgICAgIGVtQ29udmVyc2F0aW9uLm1hcmtBbGxNZXNzYWdlc0FzUmVhZCgpOwovLyAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICByZWZyZXNoQ2hhdFBlcnNvblByaXZhdGVEYXRhKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG1DaGF0UGVyc29uQWRhcHRlci5ub3RpZnlJdGVtQ2hhbmdlZChpKzEpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG1DaGF0UGVyc29uQWRhcHRlci5ub3RpZnlJdGVtQ2hhbmdlZChpKzEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
