@@ -70,7 +70,6 @@
         <mark key="^" line="43" column="54" />
         <mark key="." line="43" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/drawable/btn_home_tab_person.xml" timestamp="1493128237586" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/ShareHelper.java" timestamp="1478586522319">
         <mark key="[" line="87" column="43" />
         <mark key="]" line="87" column="65" />
@@ -239,7 +238,7 @@
         <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" timestamp="1493128344067">
-        <mark key="[" line="599" column="63" />
+        <mark key="[" line="12" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/de_panoplay/src/main/AndroidManifest.xml" timestamp="1481618455755">
         <mark key="[" line="16" column="0" />
@@ -630,6 +629,7 @@
         <mark key="^" line="27" column="61" />
         <mark key="." line="27" column="61" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" timestamp="1493201766261" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/usercenter/FriendsUserInfoActivity.java" timestamp="1473498921369">
         <mark key="[" line="159" column="40" />
         <mark key="]" line="159" column="40" />
@@ -797,7 +797,6 @@
         <mark key="^" line="99" column="44" />
         <mark key="." line="99" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/drawable/rect_black_photo_selector.xml" timestamp="1493128605937" />
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/UserVipCenterActivity.java" timestamp="1492142965508">
         <mark key="[" line="85" column="56" />
         <mark key="]" line="85" column="56" />
