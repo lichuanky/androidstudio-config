@@ -49,7 +49,8 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" timestamp="1493033342797">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" timestamp="1493175533701">
+        <mark key="'" line="18" column="34" />
         <mark key="[" line="44" column="72" />
         <mark key="]" line="43" column="80" />
         <mark key="." line="43" column="80" />
@@ -195,7 +196,11 @@
         <mark key="^" line="185" column="55" />
         <mark key="." line="185" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/drawable/btn_home_tab_timeline.xml" timestamp="1493118773890" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/drawable/btn_home_tab_timeline.xml" timestamp="1493176762347">
+        <mark key="[" line="2" column="68" />
+        <mark key="]" line="2" column="85" />
+        <mark key="." line="2" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" timestamp="1493092934523">
         <mark key="'" line="249" column="48" />
         <mark key="[" line="514" column="24" />
@@ -233,6 +238,7 @@
         <mark key="." line="1369" column="53" />
         <mark key="^" line="1369" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiHelper.java" timestamp="1493175772968" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1493117013833">
         <mark key="[" line="2904" column="0" />
         <mark key="]" line="2904" column="0" />
@@ -292,6 +298,7 @@
         <mark key="." line="191" column="56" />
         <mark key="^" line="191" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/AboutActivity.java" timestamp="1493176848578" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/AndroidManifest.xml" timestamp="1484876409741">
         <mark key="[" line="71" column="27" />
         <mark key="]" line="71" column="27" />
@@ -336,7 +343,7 @@
         <mark key="]" line="185" column="0" />
         <mark key="." line="185" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1493116497532">
+      <file name="/a.regexp" timestamp="1493176408432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -407,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="17" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/styles.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/styles.xml" />
       <jump line="5" column="32" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" />
@@ -507,13 +513,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/bean/socket/ChatGiftEntity.java" />
       <jump line="49" column="62" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/gift/action/NotificationAction.java" />
       <jump line="39" column="8" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/gift/action/NotificationAction.java" />
+      <jump line="18" column="34" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>home_tab_home_sel</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>home_tab_home_sel</text>
       </register>
       <register name="/" type="4">
         <text>share_to</text>
