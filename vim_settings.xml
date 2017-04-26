@@ -65,11 +65,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" timestamp="1493115915864">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" timestamp="1493202019865">
         <mark key="'" line="131" column="71" />
-        <mark key="[" line="171" column="43" />
-        <mark key="]" line="103" column="65" />
-        <mark key="." line="103" column="65" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="31" />
+        <mark key="." line="217" column="0" />
         <mark key="^" line="103" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/adapter/ImportNewsAdapter.java" timestamp="1484799827172">
@@ -513,7 +513,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc21pc3NMb2FkaW5nRGlhbG9nKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -525,12 +525,15 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZChUQUcsICJvbkNhbmNlbCgpIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc21pc3NMb2FkaW5nRGlhbG9nKCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>new CallbackManager() {
                 @Override
                 public boolean onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -538,23 +541,20 @@
                 }
             }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlci5vbgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRmFjZWJvb2tTZGsuaXNJbml0aWFsaXplZCgpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9naW5NYW5hZ2VyLmdldEluc3RhbmNlKCkubG8K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBmb3IgKEVNQ29udmVyc2F0aW9uIGVtQ29udmVyc2F0aW9uIDogbUdyb3VwRU1Db252ZXJzYXRpb25MaXN0KSB7Ci8vICAgICAgICAgICAgICAgIGVtQ29udmVyc2F0aW9uLm1hcmtBbGxNZXNzYWdlc0FzUmVhZCgpOwovLyAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZWZyZXNoQ2hhdFBlcnNvblByaXZhdGVEYXRhKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG1DaGF0UGVyc29uQWRhcHRlci5ub3RpZnlJdGVtQ2hhbmdlZChpKzEpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZWZyZXNoQ2hhdFBlcnNvblByaXZhdGVEYXRhKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
