@@ -60,6 +60,12 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/LeftCenterAdapter.java" timestamp="1493290606831">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/UserRegisterFragment.java" timestamp="1493266131964">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="33" column="0" />
@@ -77,6 +83,11 @@
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/HeaderSliderAdapterItem.java" timestamp="1493290616105">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/Demo/src/com/demo/panoplayer/PlayerActivity.java" timestamp="1481615716723">
         <mark key="[" line="308" column="19" />
@@ -134,11 +145,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" timestamp="1493286893150">
-        <mark key="'" line="32" column="10" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" timestamp="1493290591436">
+        <mark key="'" line="326" column="8" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/live/LiveChatManager.java" timestamp="1493117086106">
         <mark key="[" line="1224" column="100" />
@@ -343,10 +354,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="332" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Logger.java" timestamp="1492400666241">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Logger.java" timestamp="1493290379502">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+        <mark key="^" line="4" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/JoinAnimationView.java" timestamp="1493277277117" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/UserVipBuyActivity.java" timestamp="1493266042737">
@@ -386,10 +398,11 @@
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/YouZanWebViewActivity.java" timestamp="1493283978487">
         <mark key="'" line="57" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SettingActivity.java" timestamp="1493283955055">
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SettingActivity.java" timestamp="1493290573256">
+        <mark key="'" line="259" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/4.4.0/539c64641bb2943d9cfbd23a1eb3251661dde699/facebook-android-sdk-4.4.0-sources.jar!/com/facebook/AccessToken.java" timestamp="1493199588079" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/drawable/btn_home_tab_timeline.xml" timestamp="1493176762347">
@@ -410,12 +423,11 @@
         <mark key="^" line="1369" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1493277037996" />
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" timestamp="1493289592457">
-        <mark key="'" line="382" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="408" column="71" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" timestamp="1493290909792">
+        <mark key="'" line="209" column="12" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="23" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_live_notice_detail.xml" timestamp="1492150655327">
         <mark key="[" line="23" column="0" />
@@ -476,8 +488,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" timestamp="1492422718337">
-        <mark key="'" line="171" column="86" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" timestamp="1493290328965">
+        <mark key="'" line="43" column="74" />
         <mark key="[" line="5" column="42" />
         <mark key="]" line="5" column="42" />
         <mark key="." line="5" column="42" />
@@ -496,25 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="572" column="24" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
-      <jump line="171" column="4" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-vi/strings.xml" />
-      <jump line="1426" column="18" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
-      <jump line="333" column="63" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/UserLoginHomeFragment.java" />
-      <jump line="232" column="40" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" />
-      <jump line="236" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" />
-      <jump line="50" column="25" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" />
-      <jump line="500" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="115" column="71" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" />
-      <jump line="209" column="36" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="452" column="17" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="587" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/HomeTabActivity.java" />
-      <jump line="255" column="48" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="3" column="34" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/bean/socket/ChatGiftEntity.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/bean/socket/ChatGiftEntity.java" />
-      <jump line="49" column="62" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/gift/action/NotificationAction.java" />
-      <jump line="39" column="8" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/gift/action/NotificationAction.java" />
-      <jump line="18" column="34" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" />
-      <jump line="226" column="72" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/WebViewActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/dialog/UserInfoDialog.java" />
@@ -596,74 +589,81 @@
       <jump line="386" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
       <jump line="222" column="46" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
       <jump line="383" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="43" column="74" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" />
+      <jump line="264" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SettingActivity.java" />
+      <jump line="330" column="8" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/LeftCenterAdapter.java" />
+      <jump line="124" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="214" column="29" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="76" column="25" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="207" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="112" column="12" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="165" column="10" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="166" column="10" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="167" column="12" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="171" column="19" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="174" column="12" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="176" column="5" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="209" column="12" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="45" column="10" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
+      <jump line="208" column="12" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWRvbnR3YXJuIGNvbS5nb29nbGUuKioK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Baidu</text>
       </register>
       <register name="/" type="4">
-        <text>.*com.lecloud.sdk*</text>
+        <text>com.google</text>
       </register>
-      <register name="0" type="4">
-        <text>manifestPlaceholders = [
-                    JPUSH_PKGNAME   : applicationId,
-                    JPUSH_APPKEY    : &quot;ed5a181d469d72fd1ffe18b5&quot;,
-                    JPUSH_CHANNEL   : &quot;dev&quot;,
-                    BAIDU_LBS_APPKEY: &quot;lPFiv4F5rTRBU0Xst45vGRtgCwcroMt3&quot;,
-                    EASEMOB_APPKEY  : &quot;cloudfocus#easylive-oversea&quot;,
-                    YZ_APP_ID       : &quot;769d1c635ddf0da59b&quot;,
-                    YZ_APP_SECRET   : &quot;868cce5b714a5d99c4cc41b62be17817&quot;
-            ]</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIyAgICMjIyMjIyMjIyMgQmFpZHVQdXNoICAgIyMjIyMjIyMjIwojIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWRvbnR3YXJuIGNvbS5nb29nbGUuKioK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWRvbnR3YXJuIGNvbS5nb29nbGUuKioK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGluaXRMZXR2KCk7Cg==</text>
+        <text encoding="base64">LWRvbnR3YXJuIGNvbS5nb29nbGUuKioK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY24uanB1c2guKiogeyAqOyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBVcGRhdGUganB1c2ggbGlicwo=</text>
+        <text encoding="base64">LWRvbnR3YXJuIGNuLmpwdXNoLioqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyAjICAjIyMjIyMjIyMjIyMjIyMgSnB1c2ggIyMjIyMjIyMjIyMjIyMjIyMjCiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIGFuZHJvaWQ6dmFsdWU9ImNsb3VkZm9jdXMjZWFzeWxpdmUtaXR2bGl2ZSIvPgogICAgICAgIDxtZXRhLWRhdGEKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJjb20uYmFpZHUubGJzYXBpLkFQSV9LRVkiCiAgICAgICAgICAgIGFuZHJvaWQ6dmFsdWU9IlVFMVpPWmVpOXNQQ1h0dmJMN01WbXJrNlNnbVFDYVNpIi8+Cj09PT09PT0=</text>
+        <text encoding="base64">CiMjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyMgICAjIyMjIyMjIyMjIEpQdXNoICAgIyMjIyMjIyMjIwojIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi1kb250d2FybiBjbi5qcHVzaC4qKgota2VlcCBjbGFzcyBjbi5qcHVzaC4qKiB7ICo7IH0KLWRvbnR3YXJuIGNuLmppZ3VhbmcuKioKLWtlZXAgY2xhc3MgY24uamlndWFuZy4qKiB7ICo7IH0=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBDaGFuZ2UgaXR2bGl2ZSBmaW5hbCBwYWNrYWdlIG5hbWUK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set hls</text>
       </register>
     </registers>
     <search>
-      <last-search>.*com.lecloud.sdk*</last-search>
+      <last-search>com.google</last-search>
       <last-offset />
-      <last-pattern>.*com.lecloud.sdk*</last-pattern>
+      <last-pattern>com.google</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>change</entry>
-        <entry encoding="base64">XDwoXD4=</entry>
-        <entry>small</entry>
-        <entry>facebook</entry>
         <entry>my_vip</entry>
         <entry>my_profi</entry>
         <entry>report_video</entry>
@@ -675,11 +675,15 @@
         <entry>umeng</entry>
         <entry>meta-data</entry>
         <entry>jpush</entry>
-        <entry encoding="base64">PDw8</entry>
         <entry>meta</entry>
         <entry>*com.lecloud.sdk*</entry>
         <entry>*.com.lecloud.sdk*</entry>
         <entry>.*com.lecloud.sdk*</entry>
+        <entry encoding="base64">PDw8</entry>
+        <entry>JPush</entry>
+        <entry>Jp</entry>
+        <entry>com.google.**</entry>
+        <entry>com.google</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
@@ -692,6 +696,7 @@
         <entry>%s/*com.lecloud.sdk*/d</entry>
         <entry>%g/.*com.lecloud.sdk.*/d</entry>
         <entry>w</entry>
+        <entry>set hls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
