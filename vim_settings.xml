@@ -14,7 +14,7 @@
         <mark key="]" line="204" column="0" />
         <mark key="." line="204" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1493291702061">
+      <file name="/a.dummy" timestamp="1493353776908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -193,7 +193,7 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" timestamp="1493287858093">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" timestamp="1493353293069">
         <mark key="'" line="111" column="27" />
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
@@ -452,23 +452,24 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" timestamp="1493287246236">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" timestamp="1493353334112">
         <mark key="'" line="86" column="9" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+        <mark key="[" line="107" column="27" />
+        <mark key="]" line="107" column="27" />
+        <mark key="." line="107" column="27" />
+        <mark key="^" line="107" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_chat_group_info.xml" timestamp="1492150676012">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" timestamp="1493291110401">
-        <mark key="'" line="20" column="50" />
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="41" />
-        <mark key="^" line="20" column="41" />
-        <mark key="." line="20" column="41" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" timestamp="1493354469559">
+        <mark key="'" line="450" column="0" />
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="20" column="56" />
+        <mark key="^" line="20" column="56" />
+        <mark key="." line="20" column="56" />
       </file>
       <file name="/Dummy.txt" timestamp="1492676100555">
         <mark key="[" line="0" column="0" />
@@ -520,7 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/dialog/FullScreenShareDialog.java" />
       <jump line="47" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabPersonFriendFragment.java" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" />
       <jump line="58" column="33" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
@@ -620,55 +620,56 @@
       <jump line="296" column="25" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
       <jump line="290" column="33" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
       <jump line="78" column="32" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/HeaderSliderAdapterItem.java" />
+      <jump line="447" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5bGl2ZS5vdmVyc2VhLlI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>23429548</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>23429548</text>
       </register>
       <register name="/" type="4">
-        <text>bean.\*\*</text>
+        <text>&quot;{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmVhc3lsaXZlLm92ZXJzZWEuYmVhbi4qKiB7Kjt9Cg==</text>
+        <text encoding="base64">ICAgIC8vPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IEdvb2dsZSBBbmFseXRpY3MgPT09PT09PT09PT09PT09PT09Ly8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5bGl2ZS5vdmVyc2VhLlI7Cg==</text>
+        <text encoding="base64">ICAgIC8vQmFpQ2h1YW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvL0JhaUNodWFuCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGRUVEQkFDS19BUFBfS0VZPSIyMzQyOTU0OCI7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgIyAgIyMjIyMjIyMjIyMjIyMjIEdyb3dpbmdJTyAjIyMjIyMjIyMjIyMjIyMjCiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi1kb250d2FybiBjb20uZ3Jvd2luZ2lvLioqCi1kb250bm90ZSBjb20uZ3Jvd2luZ2lvLioqCi1rZWVwIGNsYXNzIGNvbS5ncm93aW5naW8uYW5kcm9pZC5zZGsuKiogewogICAgcHVibGljICo7Cn0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5bGl2ZS5vdmVyc2VhLlI7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgIyAgIyMjIyMjIyMjIyMjIyMjIHNodXppbG0uY24gIyMjIyMjIyMjIyMjIyMjCiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi1rZWVwIGNsYXNzIGNuLnNodXppbG0uY29yZS5NYWluIHsKICAgIHB1YmxpYyAqOwp9Ci1rZWVwY2xhc3Nlc3dpdGhtZW1iZXJuYW1lcyBjbGFzcyBjbi5zaHV6aWxtLmNvcmUuTWFpbiB7CiAgICBuYXRpdmUgPG1ldGhvZHM+Owp9</text>
+        <text encoding="base64">CiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgIyAgIyMjIyMjIyMjIyMjIyMjIEdyb3dpbmdJTyAjIyMjIyMjIyMjIyMjIyMjCiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi1kb250d2FybiBjb20uZ3Jvd2luZ2lvLioqCi1kb250bm90ZSBjb20uZ3Jvd2luZ2lvLioqCi1rZWVwIGNsYXNzIGNvbS5ncm93aW5naW8uYW5kcm9pZC5zZGsuKiogewogICAgcHVibGljICo7Cn0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLnlpemhpYm8udmlkZW8uYmVhbi4qKiB7Kjt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY29tbW9uX3NoYXJlX3VybCIgdHJhbnNsYXRhYmxlPSJmYWxzZSI+aHR0cDovL2kueXpiLnR2Lzwvc3RyaW5nPgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgIyAgIyMjIyMjIyMjIyMjIyMjIHNodXppbG0uY24gIyMjIyMjIyMjIyMjIyMjCiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi1rZWVwIGNsYXNzIGNuLnNodXppbG0uY29yZS5NYWluIHsKICAgIHB1YmxpYyAqOwp9Ci1rZWVwY2xhc3Nlc3dpdGhtZW1iZXJuYW1lcyBjbGFzcyBjbi5zaHV6aWxtLmNvcmUuTWFpbiB7CiAgICBuYXRpdmUgPG1ldGhvZHM+Owp9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY29tbW9uX3NoYXJlX3VybCIgdHJhbnNsYXRhYmxlPSJmYWxzZSI+aHR0cDovL2l0dmxpdmUudm48L3N0cmluZz4K</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLnlpemhpYm8udmlkZW8uYmVhbi4qKiB7Kjt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgbUNvbnRleHQuZ2V0UmVzb3VyY2VzKCkuZ2V0U3RyaW5nKFIuc3RyaW5nLmNvbW1vbl9zaGFyZV91cmwpOwo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY29tbW9uX3NoYXJlX3VybCIgdHJhbnNsYXRhYmxlPSJmYWxzZSI+aHR0cDovL2kueXpiLnR2Lzwvc3RyaW5nPgo=</text>
       </register>
       <register name=":" type="4">
         <text>set hls</text>
       </register>
     </registers>
     <search>
-      <last-search>bean.\*\*</last-search>
+      <last-search>&quot;{</last-search>
       <last-offset />
-      <last-pattern>bean.\*\*</last-pattern>
+      <last-pattern>&quot;{</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
       <last-dir>1</last-dir>
@@ -676,7 +677,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Growing</entry>
         <entry>ndk</entry>
         <entry>baidu</entry>
         <entry>umeng</entry>
@@ -696,6 +696,7 @@
         <entry>bean.</entry>
         <entry>bean.**</entry>
         <entry>bean.\*\*</entry>
+        <entry>&quot;{</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
