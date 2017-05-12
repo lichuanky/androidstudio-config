@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Module 'yzb-app'" />
-    <option name="defaultScopeName" value="Module 'yzb-app'" />
+    <option name="customScope" value="Directory '[yzb-app] - .../yzb-app/src'" />
+    <option name="defaultScopeName" value="Directory '[yzb-app] - .../yzb-app/src'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'yzb-app'" />
+    <option name="SEARCH_SCOPE" value="Directory '[yzb-app] - .../yzb-app/src'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
