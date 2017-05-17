@@ -13,7 +13,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1494573931303">
+      <file name="/a.dummy" timestamp="1495012315767">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -55,10 +55,10 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" timestamp="1494835527133">
-        <mark key="[" line="57" column="13" />
-        <mark key="]" line="57" column="14" />
-        <mark key="." line="57" column="14" />
-        <mark key="^" line="57" column="14" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/LivingFriendsInfoAdapterItem.java" timestamp="1494573942125">
         <mark key="[" line="120" column="37" />
@@ -246,7 +246,8 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-zh/strings.xml" timestamp="1494573471404">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-zh/strings.xml" timestamp="1495011765188">
+        <mark key="'" line="1266" column="4" />
         <mark key="[" line="82" column="40" />
         <mark key="]" line="82" column="40" />
         <mark key="^" line="82" column="39" />
@@ -376,12 +377,12 @@
         <mark key="]" line="86" column="8" />
         <mark key="." line="86" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" timestamp="1493266084076">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" timestamp="1495012367798">
+        <mark key="'" line="261" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="91" column="72" />
       </file>
       <file name="/Dummy.txt" timestamp="1492676100555">
         <mark key="[" line="0" column="0" />
@@ -475,8 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" />
-      <jump line="58" column="33" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
       <jump line="57" column="8" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/YouZanWebViewActivity.java" />
       <jump line="214" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
@@ -575,55 +574,57 @@
       <jump line="78" column="32" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/HeaderSliderAdapterItem.java" />
       <jump line="447" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" />
       <jump line="301" column="50" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/HeaderFriendsInfoAdapterItem.java" />
+      <jump line="1266" column="4" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-zh/strings.xml" />
+      <jump line="251" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>anim</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1V0aWxzLnNoYXJlQ29udGVudChTZWFyY2hVc2VyTGlzdEFjdGl2aXR5LnRoaXMsIENvbnN0YW50cy5TSEFSRV9CWV9GQUNFQk9PSywKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgZ2V0SW52aXRlU2hhcmVDb250ZW50KCksICIiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>anim</text>
+        <text>&quot;https://www.mydomain.com/myapplink&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;{</text>
+        <text>facebook</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJ0b0F2YXRhciIsIHRvQXZhdGFyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpdGVtCiAgICAgICAgYW5kcm9pZDpkcmF3YWJsZT0iQGRyYXdhYmxlL2dpZl9saXZlXzIwIgogICAgICAgIGFuZHJvaWQ6ZHVyYXRpb249IjYwIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1V0aWxzLnNoYXJlQ29udGVudChTZWFyY2hVc2VyTGlzdEFjdGl2aXR5LnRoaXMsIENvbnN0YW50cy5TSEFSRV9CWV9GQUNFQk9PSywKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgZ2V0SW52aXRlU2hhcmVDb250ZW50KCksICIiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJvZmlsZVVwZGF0ZVBsYWNlaG9sZGVyIj7or7fnlZnkuIvmgqjnmoTogZTns7vmlrnlvI88L3N0cmluZz4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJvZmlsZV90aXRsZSI+6K+355WZ5LiL5oKo55qE6IGU57O75pa55byPPC9zdHJpbmc+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJvZmlsZV90aXRsZSI+6IGU57O75pa55byPPC9zdHJpbmc+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vQmFpQ2h1YW4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAvL0JhaUNodWFuCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGRUVEQkFDS19BUFBfS0VZPSIyMzQyOTU0OCI7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5bGl2ZS5vdmVyc2VhLlI7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgIyAgIyMjIyMjIyMjIyMjIyMjIEdyb3dpbmdJTyAjIyMjIyMjIyMjIyMjIyMjCiMgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi1kb250d2FybiBjb20uZ3Jvd2luZ2lvLioqCi1kb250bm90ZSBjb20uZ3Jvd2luZ2lvLioqCi1rZWVwIGNsYXNzIGNvbS5ncm93aW5naW8uYW5kcm9pZC5zZGsuKiogewogICAgcHVibGljICo7Cn0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAogICAgaW4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxpdGVtCiAgICAgICAgYW5kcm9pZDpkcmF3YWJsZT0iQGRyYXdhYmxlL2dpZl9saXZlXzIwIgogICAgICAgIGFuZHJvaWQ6ZHVyYXRpb249IjYwIi8+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJvZmlsZVVwZGF0ZVBsYWNlaG9sZGVyIj7or7fnlZnkuIvmgqjnmoTogZTns7vmlrnlvI88L3N0cmluZz4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJvZmlsZV90aXRsZSI+6K+355WZ5LiL5oKo55qE6IGU57O75pa55byPPC9zdHJpbmc+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hls</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;{</last-search>
+      <last-search>facebook</last-search>
       <last-offset />
-      <last-pattern>&quot;{</last-pattern>
+      <last-pattern>facebook</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
       <last-dir>1</last-dir>
@@ -631,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ndk</entry>
         <entry>baidu</entry>
         <entry>umeng</entry>
         <entry>meta-data</entry>
@@ -651,6 +651,7 @@
         <entry>bean.**</entry>
         <entry>bean.\*\*</entry>
         <entry>&quot;{</entry>
+        <entry>facebook</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
