@@ -369,11 +369,11 @@
         <mark key="]" line="86" column="8" />
         <mark key="." line="86" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" timestamp="1495177831876">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" timestamp="1495178848810">
         <mark key="'" line="91" column="73" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="98" column="45" />
+        <mark key="]" line="98" column="45" />
+        <mark key="." line="98" column="45" />
       </file>
       <file name="/Dummy.txt" timestamp="1492676100555">
         <mark key="[" line="0" column="0" />
@@ -569,11 +569,11 @@
       <jump line="95" column="73" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4M2I1MmM5Li4uIE9wdGltemUgaW52aXRlIGZyaWVuZHMgb24gZmFjZWJvb2sgZmVhdHVyZQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;https://www.mydomain.com/myapplink&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>facebook</text>
