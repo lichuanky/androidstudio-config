@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'yzb-app'" />
-    <option name="defaultScopeName" value="Module 'yzb-app'" />
-    <option name="SEARCH_SCOPE" value="Module 'yzb-app'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project 'android'" />
+    <option name="defaultScopeName" value="Project 'android'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'android'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
