@@ -252,12 +252,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-zh/strings.xml" timestamp="1495011765188">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-zh/strings.xml" timestamp="1495627770633">
         <mark key="'" line="1266" column="4" />
-        <mark key="[" line="82" column="40" />
-        <mark key="]" line="82" column="40" />
+        <mark key="[" line="646" column="18" />
+        <mark key="]" line="646" column="18" />
         <mark key="^" line="82" column="39" />
-        <mark key="." line="82" column="40" />
+        <mark key="." line="646" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/gift/GiftAnimator.java" timestamp="1493115259560">
         <mark key="[" line="185" column="57" />
@@ -578,10 +578,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q8OzIHRo4budaSBo4bqhbiAzMCBuZ8OgeSB04burIG5nw6B5IG3hu58gVmlwPC9zdHJpbmc+</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q8OzIHRo4budaSBo4bqhbiAzMCBuZ8OgeSB04burIG5nw6B5IG3hu58gVmlwPC9zdHJpbmc+</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>tips</text>
