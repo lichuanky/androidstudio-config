@@ -266,11 +266,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/live_top_area_info.xml" timestamp="1495602285579">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/live_top_area_info.xml" timestamp="1495603715080">
+        <mark key="[" line="107" column="40" />
+        <mark key="]" line="107" column="40" />
         <mark key="^" line="107" column="49" />
-        <mark key="." line="105" column="0" />
+        <mark key="." line="107" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/de_panoplay/src/main/AndroidManifest.xml" timestamp="1481618455755">
         <mark key="[" line="16" column="0" />
@@ -434,7 +434,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/StringUtil.java" timestamp="1495602226563">
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/StringUtil.java" timestamp="1495603846735">
         <mark key="[" line="152" column="15" />
         <mark key="]" line="152" column="15" />
         <mark key="^" line="151" column="8" />
@@ -599,11 +599,11 @@
       <jump line="95" column="73" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmljZV9yb2xsX2NvdW50Igo=</text>
+      <register name="&quot;" type="4">
+        <text>melon_seed</text>
       </register>
       <register name="-" type="4">
-        <text>df</text>
+        <text>melon_seed</text>
       </register>
       <register name="/" type="4">
         <text>%1$</text>
