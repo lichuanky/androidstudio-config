@@ -434,11 +434,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/StringUtil.java" timestamp="1495603846735">
-        <mark key="[" line="152" column="15" />
-        <mark key="]" line="152" column="15" />
-        <mark key="^" line="151" column="8" />
-        <mark key="." line="152" column="15" />
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/StringUtil.java" timestamp="1495605884111">
+        <mark key="[" line="153" column="38" />
+        <mark key="]" line="153" column="41" />
+        <mark key="^" line="153" column="41" />
+        <mark key="." line="153" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Utils.java" timestamp="1493265383131">
         <mark key="[" line="1350" column="34" />
@@ -600,10 +600,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>melon_seed</text>
+        <text>new DecimalFormat(&quot;###.##0&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>melon_seed</text>
+        <text>new DecimalFormat(&quot;###.##0&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>%1$</text>
