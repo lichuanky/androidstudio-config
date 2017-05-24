@@ -55,10 +55,10 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/ShareHelper.java" timestamp="1495606182006">
-        <mark key="[" line="50" column="85" />
-        <mark key="]" line="50" column="82" />
-        <mark key="." line="50" column="82" />
-        <mark key="^" line="50" column="82" />
+        <mark key="[" line="51" column="85" />
+        <mark key="]" line="51" column="82" />
+        <mark key="." line="51" column="82" />
+        <mark key="^" line="51" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/LivingFriendsInfoAdapterItem.java" timestamp="1494573942125">
         <mark key="[" line="120" column="37" />
@@ -74,6 +74,13 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1495611893634">
+        <mark key="'" line="1348" column="131" />
+        <mark key="[" line="1357" column="39" />
+        <mark key="]" line="1357" column="39" />
+        <mark key="." line="1357" column="39" />
+        <mark key="^" line="1348" column="131" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallAnchorHelper.java" timestamp="1479364921884">
         <mark key="[" line="41" column="0" />
@@ -298,6 +305,7 @@
         <mark key="." line="729" column="0" />
         <mark key="^" line="1369" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1495607637854" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_live_notice_detail.xml" timestamp="1492150655327">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -467,58 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="191" column="48" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
-      <jump line="346" column="88" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="613" column="27" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="167" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
-      <jump line="108" column="27" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
-      <jump line="710" column="30" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="687" column="27" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="725" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="718" column="10" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="576" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="579" column="29" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="585" column="29" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="590" column="41" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="686" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="76" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="83" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="100" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="29" column="47" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
-      <jump line="107" column="28" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="197" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="228" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="275" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="679" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="682" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="173" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="32" column="10" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="596" column="49" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="607" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="73" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="70" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="365" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="300" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="286" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="279" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="272" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="260" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="252" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="244" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="237" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="221" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="214" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="207" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="200" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="193" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="186" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="179" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="154" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="105" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="101" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="96" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
@@ -554,7 +510,6 @@
       <jump line="208" column="12" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
       <jump line="919" column="56" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
       <jump line="731" column="18" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
-      <jump line="730" column="18" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
       <jump line="34" column="50" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
       <jump line="274" column="59" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
@@ -567,55 +522,109 @@
       <jump line="1266" column="4" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-zh/strings.xml" />
       <jump line="251" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
       <jump line="95" column="73" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
+      <jump line="501" column="37" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="28" column="36" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="53" column="27" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="98" column="44" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="119" column="53" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="200" column="250" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="204" column="53" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="223" column="59" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="282" column="50" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="306" column="109" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="317" column="42" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="318" column="22" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="319" column="22" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="323" column="66" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="353" column="157" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="364" column="79" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="376" column="62" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="391" column="34" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="397" column="87" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="429" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="410" column="100" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="421" column="57" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="481" column="53" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="547" column="50" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="560" column="97" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="574" column="85" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="591" column="124" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="630" column="61" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="643" column="57" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="665" column="1002" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="690" column="83" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="698" column="63" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="715" column="46" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="730" column="36" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="936" column="178" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="979" column="53" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="998" column="47" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1111" column="75" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1142" column="92" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1222" column="35" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1223" column="87" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1224" column="49" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1227" column="37" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1230" column="46" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1232" column="18" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1237" column="79" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1246" column="53" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1251" column="32" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1277" column="67" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1297" column="69" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1313" column="77" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1339" column="81" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
+      <jump line="1348" column="131" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">Q8OzIHRo4budaSBo4bqhbiAzMCBuZ8OgeSB04burIG5nw6B5IG3hu58gVmlwPC9zdHJpbmc+</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Q8OzIHRo4budaSBo4bqhbiAzMCBuZ8OgeSB04burIG5nw6B5IG3hu58gVmlwPC9zdHJpbmc+</text>
       </register>
       <register name="/" type="4">
-        <text>facebook</text>
+        <text>tips</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJ0b0F2YXRhciIsIHRvQXZhdGFyKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4M2I1MmM5Li4uIE9wdGltemUgaW52aXRlIGZyaWVuZHMgb24gZmFjZWJvb2sgZmVhdHVyZQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7aVRWIExpdmUgbMOgIGFwcCBsaXZlIHN0cmVhbSBy4bqldCBwaOG7lSBiaeG6v24uXG5cbiYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwO0NoaWEgc+G6uyBsaXZlIHN0cmVhbSwga2jDtG5nIGdp4bubaSBo4bqhbiB0aOG7nWkgZ2lhbiwgbuG7mWkgZHVuZyBjw7MgdGjhu4MgY2hpYSBz4bq7IGzDqm4gRmFjZWJvb2ssIGPDtG5nIGtoYWkgY2hvIHThuqV0IGPhuqMgbeG7jWkgbmfGsOG7nWksIGhheSBjaOG7iSBi4bqhbiB2w6AgYuG6oW4gYsOoIMSRxrDhu6NjIHhlbQogICAgICAgIFxuXG4mIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDtMxrB1IHRy4buxYyB0dXnhur9uLCBraMO0bmcgdOG7kW4gZHVuZyBsxrDhu6NuZyDEkWnhu4duIHRob+G6oWksIGtow7RuZyDEkeG7gyBi4bqhbiBi4buPIGzhu6Ega2hv4bqjbmcga2jhuq9jIG7DoG8uXG5cbiYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwOyB0acOqdSB04buRbiBkdW5nIGzGsOG7o25nIGPhu7FjIHRo4bqlcC4KICAgICAgICBWaWRlbyDEkcaw4bujYyBuw6luIGzhuqFpIHbhu5tpIG3hu6ljIEJpdC1SYXRlIHRo4bqlcCBuaOG6pXQsIG5o4bqxbSBnaeG6o20gZHVuZyBsxrDhu6NuZywgdGnhur90IGtp4buHbSB0aeG7gW5cblxuJiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7Q2hvIGTDuSBi4bqhbiBsw6AgYWksIGNobyBkw7kgYuG6oW4gbXXhu5FuIGzDoG0gZ8OsIMSRaSBjaMSDbmcgbuG7r2EsIGjDo3kgxJHhur9uIG3hu5tpIG3huqFuZyB4w6MgaOG7mWkgbGl2ZSBzdHJlYW0g4bqlbiB0xrDhu6NuZyBuw6B5IGPDuW5nIHRoYW0gZ2lhIHbhu5tpIG3hu41pIG5nxrDhu51pIVxuXG4mIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDsmIzE2MDtN4buNaSBuZ8aw4budaSDEkeG7gXUgY8OzIGPGoSBo4buZaSB0aOG7gyBoaeG7h24gYuG6o24gdGjDom4gY+G7p2EgbcOsbmgsIGjDo3kgY8O5bmcgdOG6rW4gaMaw4bufbmcgbmjhu69uZyBwaMO6dCBnacOieSB2dWkgbmjhu5luIHbhu5tpIG3hu41pIG5nxrDhu51pIG5ow6kuXG5cbjwvc3RyaW5nPg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5bGl2ZS5vdmVyc2VhLlI7Cg==</text>
+      <register name="2" type="4">
+        <text>Giá gói tháng： 15 Tệ\nPhạm vi sử dụng： Người dùng mạng 3G\nNhắc nhở: Mở dùng bản client này
+        Trừ trường hợp đặc biệt, lưu lượng dùng sẽ không bị tính khí (để tránh bị chiết khấu khi dùng lưu lượng, khi sử dụng client, hãy tắt phần mềm quản lý lưu lượng)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA4M2I1MmM5Li4uIE9wdGltemUgaW52aXRlIGZyaWVuZHMgb24gZmFjZWJvb2sgZmVhdHVyZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5bGl2ZS5vdmVyc2VhLlI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1V0aWxzLnNoYXJlQ29udGVudChTZWFyY2hVc2VyTGlzdEFjdGl2aXR5LnRoaXMsIENvbnN0YW50cy5TSEFSRV9CWV9GQUNFQk9PSywKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgZ2V0SW52aXRlU2hhcmVDb250ZW50KCksICIiKTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1V0aWxzLnNoYXJlQ29udGVudChTZWFyY2hVc2VyTGlzdEFjdGl2aXR5LnRoaXMsIENvbnN0YW50cy5TSEFSRV9CWV9GQUNFQk9PSywKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgZ2V0SW52aXRlU2hhcmVDb250ZW50KCksICIiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set hls</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>facebook</last-search>
+      <last-search>tips</last-search>
       <last-offset />
-      <last-pattern>facebook</last-pattern>
+      <last-pattern>tips</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
       <last-dir>1</last-dir>
@@ -623,26 +632,26 @@
     </search>
     <history>
       <history-search>
-        <entry>baidu</entry>
-        <entry>umeng</entry>
-        <entry>meta-data</entry>
-        <entry>jpush</entry>
-        <entry>meta</entry>
-        <entry>*com.lecloud.sdk*</entry>
-        <entry>*.com.lecloud.sdk*</entry>
-        <entry>.*com.lecloud.sdk*</entry>
-        <entry encoding="base64">PDw8</entry>
-        <entry>JPush</entry>
-        <entry>Jp</entry>
-        <entry>com.google.**</entry>
-        <entry>com.google</entry>
+        <entry>title_recommen</entry>
+        <entry>no_score</entry>
         <entry>common_share</entry>
-        <entry>bean</entry>
-        <entry>bean.</entry>
-        <entry>bean.**</entry>
-        <entry>bean.\*\*</entry>
-        <entry>&quot;{</entry>
-        <entry>facebook</entry>
+        <entry>common_share_message</entry>
+        <entry>rice_roll_count</entry>
+        <entry>e_coin</entry>
+        <entry>tip_city</entry>
+        <entry>error_tip</entry>
+        <entry>request_tile</entry>
+        <entry>request</entry>
+        <entry>prompty</entry>
+        <entry>prompt</entry>
+        <entry>good_mall</entry>
+        <entry>friends</entry>
+        <entry>rice_roll</entry>
+        <entry>cash_out_rice</entry>
+        <entry>not_enough</entry>
+        <entry>input_right_rice</entry>
+        <entry>anim_desc</entry>
+        <entry>tips</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
@@ -654,8 +663,8 @@
         <entry>W</entry>
         <entry>%s/*com.lecloud.sdk*/d</entry>
         <entry>%g/.*com.lecloud.sdk.*/d</entry>
-        <entry>w</entry>
         <entry>set hls</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
