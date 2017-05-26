@@ -13,7 +13,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1495770351322">
+      <file name="/a.dummy" timestamp="1495770790066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -93,6 +93,11 @@
         <mark key="]" line="1357" column="39" />
         <mark key="." line="1357" column="39" />
         <mark key="^" line="1348" column="131" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/TuSDKLiveEngineKitDemo/app/src/main/java/org/lasque/tusdk/components/camera/LiveVideoCamera.java" timestamp="1495770838978">
+        <mark key="[" line="89" column="34" />
+        <mark key="]" line="89" column="34" />
+        <mark key="." line="89" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallAnchorHelper.java" timestamp="1479364921884">
         <mark key="[" line="41" column="0" />
@@ -601,10 +606,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new DecimalFormat(&quot;###.##0&quot;)</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>new DecimalFormat(&quot;###.##0&quot;)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>%1$</text>
