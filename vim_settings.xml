@@ -13,7 +13,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1495770790066">
+      <file name="/a.dummy" timestamp="1495775424726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -55,6 +55,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/libs/TuSDKVideo-1.0.8.jar!/org/lasque/tusdk/core/utils/hardware/TuSdkLiveVideoCamera.class" timestamp="1495775793681" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatVideoCallState.java" timestamp="1479459959836">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -94,7 +95,7 @@
         <mark key="." line="1357" column="39" />
         <mark key="^" line="1348" column="131" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/TuSDKLiveEngineKitDemo/app/src/main/java/org/lasque/tusdk/components/camera/LiveVideoCamera.java" timestamp="1495770838978">
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/TuSDKLiveEngineKitDemo/app/src/main/java/org/lasque/tusdk/components/camera/LiveVideoCamera.java" timestamp="1495775419899">
         <mark key="[" line="89" column="34" />
         <mark key="]" line="89" column="34" />
         <mark key="." line="89" column="34" />
@@ -103,6 +104,12 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" timestamp="1495775812049">
+        <mark key="[" line="152" column="27" />
+        <mark key="]" line="152" column="28" />
+        <mark key="." line="152" column="28" />
+        <mark key="^" line="152" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" timestamp="1493203938084">
         <mark key="[" line="8" column="0" />
@@ -501,6 +508,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/libs/TuSDKVideo-1.0.8.jar!/org/lasque/tusdk/core/utils/hardware/TuSdkVideoCamera.class" timestamp="1495776023307" />
     </filemarks>
     <jumps>
       <jump line="214" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
@@ -606,10 +614,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>%1$</text>
