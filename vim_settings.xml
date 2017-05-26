@@ -13,7 +13,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1495775424726">
+      <file name="/a.dummy" timestamp="1495778518968">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -95,10 +95,11 @@
         <mark key="." line="1357" column="39" />
         <mark key="^" line="1348" column="131" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/TuSDKLiveEngineKitDemo/app/src/main/java/org/lasque/tusdk/components/camera/LiveVideoCamera.java" timestamp="1495775419899">
-        <mark key="[" line="89" column="34" />
-        <mark key="]" line="89" column="34" />
-        <mark key="." line="89" column="34" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/TuSDKLiveEngineKitDemo/app/src/main/java/org/lasque/tusdk/components/camera/LiveVideoCamera.java" timestamp="1495778692815">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="90" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallAnchorHelper.java" timestamp="1479364921884">
         <mark key="[" line="41" column="0" />
@@ -613,8 +614,8 @@
       <jump line="95" column="73" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl0aGlzLnNldEVuYWJsZUZhY2VEZXRlY3Rpb24oKTsK</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -626,31 +627,31 @@
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJ0b0F2YXRhciIsIHRvQXZhdGFyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmljZV9yb2xsX2NvdW50Igo=</text>
+        <text encoding="base64">CQl0aGlzLnNldEVuYWJsZUZhY2VEZXRlY3Rpb24oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtUmljZVJvbGxDb3VudFR2LnNldFRleHQoIjAiKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtUmljZVJvbGxDb3VudFR2LnNldFRleHQoZ2V0U3RyaW5nKFIuc3RyaW5nLnJpY2Vfcm9sbF9jb3VudCwgIjAiKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmljZV9yb2xsX2NvdW50Igo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtUmljZVJvbGxDb3VudFR2LnNldFRleHQoIjAiKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtUmljZVJvbGxDb3VudFR2LnNldFRleHQoZ2V0U3RyaW5nKFIuc3RyaW5nLnJpY2Vfcm9sbF9jb3VudCwgIjAiKSk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmljZV9yb2xsX2NvdW50Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbW9uZXlTdHIgPSBTdHJpbmcudmFsdWVPZihtb25leSk7CiAgICAgICAgU3RyaW5nIG1vbmV5U3RyW10gPQogICAgICAgIGZvciAoaW50IGkgPSAwLCBsID0gbW9uZXlTdHIubGVuZ3RoKCkgLyAzOyBpIDwgbDsgaSsrKSB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBzdXBlci5oYXNoQ29kZSgpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbW9uZXlTdHIgPSBTdHJpbmcudmFsdWVPZihtb25leSk7CiAgICAgICAgU3RyaW5nIG1vbmV5U3RyW10gPQogICAgICAgIGZvciAoaW50IGkgPSAwLCBsID0gbW9uZXlTdHIubGVuZ3RoKCkgLyAzOyBpIDwgbDsgaSsrKSB7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4M2I1MmM5Li4uIE9wdGltemUgaW52aXRlIGZyaWVuZHMgb24gZmFjZWJvb2sgZmVhdHVyZQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBzdXBlci5oYXNoQ29kZSgpOwogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5bGl2ZS5vdmVyc2VhLlI7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA4M2I1MmM5Li4uIE9wdGltemUgaW52aXRlIGZyaWVuZHMgb24gZmFjZWJvb2sgZmVhdHVyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
