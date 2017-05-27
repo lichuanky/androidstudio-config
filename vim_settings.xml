@@ -106,7 +106,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" timestamp="1495775812049">
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" timestamp="1495880769184">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
@@ -341,6 +341,12 @@
         <mark key="]" line="729" column="0" />
         <mark key="." line="729" column="0" />
         <mark key="^" line="1369" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1495880844680">
+        <mark key="[" line="1645" column="27" />
+        <mark key="]" line="1645" column="28" />
+        <mark key="." line="1645" column="28" />
+        <mark key="^" line="1645" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_live_notice_detail.xml" timestamp="1492150655327">
         <mark key="[" line="23" column="0" />
@@ -614,11 +620,11 @@
       <jump line="95" column="73" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl0aGlzLnNldEVuYWJsZUZhY2VEZXRlY3Rpb24oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>toggleFitParent</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>toggleFitParent</text>
       </register>
       <register name="/" type="4">
         <text>%1$</text>
