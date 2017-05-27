@@ -221,6 +221,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LivePrepareActivity.java" timestamp="1495901488768" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/news/MyStockNewsListFragment.java" timestamp="1484765793295">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -489,6 +490,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/build/intermediates/exploded-aar/yilive-1.2.0/jars/classes.jar!/org/lasque/tusdk/core/utils/hardware/TuSdkLiveVideoCamera.class" timestamp="1495901524577" />
     </filemarks>
     <jumps>
       <jump line="214" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
