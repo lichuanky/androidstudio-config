@@ -14,7 +14,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1496015855696">
+      <file name="/a.dummy" timestamp="1496241751647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -69,6 +69,12 @@
         <mark key="]" line="309" column="0" />
         <mark key="." line="309" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1496241811692">
+        <mark key="[" line="581" column="46" />
+        <mark key="]" line="581" column="46" />
+        <mark key="." line="581" column="46" />
+        <mark key="^" line="581" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/progress_hud.xml" timestamp="1494574206580">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="36" />
@@ -92,6 +98,13 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="182" column="63" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/build.gradle" timestamp="1496241144694">
+        <mark key="'" line="108" column="8" />
+        <mark key="[" line="111" column="39" />
+        <mark key="]" line="111" column="62" />
+        <mark key="." line="111" column="62" />
+        <mark key="^" line="111" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" timestamp="1492150644655">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -101,6 +114,9 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" timestamp="1496241111729">
+        <mark key="'" line="694" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/drawable/ic_live_video_call.xml" timestamp="1479798012379">
         <mark key="[" line="14" column="0" />
@@ -118,6 +134,12 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="100" column="52" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LivePrepareActivity.java" timestamp="1496241056814">
+        <mark key="[" line="387" column="75" />
+        <mark key="]" line="387" column="75" />
+        <mark key="." line="387" column="75" />
+        <mark key="^" line="387" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/news/MyStockNewsListFragment.java" timestamp="1484765793295">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -128,7 +150,6 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/TuSDKLiveEngineKitDemo/app/src/main/java/org/lasque/tusdk/components/camera/LiveVideoCamera.java" timestamp="1496015898081" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/gift/action/NotificationAction.java" timestamp="1493115249059">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="49" column="60" />
@@ -324,7 +345,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/lib/yilive_lib/AgilioRtmp/libs/TuSDKVideo-1.4.1.jar!/org/lasque/tusdk/core/utils/hardware/TuSDKLiveVideoCamera.class" timestamp="1496015962280" />
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1495602269043">
         <mark key="[" line="1456" column="0" />
         <mark key="]" line="1456" column="0" />
@@ -497,6 +517,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/build/intermediates/exploded-aar/VTCSdk/res/values-en/values-en.xml" timestamp="1496241749745" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" timestamp="1493203938084">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="31" />
@@ -515,8 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
       <jump line="191" column="48" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
       <jump line="346" column="88" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
@@ -615,13 +634,15 @@
       <jump line="1266" column="4" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-zh/strings.xml" />
       <jump line="251" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
       <jump line="95" column="73" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
+      <jump line="694" column="62" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
+      <jump line="108" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toggleFitParent</text>
+        <text>áo</text>
       </register>
       <register name="-" type="4">
-        <text>toggleFitParent</text>
+        <text>áo</text>
       </register>
       <register name="/" type="4">
         <text>%1$</text>
