@@ -19,7 +19,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1496653122400">
+      <file name="/a.dummy" timestamp="1496658153705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -103,6 +103,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="182" column="63" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/MessageGroupAdapterItem.java" timestamp="1496657699684" />
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/build.gradle" timestamp="1496241144694">
         <mark key="'" line="108" column="8" />
         <mark key="[" line="111" column="39" />
@@ -195,6 +196,12 @@
         <mark key="]" line="111" column="0" />
         <mark key="^" line="25" column="44" />
         <mark key="." line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/DateTimeUtil.java" timestamp="1496658350046">
+        <mark key="[" line="130" column="69" />
+        <mark key="]" line="130" column="96" />
+        <mark key="." line="130" column="96" />
+        <mark key="^" line="130" column="96" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/CashInAmountAdapterItem.java" timestamp="1491378651302">
         <mark key="[" line="55" column="0" />
@@ -361,6 +368,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/swipe/MySwipeMessageAdapter.java" timestamp="1496658384190">
+        <mark key="[" line="138" column="16" />
+        <mark key="]" line="138" column="17" />
+        <mark key="." line="138" column="17" />
+        <mark key="^" line="138" column="17" />
+      </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1495602269043">
         <mark key="[" line="1456" column="0" />
         <mark key="]" line="1456" column="0" />
@@ -391,6 +404,7 @@
         <mark key="]" line="47" column="22" />
         <mark key="." line="47" column="22" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabMessageFragment.java" timestamp="1496657904593" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_playback.xml" timestamp="1494573116097">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="59" />
@@ -455,7 +469,7 @@
         <mark key="^" line="107" column="49" />
         <mark key="." line="107" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_message_group.xml" timestamp="1496652990720">
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_message_group.xml" timestamp="1496657660943">
         <mark key="[" line="26" column="27" />
         <mark key="]" line="26" column="27" />
         <mark key="." line="26" column="27" />
@@ -464,6 +478,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" timestamp="1496658409909">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="57" />
+        <mark key="." line="15" column="57" />
+        <mark key="^" line="15" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/bean/socket/ChatGiftEntity.java" timestamp="1493115226620">
         <mark key="'" line="1" column="0" />
@@ -525,6 +545,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/NewMessageQueueAdapter.java" timestamp="1496657800381" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/net/ApiConstant.java" timestamp="1493365361089">
         <mark key="'" line="43" column="74" />
         <mark key="[" line="5" column="42" />
@@ -674,43 +695,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>&quot;http://dev.yizhibo.tv/oversea/appgw/&quot;;</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>&quot;http://dev.yizhibo.tv/oversea/appgw/&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>%1$</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJ0b0F2YXRhciIsIHRvQXZhdGFyKTsK</text>
+      <register name="0" type="4">
+        <text>new SimpleDateFormat(formatStyle, Locale.getDefault());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0aGlzLnNldEVuYWJsZUZhY2VEZXRlY3Rpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmljZV9yb2xsX2NvdW50Igo=</text>
+        <text encoding="base64">CQl0aGlzLnNldEVuYWJsZUZhY2VEZXRlY3Rpb24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtUmljZVJvbGxDb3VudFR2LnNldFRleHQoIjAiKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtUmljZVJvbGxDb3VudFR2LnNldFRleHQoZ2V0U3RyaW5nKFIuc3RyaW5nLnJpY2Vfcm9sbF9jb3VudCwgIjAiKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmljZV9yb2xsX2NvdW50Igo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtUmljZVJvbGxDb3VudFR2LnNldFRleHQoIjAiKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtUmljZVJvbGxDb3VudFR2LnNldFRleHQoZ2V0U3RyaW5nKFIuc3RyaW5nLnJpY2Vfcm9sbF9jb3VudCwgIjAiKSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmljZV9yb2xsX2NvdW50Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbW9uZXlTdHIgPSBTdHJpbmcudmFsdWVPZihtb25leSk7CiAgICAgICAgU3RyaW5nIG1vbmV5U3RyW10gPQogICAgICAgIGZvciAoaW50IGkgPSAwLCBsID0gbW9uZXlTdHIubGVuZ3RoKCkgLyAzOyBpIDwgbDsgaSsrKSB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBzdXBlci5oYXNoQ29kZSgpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbW9uZXlTdHIgPSBTdHJpbmcudmFsdWVPZihtb25leSk7CiAgICAgICAgU3RyaW5nIG1vbmV5U3RyW10gPQogICAgICAgIGZvciAoaW50IGkgPSAwLCBsID0gbW9uZXlTdHIubGVuZ3RoKCkgLyAzOyBpIDwgbDsgaSsrKSB7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4M2I1MmM5Li4uIE9wdGltemUgaW52aXRlIGZyaWVuZHMgb24gZmFjZWJvb2sgZmVhdHVyZQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBzdXBlci5oYXNoQ29kZSgpOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
