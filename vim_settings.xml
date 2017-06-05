@@ -381,7 +381,6 @@
         <mark key="." line="7" column="59" />
         <mark key="^" line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/build/intermediates/exploded-aar/VTCSdk/res/values/values.xml" timestamp="1496474241176" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/live_top_anchor_info.xml" timestamp="1492150858160">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="21" column="0" />
@@ -429,6 +428,11 @@
         <mark key="]" line="107" column="40" />
         <mark key="^" line="107" column="49" />
         <mark key="." line="107" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_message_group.xml" timestamp="1496652303627">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_live_notice_detail.xml" timestamp="1492150655327">
         <mark key="[" line="23" column="0" />
@@ -639,10 +643,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>áo</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>áo</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>%1$</text>
