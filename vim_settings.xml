@@ -24,7 +24,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/chat/utils/UserUtils.java" timestamp="1496659522827" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/flowlayout/FlowLayout.java" timestamp="1494573361214">
         <mark key="[" line="206" column="65" />
         <mark key="]" line="206" column="65" />
@@ -103,7 +102,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="182" column="63" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/MessageGroupAdapterItem.java" timestamp="1496657699684" />
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/chat/adapter/LiveMessageAdapter.java" timestamp="1496660393045">
         <mark key="[" line="472" column="90" />
         <mark key="]" line="465" column="58" />
@@ -344,7 +342,6 @@
         <mark key="]" line="47" column="22" />
         <mark key="." line="47" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabMessageFragment.java" timestamp="1496657904593" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_playback.xml" timestamp="1494573116097">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="59" />
@@ -382,6 +379,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/gift/action/ZipAction.java" timestamp="1496720007436" />
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_rice_roll_contributor.xml" timestamp="1496653100975">
         <mark key="[" line="42" column="31" />
         <mark key="]" line="42" column="31" />
@@ -482,7 +480,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/NewMessageQueueAdapter.java" timestamp="1496657800381" />
       <file name="/a.regexp" timestamp="1493286948971">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
