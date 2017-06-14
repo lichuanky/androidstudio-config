@@ -55,7 +55,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/libs/TuSDKVideo-1.0.8.jar!/org/lasque/tusdk/core/utils/hardware/TuSdkLiveVideoCamera.class" timestamp="1495775793681" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatVideoCallState.java" timestamp="1479459959836">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -339,12 +338,6 @@
         <mark key="." line="729" column="0" />
         <mark key="^" line="1369" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1495880844680">
-        <mark key="[" line="1645" column="27" />
-        <mark key="]" line="1645" column="28" />
-        <mark key="." line="1645" column="28" />
-        <mark key="^" line="1645" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_live_notice_detail.xml" timestamp="1492150655327">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -512,7 +505,6 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/libs/TuSDKVideo-1.0.8.jar!/org/lasque/tusdk/core/utils/hardware/TuSdkVideoCamera.class" timestamp="1495776023307" />
     </filemarks>
     <jumps>
       <jump line="214" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
