@@ -152,11 +152,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1500360419367">
-        <mark key="[" line="135" column="41" />
-        <mark key="]" line="135" column="41" />
-        <mark key="." line="135" column="41" />
-        <mark key="^" line="138" column="44" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1500371029243">
+        <mark key="'" line="136" column="45" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="137" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/drawable/ic_live_video_call.xml" timestamp="1479798012379">
         <mark key="[" line="14" column="0" />
@@ -173,22 +174,18 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/ai-screen/android/demo/src/main/res/values/strings.xml" timestamp="1500361730117">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="65" />
-      </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/strings.xml" timestamp="1496241811692">
         <mark key="[" line="581" column="46" />
         <mark key="]" line="581" column="46" />
         <mark key="." line="581" column="46" />
         <mark key="^" line="581" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" timestamp="1500368801847">
-        <mark key="'" line="307" column="20" />
-        <mark key="[" line="229" column="12" />
-        <mark key="]" line="318" column="34" />
-        <mark key="." line="318" column="34" />
-        <mark key="^" line="318" column="34" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" timestamp="1500370578920">
+        <mark key="'" line="294" column="20" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="0" />
+        <mark key="." line="275" column="0" />
+        <mark key="^" line="305" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_center_userinfo.xml" timestamp="1493277936384">
         <mark key="[" line="58" column="0" />
@@ -256,10 +253,10 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="53" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/AndroidManifest.xml" timestamp="1484876409741">
-        <mark key="[" line="71" column="27" />
-        <mark key="]" line="71" column="27" />
-        <mark key="." line="71" column="27" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/AndroidManifest.xml" timestamp="1500371275618">
+        <mark key="[" line="389" column="0" />
+        <mark key="]" line="389" column="0" />
+        <mark key="." line="389" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/app/EVApplication.java" timestamp="1484800869873">
         <mark key="[" line="86" column="8" />
@@ -642,7 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="286" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="279" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="272" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
@@ -742,10 +738,11 @@
       <jump line="303" column="12" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" />
       <jump line="23" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" />
       <jump line="311" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" />
+      <jump line="137" column="45" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV3TWVzc2FnZShTdHJpbmcgbWVzc2FnZSwgU3RyaW5nIHVzZXJkYXRhLCBmaW5hbCBTdHJpbmcgdXNlcklkLCBTdHJpbmcgdG9waWNJZCkgewoKICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICA8c2VydmljZSBhbmRyb2lkOm5hbWU9ImNvbS5lYXN5dmFhcy5zZGsubGl2ZS5iYXNlLnN0cmVhbWVyLlN0cmVhbWVyU2VydmljZSIgLz4K</text>
       </register>
       <register name="-" type="4">
         <text>channel</text>
@@ -757,52 +754,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLncoVEFHLCAiU2VuZCBtZXNzYWdlIGZhaWxlZDogIiArIGVycm9ySW5mbyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV3TWVzc2FnZShTdHJpbmcgbWVzc2FnZSwgU3RyaW5nIHVzZXJkYXRhLCBmaW5hbCBTdHJpbmcgdXNlcklkLCBTdHJpbmcgdG9waWNJZCkgewoKICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICA8c2VydmljZSBhbmRyb2lkOm5hbWU9ImNvbS5lYXN5dmFhcy5zZGsubGl2ZS5iYXNlLnN0cmVhbWVyLlN0cmVhbWVyU2VydmljZSIgLz4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">TG9nZ2VyLmQoVEFHLCAib25OZXdNZXNzYWdlIG1lc3NhZ2U6IiArIG1lc3NhZ2UgKyAiY29udGVudDogIiArIHVzZXJkYXRhCiAgICAgICAgICAgICAgICAgICAgICAgICsgIiB1c2VyaWQ6ICIgKyB1c2VySWQgKyAiIHRvcGljOiAiICsgdG9waWNJZCk7CiAgICAgICAgICAgICAgICBTdHJpbmcgbGl2ZUpzb24gPSAiIjsKICAgICAgICAgICAgICAgIFN0cmluZyBsaXZlU3RhdHVzSnNvbiA9ICIiOwogICAgICAgICAgICAgICAgaWYgKHVzZXJkYXRhICE9IG51bGwgJiYgdXNlcmRhdGEuY29udGFpbnMoIm1zZz0iKSkgewogICAgICAgICAgICAgICAgICAgIFN0cmluZ1tdIGpzb24gPSB1c2VyZGF0YS5zcGxpdCgiPSIpOwogICAgICAgICAgICAgICAgICAgIGlmIChqc29uLmxlbmd0aCA+IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbGl2ZUpzb24gPSBqc29uWzFdOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBsaXZlU3RhdHVzSnNvbiA9IFVSTERlY29kZXIuZGVjb2RlKGxpdmVKc29uLCAiVVRGLTgiKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLncoVEFHLCAiRGVjb2RlIGxpdmUgc3RhdHVzIGpzb24gZmFpbGVkISIsIGUpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmICghVGV4dFV0aWxzLmlzRW1wdHkobGl2ZVN0YXR1c0pzb24pKSB7CiAgICAgICAgICAgICAgICAgICAgSlNPTk9iamVjdCBqc29uT2JqZWN0ID0gbnVsbDsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBqc29uT2JqZWN0ID0gbmV3IEpTT05PYmplY3QobGl2ZVN0YXR1c0pzb24pOwogICAgICAgICAgICAgICAgICAgICAgICBKU09OT2JqZWN0IGx2c3RKc29uID0ganNvbk9iamVjdC5nZXRKU09OT2JqZWN0KCJsdnN0Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChsdnN0SnNvbiAhPSBudWxsICYmICFUZXh0VXRpbHMuaXNFbXB0eShsdnN0SnNvbi50b1N0cmluZygpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGx2c3RKc29uLmhhcygic3QiKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCBsaXZlU3RhdHVzID0gKEludGVnZXIpIGx2c3RKc29uLmdldCgic3QiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtQ2FsbGJhY2sub25TdGF0dXNVcGRhdGUobGl2ZVN0YXR1cyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGZpbmFsIENoYXRTdGF0dXNFbnRpdHkgZW50aXR5ID0gbmV3IEdzb24oKS5mcm9tSnNvbih1c2VyZGF0YSwgQ2hhdFN0YXR1c0VudGl0eS5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGVudGl0eSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZmluYWwgQ2hhdENvbW1lbnQgY29tbWVudCA9IGVudGl0eS5nZXRDb21tZW50KHVzZXJJZCwgbWVzc2FnZSk7CiAgICAgICAgICAgICAgICAgICAgZmluYWwgQ2hhdEJhcnJhZ2UgYmFycmFnZSA9IGVudGl0eS5nZXRCYXJyYWdlKHVzZXJJZCwgbWVzc2FnZSk7CiAgICAgICAgICAgICAgICAgICAgZmluYWwgR2lmdEVudGl0eSBnaWZ0ID0gZW50aXR5LmdldEdpZnRFbnRpdHkodXNlcklkKTsKICAgICAgICAgICAgICAgICAgICBmaW5hbCBDaGF0UmVkUGFja0luZm8gcmVkUGFja0luZm8gPSBlbnRpdHkuZ2V0UmVkUGFjayh1c2VyZGF0YSk7CiAgICAgICAgICAgICAgICAgICAgbmV3IEhhbmRsZXIobUNvbnRleHQuZ2V0TWFpbkxvb3BlcigpKS5wb3N0KG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChjb21tZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtQ2FsbGJhY2sub25OZXdDb21tZW50KGNvbW1lbnQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJhcnJhZ2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1DYWxsYmFjay5vbkJhcnJhZ2UoYmFycmFnZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoZ2lmdCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbUNhbGxiYWNrLm9uTmV3R2lmdChnaWZ0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZWRQYWNrSW5mbyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWFwPFN0cmluZywgQ2hhdFJlZFBhY2tJbmZvPiBtYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFwLnB1dChyZWRQYWNrSW5mby5nZXRJZCgpLCByZWRQYWNrSW5mbyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbUNhbGxiYWNrLm9uTmV3UmVkUGFjayhtYXApOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGVudGl0eS5nZXRWY2x0KCkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENoYXRWaWRlb0NhbGxTdGF0ZSB2Y3MgPSBlbnRpdHkuZ2V0VmNsdCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN3aXRjaCAodmNzLmdldFN0KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBDaGF0VmlkZW9DYWxsU3RhdGUuU1RBVEVfUkVRVUVTVDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1DYWxsYmFjay5vbkNhbGxSZXF1ZXN0KHVzZXJJZCwgdmNzLmdldE5rKCksIHZjcy5nZXRMZygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIENoYXRWaWRlb0NhbGxTdGF0ZS5TVEFURV9BQ0NFUFQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtQ2FsbGJhY2sub25DYWxsQWNjZXB0KHZjcy5nZXRDaWQoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBDaGF0VmlkZW9DYWxsU3RhdGUuU1RBVEVfQ0FOQ0VMOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbUNhbGxiYWNrLm9uQ2FsbENhbmNlbCh1c2VySWQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgQ2hhdFZpZGVvQ2FsbFN0YXRlLlNUQVRFX0VORDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1DYWxsYmFjay5vbkNhbGxFbmQodXNlcklkKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUobmFtZTogJ3ZpZGVvcHJwJywgZXh0OiAnYWFyJykK</text>
       </register>
-      <register name="3" type="4">
-        <text>Logger.d(TAG, &quot;onJoinOk content: &quot; + (users != null ? users.toString() : &quot;&quot;)
-                        + &quot; topic: &quot; + topicId);
-                mTopicId = topicId;
-                mHandler.post(new Runnable() {
-                    @Override
-                    public void run() {
-                        mCallback.onJoinOK();
-                    }
-                });
-                mHandler.post(new Runnable() {
-                    @Override
-                    public void run() {
-                        // TODO Need change when message server callback ready
-                        mVideoInfo.setWatching_count(users != null ? users.size() : 0);
-                        mCallback.onInfoUpdate(mVideoInfo);
-                    }
-                });
-                if (users != null) {
-                    usersChanged(users, true);
-                    Logger.d(TAG, &quot;onJoinOk ... size: &quot; + users.size());
-                }
-                mHandler.sendEmptyMessageDelayed(MSG_SEND_LIKE_COUNT, INTERVAL_SEND_LIKE_COUNT);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtRVZNZXNzYWdlLmxlYXZlVG9waWMobVZpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0U3lzdGVtTXNnKG1MYXlvdXQsIE1lc3NhZ2VBY3Rpdml0eS50aGlzLCBnZXRDdXJyQ29sb3IoKSwKICAgICAgICAgICAgICAgICAgICAi5raI5oGv5Y+R6YCB5aSx6LSlLCDljp/lm6A6ICIgKyBtc2cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0U3lzdGVtTXNnKG1MYXlvdXQsIE1lc3NhZ2VBY3Rpdml0eS50aGlzLCBnZXRDdXJyQ29sb3IoKSwKICAgICAgICAgICAgICAgICAgICAi5raI5oGv5Y+R6YCB5aSx6LSlLCDljp/lm6A6ICIgKyBlcnJvckluZm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0U3lzdGVtTXNnKG1MYXlvdXQsIE1lc3NhZ2VBY3Rpdml0eS50aGlzLCBnZXRDdXJyQ29sb3IoKSwKICAgICAgICAgICAgICAgICAgICAi5raI5oGv5Y+R6YCB5aSx6LSlLCDljp/lm6A6ICIgKyBlcnJvckluZm8pOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgb25GYWlsdXJlKFN0cmluZyBtc2cpIHsKCiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgb25TdWNjZXNzKFN0cmluZyByZXN1bHQpIHsKICAgICAgICAgICAgCiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
