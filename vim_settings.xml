@@ -14,7 +14,7 @@
         <mark key="." line="137" column="0" />
         <mark key="^" line="138" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1500358786899">
+      <file name="/a.dummy" timestamp="1500366701205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -145,6 +145,13 @@
         <mark key="^" line="1338" column="11" />
         <mark key="." line="1350" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/Constants.java" timestamp="1500366693035">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1500360419367">
         <mark key="[" line="135" column="41" />
         <mark key="]" line="135" column="41" />
@@ -176,6 +183,12 @@
         <mark key="." line="581" column="46" />
         <mark key="^" line="581" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" timestamp="1500367922893">
+        <mark key="'" line="307" column="20" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_center_userinfo.xml" timestamp="1493277936384">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -192,12 +205,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LivePrepareActivity.java" timestamp="1500362111578">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LivePrepareActivity.java" timestamp="1500366707222">
         <mark key="'" line="340" column="83" />
         <mark key="k" line="489" column="19" />
-        <mark key="[" line="561" column="0" />
-        <mark key="]" line="561" column="0" />
-        <mark key="." line="561" column="0" />
+        <mark key="[" line="486" column="0" />
+        <mark key="]" line="486" column="0" />
+        <mark key="." line="486" column="0" />
+        <mark key="^" line="486" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/live/LiveChatManager.java" timestamp="1493117086106">
         <mark key="[" line="1224" column="100" />
@@ -329,6 +343,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/ai-screen/android/demo/build/intermediates/exploded-aar/com.easyvaas.sdk/evcore/1.1.7/jars/classes.jar!/com/easyvaas/sdk/core/net/Constants.class" timestamp="1500367090503">
+        <mark key="'" line="145" column="31" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="148" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/LivingFriendsInfoAdapterItem.java" timestamp="1494573942125">
         <mark key="[" line="120" column="37" />
         <mark key="]" line="120" column="37" />
@@ -345,6 +364,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/ai-screen/android/demo/src/main/java/com/easyvaas/sdk/demo/MessageActivity.java" timestamp="1500367823159" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/LoginAndRegisterActivity.java" timestamp="1493203938084">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="31" />
@@ -376,6 +396,12 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/manager/VideoCallHelper.java" timestamp="1500366937840">
+        <mark key="[" line="149" column="106" />
+        <mark key="]" line="146" column="46" />
+        <mark key="." line="146" column="46" />
+        <mark key="^" line="146" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/view_important_news_header.xml" timestamp="1484800607146">
         <mark key="[" line="196" column="39" />
@@ -462,6 +488,11 @@
         <mark key="." line="2" column="68" />
       </file>
       <file name="$USER_HOME$/.android/build-cache/d65308b9b62e46df9bee5043cbe4018cc85cb402/output/jars/classes.jar!/com/easyvaas/sdk/live/wrapper/EVLive.class" timestamp="1500362288610" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/video/LivePrepareConfig.java" timestamp="1500366185809">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/chat/adapter/ChatHistoryAdapter.java" timestamp="1496660211018">
         <mark key="[" line="119" column="85" />
         <mark key="]" line="119" column="85" />
@@ -495,10 +526,10 @@
         <mark key="]" line="53" column="32" />
         <mark key="." line="53" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/ai-screen/android/demo/src/main/java/com/easyvaas/sdk/demo/RecorderActivity.java" timestamp="1500362724353">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/ai-screen/android/demo/src/main/java/com/easyvaas/sdk/demo/RecorderActivity.java" timestamp="1500366880529">
         <mark key="'" line="754" column="63" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="68" />
+        <mark key="[" line="318" column="0" />
+        <mark key="]" line="318" column="94" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/live_recorder_view.xml" timestamp="1500362313905">
         <mark key="[" line="17" column="9" />
@@ -525,12 +556,16 @@
         <mark key="]" line="160" column="39" />
         <mark key="." line="160" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/ai-screen/android/demo/src/main/java/com/easyvaas/sdk/demo/Constant.java" timestamp="1500366603762">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="60" />
+      </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_my_swipe_message_layout.xml" timestamp="1496659608452">
         <mark key="[" line="67" column="31" />
         <mark key="]" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500029817663">
+      <file name="/Dummy.txt" timestamp="1500366923253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -568,12 +603,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" timestamp="1500362794693">
-        <mark key="'" line="705" column="45" />
-        <mark key="[" line="171" column="32" />
-        <mark key="]" line="174" column="20" />
-        <mark key="." line="174" column="20" />
-        <mark key="^" line="174" column="20" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" timestamp="1500366203188">
+        <mark key="'" line="138" column="47" />
+        <mark key="[" line="138" column="47" />
+        <mark key="]" line="138" column="47" />
+        <mark key="." line="138" column="47" />
+        <mark key="^" line="138" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/flowlayout/FlowLayout.java" timestamp="1494573361214">
         <mark key="[" line="206" column="65" />
@@ -598,10 +633,7 @@
         <mark key="." line="74" column="83" />
         <mark key="^" line="74" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/MediaController.java" timestamp="1500358443302">
-        <mark key="'" line="54" column="65" />
-      </file>
-      <file name="/fragment.java" timestamp="1492676103763">
+      <file name="/fragment.java" timestamp="1500366948483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -609,13 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="32" column="10" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/SplashActivity.java" />
-      <jump line="596" column="49" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="607" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="73" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="70" column="9" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
-      <jump line="365" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="300" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="286" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="279" column="13" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
@@ -709,79 +734,83 @@
       <jump line="291" column="28" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
       <jump line="118" column="25" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
       <jump line="726" column="45" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
+      <jump line="138" column="47" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
+      <jump line="39" column="51" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/Constants.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/Constants.java" />
+      <jump line="145" column="31" filename="$USER_HOME$/workspace/yzb/easyvaas/ai-screen/android/demo/build/intermediates/exploded-aar/com.easyvaas.sdk/evcore/1.1.7/jars/classes.jar!/com/easyvaas/sdk/core/net/Constants.class" />
+      <jump line="303" column="12" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" />
+      <jump line="23" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" />
+      <jump line="311" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/chat/ChatHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mBgmFilePath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV3TWVzc2FnZShTdHJpbmcgbWVzc2FnZSwgU3RyaW5nIHVzZXJkYXRhLCBmaW5hbCBTdHJpbmcgdXNlcklkLCBTdHJpbmcgdG9waWNJZCkgewoKICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>mBgmFilePath</text>
+        <text>channel</text>
       </register>
       <register name="/" type="4">
-        <text>beauty</text>
+        <text>MyRequest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIGludCBQRVJNSVNTSU9OX1JFUVVFU1RfQ0FNRVJBX0FVRElPUkVDID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLncoVEFHLCAiU2VuZCBtZXNzYWdlIGZhaWxlZDogIiArIGVycm9ySW5mbyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV3TWVzc2FnZShTdHJpbmcgbWVzc2FnZSwgU3RyaW5nIHVzZXJkYXRhLCBmaW5hbCBTdHJpbmcgdXNlcklkLCBTdHJpbmcgdG9waWNJZCkgewoKICAgICAgICAgICAgfQoK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobUVWTGl2ZS4oKSkgewo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">TG9nZ2VyLmQoVEFHLCAib25OZXdNZXNzYWdlIG1lc3NhZ2U6IiArIG1lc3NhZ2UgKyAiY29udGVudDogIiArIHVzZXJkYXRhCiAgICAgICAgICAgICAgICAgICAgICAgICsgIiB1c2VyaWQ6ICIgKyB1c2VySWQgKyAiIHRvcGljOiAiICsgdG9waWNJZCk7CiAgICAgICAgICAgICAgICBTdHJpbmcgbGl2ZUpzb24gPSAiIjsKICAgICAgICAgICAgICAgIFN0cmluZyBsaXZlU3RhdHVzSnNvbiA9ICIiOwogICAgICAgICAgICAgICAgaWYgKHVzZXJkYXRhICE9IG51bGwgJiYgdXNlcmRhdGEuY29udGFpbnMoIm1zZz0iKSkgewogICAgICAgICAgICAgICAgICAgIFN0cmluZ1tdIGpzb24gPSB1c2VyZGF0YS5zcGxpdCgiPSIpOwogICAgICAgICAgICAgICAgICAgIGlmIChqc29uLmxlbmd0aCA+IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbGl2ZUpzb24gPSBqc29uWzFdOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBsaXZlU3RhdHVzSnNvbiA9IFVSTERlY29kZXIuZGVjb2RlKGxpdmVKc29uLCAiVVRGLTgiKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLncoVEFHLCAiRGVjb2RlIGxpdmUgc3RhdHVzIGpzb24gZmFpbGVkISIsIGUpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmICghVGV4dFV0aWxzLmlzRW1wdHkobGl2ZVN0YXR1c0pzb24pKSB7CiAgICAgICAgICAgICAgICAgICAgSlNPTk9iamVjdCBqc29uT2JqZWN0ID0gbnVsbDsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBqc29uT2JqZWN0ID0gbmV3IEpTT05PYmplY3QobGl2ZVN0YXR1c0pzb24pOwogICAgICAgICAgICAgICAgICAgICAgICBKU09OT2JqZWN0IGx2c3RKc29uID0ganNvbk9iamVjdC5nZXRKU09OT2JqZWN0KCJsdnN0Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChsdnN0SnNvbiAhPSBudWxsICYmICFUZXh0VXRpbHMuaXNFbXB0eShsdnN0SnNvbi50b1N0cmluZygpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGx2c3RKc29uLmhhcygic3QiKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCBsaXZlU3RhdHVzID0gKEludGVnZXIpIGx2c3RKc29uLmdldCgic3QiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtQ2FsbGJhY2sub25TdGF0dXNVcGRhdGUobGl2ZVN0YXR1cyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGZpbmFsIENoYXRTdGF0dXNFbnRpdHkgZW50aXR5ID0gbmV3IEdzb24oKS5mcm9tSnNvbih1c2VyZGF0YSwgQ2hhdFN0YXR1c0VudGl0eS5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGVudGl0eSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZmluYWwgQ2hhdENvbW1lbnQgY29tbWVudCA9IGVudGl0eS5nZXRDb21tZW50KHVzZXJJZCwgbWVzc2FnZSk7CiAgICAgICAgICAgICAgICAgICAgZmluYWwgQ2hhdEJhcnJhZ2UgYmFycmFnZSA9IGVudGl0eS5nZXRCYXJyYWdlKHVzZXJJZCwgbWVzc2FnZSk7CiAgICAgICAgICAgICAgICAgICAgZmluYWwgR2lmdEVudGl0eSBnaWZ0ID0gZW50aXR5LmdldEdpZnRFbnRpdHkodXNlcklkKTsKICAgICAgICAgICAgICAgICAgICBmaW5hbCBDaGF0UmVkUGFja0luZm8gcmVkUGFja0luZm8gPSBlbnRpdHkuZ2V0UmVkUGFjayh1c2VyZGF0YSk7CiAgICAgICAgICAgICAgICAgICAgbmV3IEhhbmRsZXIobUNvbnRleHQuZ2V0TWFpbkxvb3BlcigpKS5wb3N0KG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChjb21tZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtQ2FsbGJhY2sub25OZXdDb21tZW50KGNvbW1lbnQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJhcnJhZ2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1DYWxsYmFjay5vbkJhcnJhZ2UoYmFycmFnZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoZ2lmdCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbUNhbGxiYWNrLm9uTmV3R2lmdChnaWZ0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZWRQYWNrSW5mbyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWFwPFN0cmluZywgQ2hhdFJlZFBhY2tJbmZvPiBtYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFwLnB1dChyZWRQYWNrSW5mby5nZXRJZCgpLCByZWRQYWNrSW5mbyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbUNhbGxiYWNrLm9uTmV3UmVkUGFjayhtYXApOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGVudGl0eS5nZXRWY2x0KCkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENoYXRWaWRlb0NhbGxTdGF0ZSB2Y3MgPSBlbnRpdHkuZ2V0VmNsdCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN3aXRjaCAodmNzLmdldFN0KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBDaGF0VmlkZW9DYWxsU3RhdGUuU1RBVEVfUkVRVUVTVDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1DYWxsYmFjay5vbkNhbGxSZXF1ZXN0KHVzZXJJZCwgdmNzLmdldE5rKCksIHZjcy5nZXRMZygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIENoYXRWaWRlb0NhbGxTdGF0ZS5TVEFURV9BQ0NFUFQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtQ2FsbGJhY2sub25DYWxsQWNjZXB0KHZjcy5nZXRDaWQoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBDaGF0VmlkZW9DYWxsU3RhdGUuU1RBVEVfQ0FOQ0VMOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbUNhbGxiYWNrLm9uQ2FsbENhbmNlbCh1c2VySWQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgQ2hhdFZpZGVvQ2FsbFN0YXRlLlNUQVRFX0VORDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1DYWxsYmFjay5vbkNhbGxFbmQodXNlcklkKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRVZCZ21QbGF5ZXIgbUVWQmdNdXNpY1BsYXllcjsK</text>
+      <register name="3" type="4">
+        <text>Logger.d(TAG, &quot;onJoinOk content: &quot; + (users != null ? users.toString() : &quot;&quot;)
+                        + &quot; topic: &quot; + topicId);
+                mTopicId = topicId;
+                mHandler.post(new Runnable() {
+                    @Override
+                    public void run() {
+                        mCallback.onJoinOK();
+                    }
+                });
+                mHandler.post(new Runnable() {
+                    @Override
+                    public void run() {
+                        // TODO Need change when message server callback ready
+                        mVideoInfo.setWatching_count(users != null ? users.size() : 0);
+                        mCallback.onInfoUpdate(mVideoInfo);
+                    }
+                });
+                if (users != null) {
+                    usersChanged(users, true);
+                    Logger.d(TAG, &quot;onJoinOk ... size: &quot; + users.size());
+                }
+                mHandler.sendEmptyMessageDelayed(MSG_SEND_LIKE_COUNT, INTERVAL_SEND_LIKE_COUNT);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtRVZNZXNzYWdlLmxlYXZlVG9waWMobVZpZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0U3lzdGVtTXNnKG1MYXlvdXQsIE1lc3NhZ2VBY3Rpdml0eS50aGlzLCBnZXRDdXJyQ29sb3IoKSwKICAgICAgICAgICAgICAgICAgICAi5raI5oGv5Y+R6YCB5aSx6LSlLCDljp/lm6A6ICIgKyBtc2cpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0U3lzdGVtTXNnKG1MYXlvdXQsIE1lc3NhZ2VBY3Rpdml0eS50aGlzLCBnZXRDdXJyQ29sb3IoKSwKICAgICAgICAgICAgICAgICAgICAi5raI5oGv5Y+R6YCB5aSx6LSlLCDljp/lm6A6ICIgKyBlcnJvckluZm8pOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>mVideoTitleTv.setVisibility(View.VISIBLE);
-                    mVideoTitleTv.setText(&quot;lid: &quot; + mLid + &quot;, 点击弹出二维码&quot;);</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0U3lzdGVtTXNnKG1MYXlvdXQsIE1lc3NhZ2VBY3Rpdml0eS50aGlzLCBnZXRDdXJyQ29sb3IoKSwKICAgICAgICAgICAgICAgICAgICAi5raI5oGv5Y+R6YCB5aSx6LSlLCDljp/lm6A6ICIgKyBlcnJvckluZm8pOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgb25GYWlsdXJlKFN0cmluZyBtc2cpIHsKCiAgICAgICAgfQoK</text>
       </register>
-      <register name="9" type="4">
-        <text>mB
-                    if (mliveOption.isBeautyOn()) {
-                        mBeautyLevelView.setVisibility(View.VISIBLE);
-
-                        switch (mBeautyLevel) {
-                            case LiveConstants.BEAUTY_LEVEL_1:
-                                mBeautySoftBtn.setChecked(true);
-                                break;
-                            case LiveConstants.BEAUTY_LEVEL_2:
-                                mBeautyIllusionBtn.setChecked(true);
-                                break;
-                            case LiveConstants.BEAUTY_LEVEL_3:
-                                mBeautySmoothBtn.setChecked(true);
-                                break;
-                            case LiveConstants.BEAUTY_LEVEL_4:
-                                mBeautyProBtn.setChecked(true);
-                                break;
-                            default:
-                                mBeautySoftBtn.setChecked(true);
-                                break;
-                        }
-                    } else {
-                        mBeautyLevelView.setVisibility(View.GONE);
-                    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgb25TdWNjZXNzKFN0cmluZyByZXN1bHQpIHsKICAgICAgICAgICAgCiAgICAgICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>beauty</last-search>
+      <last-search>MyRequest</last-search>
       <last-offset />
-      <last-pattern>beauty</last-pattern>
+      <last-pattern>MyRequest</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
       <last-dir>1</last-dir>
@@ -789,7 +818,6 @@
     </search>
     <history>
       <history-search>
-        <entry>common_share_message</entry>
         <entry>rice_roll_count</entry>
         <entry>e_coin</entry>
         <entry>tip_city</entry>
@@ -809,6 +837,7 @@
         <entry>r.layout.</entry>
         <entry>beatu</entry>
         <entry>beauty</entry>
+        <entry>MyRequest</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
