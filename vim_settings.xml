@@ -14,7 +14,7 @@
         <mark key="." line="137" column="0" />
         <mark key="^" line="138" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1497342769089">
+      <file name="/a.dummy" timestamp="1500030984096">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -366,7 +366,6 @@
         <mark key="^" line="114" column="47" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/oschina/PLDroidMediaStreaming/PLDroidMediaStreamingDemo/app/src/main/java/com/qiniu/pili/droid/streaming/demo/MainActivity.java" timestamp="1500029796275" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/net/ApiUtil.java" timestamp="1484803733222">
         <mark key="[" line="255" column="0" />
         <mark key="]" line="255" column="62" />
@@ -426,6 +425,12 @@
         <mark key="[" line="119" column="85" />
         <mark key="]" line="119" column="85" />
         <mark key="." line="119" column="85" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/build.gradle" timestamp="1500345947402">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/bean/serverparam/ServerParam.java" timestamp="1492680704235">
         <mark key="[" line="71" column="0" />
@@ -638,10 +643,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>%1$</text>
