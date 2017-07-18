@@ -139,6 +139,11 @@
         <mark key="^" line="1338" column="11" />
         <mark key="." line="1350" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1500348348613">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/drawable/ic_live_video_call.xml" timestamp="1479798012379">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -416,11 +421,11 @@
         <mark key="]" line="418" column="86" />
         <mark key="." line="418" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/CustomView/src/main/java/com/easyvaas/common/widget/verticalseekbar/VerticalSeekBar.java" timestamp="1500347208395">
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="292" column="10" />
-        <mark key="." line="292" column="10" />
-        <mark key="^" line="292" column="10" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/CustomView/src/main/java/com/easyvaas/common/widget/verticalseekbar/VerticalSeekBar.java" timestamp="1500347915092">
+        <mark key="'" line="78" column="52" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/drawable/btn_home_tab_timeline.xml" timestamp="1493176762347">
         <mark key="[" line="2" column="68" />
@@ -546,7 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="48" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
       <jump line="346" column="88" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="613" column="27" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
@@ -646,10 +650,11 @@
       <jump line="95" column="73" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/list/SearchUserListActivity.java" />
       <jump line="694" column="62" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/AndroidManifest.xml" />
       <jump line="108" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
+      <jump line="79" column="52" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/CustomView/src/main/java/com/easyvaas/common/widget/verticalseekbar/VerticalSeekBar.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFuZHJvCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJpdmF0ZSA=</text>
@@ -661,31 +666,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1ldGhvZCBtOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB5CiAgICAgICAgaWYgKG1NZXRob2RTZXRQcm9ncmVzcyA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCS8vZGF0YVRpbWVUdi5zZXRUZXh0KAoJCQkJLy8JCURhdGVUaW1lVXRpbC5nZXRGb3JtYXREYXRlKGxhc3RNZXNzYWdlLmdldE1zZ1RpbWUoKSkpKTsK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6bXVsdGlkZXg6MS4wLjEnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWaWV3Qwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0aGlzLnNldEVuYWJsZUZhY2VEZXRlY3Rpb24oKTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC52aWV3LlZpZXdDb21wYXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmljZV9yb2xsX2NvdW50Igo=</text>
+        <text encoding="base64">ICAgICAgICB5CiAgICAgICAgaWYgKG1NZXRob2RTZXRQcm9ncmVzcyA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtUmljZVJvbGxDb3VudFR2LnNldFRleHQoIjAiKTsK</text>
+        <text encoding="base64">CQkJCS8vZGF0YVRpbWVUdi5zZXRUZXh0KAoJCQkJLy8JCURhdGVUaW1lVXRpbC5nZXRGb3JtYXREYXRlKGxhc3RNZXNzYWdlLmdldE1zZ1RpbWUoKSkpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtUmljZVJvbGxDb3VudFR2LnNldFRleHQoZ2V0U3RyaW5nKFIuc3RyaW5nLnJpY2Vfcm9sbF9jb3VudCwgIjAiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmljZV9yb2xsX2NvdW50Igo=</text>
+        <text encoding="base64">CQl0aGlzLnNldEVuYWJsZUZhY2VEZXRlY3Rpb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcmljZV9yb2xsX2NvdW50Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
