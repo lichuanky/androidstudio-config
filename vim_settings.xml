@@ -194,11 +194,11 @@
         <mark key="." line="125" column="0" />
         <mark key="^" line="137" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/build.gradle" timestamp="1500633929419">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="55" column="47" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/build.gradle" timestamp="1500966185824">
+        <mark key="[" line="52" column="41" />
+        <mark key="]" line="52" column="41" />
+        <mark key="^" line="52" column="41" />
+        <mark key="." line="52" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/drawable/ic_live_video_call.xml" timestamp="1479798012379">
         <mark key="[" line="14" column="0" />
@@ -941,17 +941,17 @@
       <jump line="44" column="35" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbGljaHVhbiBvbiA3LzI1LzE3LgogKi8KCg==</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>fit_center</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>MyRequest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChUQUcsICJGaW5kIGltYWdlcyByb290IHBhdGg6ICIgKyBwYXRoKTsK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5lYXN5dmFhcy5zZGs6ZXZsaXZlOjEuMS40Jwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbGljaHVhbiBvbiA3LzI1LzE3LgogKi8KCg==</text>
