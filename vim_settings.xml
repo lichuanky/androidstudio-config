@@ -642,11 +642,11 @@
         <mark key="." line="90" column="23" />
         <mark key="^" line="90" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/bean/CallEntity.java" timestamp="1501040523424">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="5" column="33" />
-        <mark key="^" line="5" column="33" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/bean/CallEntity.java" timestamp="1501042588378">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/drawable/btn_home_tab_timeline.xml" timestamp="1493176762347">
         <mark key="[" line="2" column="68" />
@@ -982,11 +982,11 @@
       <jump line="112" column="28" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlIHB1YmxpYyB2b2lkIG9uU3VjY2VzcyhTdHJpbmcgcmVzdWx0KSB7CgogICAgICAgICAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>namefrom</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>namefrom</text>
       </register>
       <register name="/" type="4">
         <text>MyRequest</text>
