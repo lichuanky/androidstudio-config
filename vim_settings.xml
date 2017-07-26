@@ -621,11 +621,11 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/RTCActivity.java" timestamp="1501050848906">
-        <mark key="[" line="41" column="71" />
-        <mark key="]" line="42" column="27" />
-        <mark key="^" line="42" column="27" />
-        <mark key="." line="42" column="27" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/RTCActivity.java" timestamp="1501051785095">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="45" />
+        <mark key="^" line="145" column="30" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1495602269043">
         <mark key="[" line="1456" column="0" />
@@ -991,44 +991,49 @@
       <jump line="138" column="39" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/MsgHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtRVZMaXZlLmVuZEludGVyYWN0aXZlTGl2ZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>MyRequest</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFDVElPTl9TVEFSVCA9ICJzdGFydCI7Cg==</text>
+      <register name="0" type="4">
+        <text>if (mEVLive != null) {
+                                mEVLive.setOnInteractiveLiveListener(mOnInteractiveLiveListener);
+                                mEVLive.setRTCSubScreenRect(0.65F, 0.1F, 0.35F, 0.3F);
+                                //mEVLive.setEnableMainScreenRemote(false);
+                                mEVLive.startInteractiveLive(mChannelID);
+                            }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5zZGsuY29yZS51dGlsLlByZWZlcmVuY2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICBtRVZMaXZlLmVuZEludGVyYWN0aXZlTGl2ZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoIChjYWxsRW50aXR5LmdldEFjdGlvbigpKSB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1FVkxpdmUuZW5kSW50ZXJhY3RpdmVMaXZlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY2FsbEVudGl0eQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uUGFyc2VyVXRpbC4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25OZXdNZXNzYWdlKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsU3RhcnQobUNoYW5uZWxJRCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5zZGsuY29yZS51dGlsLlByZWZlcmVuY2VzOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoIChjYWxsRW50aXR5LmdldEFjdGlvbigpKSB7CiAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgbUVWTWVzc2FnZS5nZXRMYXN0SGlzdG9yeU1zZ3MoQ29uc3RhbnQuRVZfTVNHX0NIQU5ORUwsIDEwLCBDb25zdGFudHMuTUVTU0FHRV9UWVBFX01TRyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY2FsbEVudGl0eQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgb25OZXdNZXNzYWdlKFN0cmluZyBzLCBTdHJpbmcgczEsIFN0cmluZyBzMiwgU3RyaW5nIHMzLCBTdHJpbmcgczQpIHsKICAgICAgICAgICAgCiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBKc29uUGFyc2VyVXRpbC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
