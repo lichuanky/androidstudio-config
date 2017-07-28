@@ -852,11 +852,11 @@
         <mark key="]" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1501223572444">
-        <mark key="[" line="109" column="27" />
-        <mark key="]" line="109" column="27" />
-        <mark key="." line="109" column="27" />
-        <mark key="^" line="106" column="82" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1501225221869">
+        <mark key="[" line="203" column="8" />
+        <mark key="]" line="203" column="8" />
+        <mark key="." line="203" column="8" />
+        <mark key="^" line="203" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/DateTimeUtil.java" timestamp="1496658350046">
         <mark key="[" line="130" column="69" />
@@ -1057,10 +1057,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4000</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>4000</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>loading</text>
