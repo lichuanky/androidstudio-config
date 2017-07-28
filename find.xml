@@ -3,9 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project 'android'" />
     <option name="defaultScopeName" value="Project 'android'" />
-    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'android'" />
     <recentFileMasks>
       <mask>*.properties</mask>
