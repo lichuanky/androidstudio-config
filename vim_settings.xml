@@ -696,10 +696,11 @@
         <mark key="]" line="2" column="85" />
         <mark key="." line="2" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/net/MyRequestCallBack.java" timestamp="1501040029957">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/net/MyRequestCallBack.java" timestamp="1501208813703">
+        <mark key="[" line="47" column="15" />
+        <mark key="]" line="47" column="15" />
+        <mark key="." line="47" column="15" />
+        <mark key="^" line="47" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/video/LivePrepareConfig.java" timestamp="1500366185809">
         <mark key="[" line="13" column="0" />
@@ -833,12 +834,12 @@
         <mark key="]" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1501154682199">
-        <mark key="'" line="43" column="36" />
-        <mark key="[" line="148" column="23" />
-        <mark key="]" line="148" column="23" />
-        <mark key="." line="148" column="23" />
-        <mark key="^" line="148" column="29" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1501209102240">
+        <mark key="'" line="34" column="20" />
+        <mark key="[" line="147" column="8" />
+        <mark key="]" line="147" column="9" />
+        <mark key="." line="147" column="9" />
+        <mark key="^" line="147" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/DateTimeUtil.java" timestamp="1496658350046">
         <mark key="[" line="130" column="69" />
@@ -923,13 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="50" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
-      <jump line="274" column="59" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
-      <jump line="291" column="33" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
-      <jump line="296" column="25" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
-      <jump line="290" column="33" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/proguard-rules.txt" />
-      <jump line="78" column="32" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/HeaderSliderAdapterItem.java" />
       <jump line="447" column="0" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Constants.java" />
       <jump line="301" column="50" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/HeaderFriendsInfoAdapterItem.java" />
       <jump line="1266" column="4" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values-zh/strings.xml" />
@@ -1023,19 +1017,26 @@
       <jump line="53" column="87" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/fragment/IdleFragment.java" />
       <jump line="43" column="36" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/values/theme.xml" />
+      <jump line="155" column="55" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
+      <jump line="24" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
+      <jump line="228" column="47" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
+      <jump line="272" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
+      <jump line="23" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
+      <jump line="0" column="21" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
+      <jump line="35" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>match_parent</text>
+        <text>lichuan</text>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text>lichuan</text>
       </register>
       <register name="/" type="4">
-        <text>smartscree</text>
+        <text>smart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9idG5fZXZhbHVhdGVfY29tbW9uIgo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZSA9ICJsaWNodWFuIjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbml0U2RrKCk7ZAo=</text>
@@ -1069,9 +1070,9 @@
       </register>
     </registers>
     <search>
-      <last-search>smartscree</last-search>
+      <last-search>smart</last-search>
       <last-offset />
-      <last-pattern>smartscree</last-pattern>
+      <last-pattern>smart</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
       <last-dir>1</last-dir>
@@ -1079,7 +1080,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request_tile</entry>
         <entry>request</entry>
         <entry>prompty</entry>
         <entry>prompt</entry>
@@ -1099,6 +1099,7 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>lichuan</entry>
         <entry>smartscree</entry>
+        <entry>smart</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
