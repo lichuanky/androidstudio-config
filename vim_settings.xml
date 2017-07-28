@@ -211,11 +211,11 @@
         <mark key="." line="125" column="0" />
         <mark key="^" line="137" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/build.gradle" timestamp="1501149229062">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="26" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/build.gradle" timestamp="1501210558387">
+        <mark key="[" line="54" column="47" />
+        <mark key="]" line="55" column="42" />
+        <mark key="^" line="55" column="42" />
+        <mark key="." line="55" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/drawable/ic_live_video_call.xml" timestamp="1479798012379">
         <mark key="[" line="14" column="0" />
@@ -278,12 +278,12 @@
         <mark key="." line="1224" column="100" />
         <mark key="^" line="1224" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_main.xml" timestamp="1501207952864">
-        <mark key="'" line="47" column="35" />
-        <mark key="[" line="50" column="33" />
-        <mark key="]" line="56" column="34" />
-        <mark key="." line="56" column="34" />
-        <mark key="^" line="56" column="34" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_main.xml" timestamp="1501210249372">
+        <mark key="'" line="62" column="35" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+        <mark key="^" line="33" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" timestamp="1492150644655">
         <mark key="[" line="23" column="0" />
@@ -323,11 +323,11 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/fragment_idle.xml" timestamp="1501152426124">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="27" />
-        <mark key="." line="30" column="27" />
-        <mark key="^" line="30" column="27" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/fragment_idle.xml" timestamp="1501209486999">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/fragment/RTCFragment.java" timestamp="1501152121295">
         <mark key="'" line="167" column="62" />
@@ -425,11 +425,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/fragment_service_end.xml" timestamp="1501153701422">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="43" column="45" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/fragment_service_end.xml" timestamp="1501210349634">
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="70" column="31" />
+        <mark key="^" line="70" column="31" />
+        <mark key="." line="70" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/UserLoginFragment.java" timestamp="1493017985312">
         <mark key="[" line="31" column="0" />
@@ -530,12 +530,11 @@
         <mark key="]" line="8" column="31" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/fragment/IdleFragment.java" timestamp="1501135272711">
-        <mark key="'" line="53" column="87" />
-        <mark key="[" line="53" column="89" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/fragment/IdleFragment.java" timestamp="1501211173797">
+        <mark key="'" line="72" column="87" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/app/YZBApplication.java" timestamp="1493288328173">
         <mark key="[" line="122" column="0" />
@@ -656,10 +655,10 @@
         <mark key="^" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/RTCActivity.java" timestamp="1501061764631">
-        <mark key="'" line="187" column="0" />
+        <mark key="'" line="191" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="32" column="68" />
-        <mark key="^" line="161" column="0" />
+        <mark key="^" line="165" column="0" />
         <mark key="." line="28" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/PlayerActivity.java" timestamp="1495602269043">
@@ -678,12 +677,12 @@
         <mark key="]" line="160" column="28" />
         <mark key="." line="160" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/MsgHelper.java" timestamp="1501136228281">
-        <mark key="'" line="156" column="39" />
-        <mark key="[" line="60" column="29" />
-        <mark key="]" line="60" column="52" />
-        <mark key="^" line="60" column="52" />
-        <mark key="." line="60" column="52" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/MsgHelper.java" timestamp="1501209719622">
+        <mark key="'" line="158" column="39" />
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="61" column="61" />
+        <mark key="^" line="61" column="61" />
+        <mark key="." line="61" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/bean/CallEntity.java" timestamp="1501057385925">
         <mark key="[" line="5" column="45" />
@@ -774,6 +773,12 @@
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/base/MessageEvent.java" timestamp="1501210724399">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/live_top_anchor_info.xml" timestamp="1492150858160">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="21" column="0" />
@@ -834,12 +839,12 @@
         <mark key="]" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1501209102240">
-        <mark key="'" line="34" column="20" />
-        <mark key="[" line="147" column="8" />
-        <mark key="]" line="147" column="9" />
-        <mark key="." line="147" column="9" />
-        <mark key="^" line="147" column="9" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1501210168618">
+        <mark key="'" line="35" column="20" />
+        <mark key="[" line="84" column="45" />
+        <mark key="]" line="154" column="9" />
+        <mark key="." line="154" column="9" />
+        <mark key="^" line="154" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/DateTimeUtil.java" timestamp="1496658350046">
         <mark key="[" line="130" column="69" />
@@ -916,7 +921,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1501123794156">
+      <file name="/fragment.java" timestamp="1501210702734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -1026,44 +1031,44 @@
       <jump line="35" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lichuan</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgTWVzc2FnZUV2ZW50KCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>lichuan</text>
+        <text>MessageE</text>
       </register>
       <register name="/" type="4">
         <text>smart</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZSA9ICJsaWNodWFuIjsK</text>
+      <register name="0" type="4">
+        <text>&quot;聊天交互发生错误,错误码: &quot; + errCode</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0U2RrKCk7ZAo=</text>
+        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgTWVzc2FnZUV2ZW50KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbGljaHVhbiBvbiA3LzI4LzE3LgogKi8KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjEwMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjEwMGRwIgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9idG5fZXZhbHVhdGUiCg==</text>
+        <text encoding="base64">cHUK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnRuX2V2YWx1YXRlIgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjEwMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjEwMGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnRuX2V2YWx1YXRlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgo=</text>
+        <text encoding="base64">CiAgICAgICAgPFRleHRWaWV3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjBzcCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjEwMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjEwMGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBAc3RyaW5nL25pY2tuYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
