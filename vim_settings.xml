@@ -278,12 +278,12 @@
         <mark key="." line="1224" column="100" />
         <mark key="^" line="1224" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_main.xml" timestamp="1501152314858">
-        <mark key="'" line="46" column="35" />
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="35" />
-        <mark key="." line="54" column="35" />
-        <mark key="^" line="54" column="35" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_main.xml" timestamp="1501207952864">
+        <mark key="'" line="47" column="35" />
+        <mark key="[" line="50" column="33" />
+        <mark key="]" line="56" column="34" />
+        <mark key="." line="56" column="34" />
+        <mark key="^" line="56" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/activity_user_vip_center.xml" timestamp="1492150644655">
         <mark key="[" line="23" column="0" />
@@ -1026,10 +1026,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>smartscreen</text>
+        <text>match_parent</text>
       </register>
       <register name="-" type="4">
-        <text>smartscreen</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>smartscree</text>
