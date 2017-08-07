@@ -437,6 +437,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/net/ApiConstant.java" timestamp="1502096639064">
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="64" />
+        <mark key="." line="20" column="64" />
+        <mark key="^" line="20" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/fragment/TabDiscoveryFragment.java" timestamp="1491985487321">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -447,11 +453,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectionUtil.java" timestamp="1502094937508">
-        <mark key="'" line="53" column="51" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectionUtil.java" timestamp="1502096848884">
+        <mark key="'" line="111" column="50" />
+        <mark key="[" line="113" column="73" />
+        <mark key="]" line="113" column="73" />
+        <mark key="." line="113" column="73" />
+        <mark key="^" line="113" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/news/MyStockNewsListFragment.java" timestamp="1484765793295">
         <mark key="[" line="11" column="0" />
@@ -993,7 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="52" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/CustomView/src/main/java/com/easyvaas/common/widget/verticalseekbar/VerticalSeekBar.java" />
       <jump line="156" column="40" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/MediaController.java" />
       <jump line="186" column="4" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/MediaController.java" />
       <jump line="272" column="79" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/MediaController.java" />
@@ -1093,46 +1099,47 @@
       <jump line="249" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FileUtils.java" />
       <jump line="51" column="51" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectionUtil.java" />
       <jump line="40" column="24" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/net/ApiHelper.java" />
+      <jump line="108" column="50" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectionUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gQXBpY29uCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>snapshot_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>loading</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZUpwZWcoZGF0YSwgd2lkdGgsIGhlaWdodCwgbmV3IFJlY3QoMCwgMCwgd2lkdGgsIGhlaWdodCkpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFZJREVPX0NBTExfRU5EID0gSE9TVCArICIvdmlkZW9jYWxsL2VuZD8iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gQXBpY29uCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnNldExvZ291cmwobVRlbXBMb2dvUGljLmdldEFic29sdXRlUGF0aCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5zZGsuY29yZS51dGlsLlV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICB0YXNrLmV4ZWN1dGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gQXBpY29uCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIERpYWxvZyBnZXRCdXR0b25zRGlhbG9nKEFjdGl2aXR5IGFjdGl2aXR5LCBTdHJpbmcgY29udGVudCwgYm9vbGVhbiBkaXNtaXNzVG91Y2hPdXRzaWRlLAogICAgICAgICAgICBib29sZWFuIGNhbmNlbGFibGUsIERpYWxvZ0ludGVyZmFjZS5PbkNsaWNrTGlzdGVuZXIgY29uZmlybU9uQ2xpY2tMaXN0ZW5lciwKICAgICAgICAgICAgRGlhbG9nSW50ZXJmYWNlLk9uQ2xpY2tMaXN0ZW5lciBjYW5jZWxPbkNsaWNrTGlzdGVuZXIpIHsKICAgICAgICBEaWFsb2cgZGlhbG9nID0gbmV3IEFsZXJ0RGlhbG9nLkJ1aWxkZXIoYWN0aXZpdHkpCiAgICAgICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oUi5zdHJpbmcuY2FuY2VsLCBjYW5jZWxPbkNsaWNrTGlzdGVuZXIpCiAgICAgICAgICAgICAgICAuc2V0UG9zaXRpdmVCdXR0b24oUi5zdHJpbmcuY29uZmlybSwgY29uZmlybU9uQ2xpY2tMaXN0ZW5lcikKICAgICAgICAgICAgICAgIC5zZXRDYW5jZWxhYmxlKGNhbmNlbGFibGUpCiAgICAgICAgICAgICAgICAuc2V0TWVzc2FnZShjb250ZW50KQogICAgICAgICAgICAgICAgLmNyZWF0ZSgpOwogICAgICAgIGRpYWxvZy5zZXRDYW5jZWxlZE9uVG91Y2hPdXRzaWRlKGRpc21pc3NUb3VjaE91dHNpZGUpOwogICAgICAgIHJldHVybiBkaWFsb2c7CiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5lYXN5dmFhcy5zZGsuY29yZS51dGlsLlV0aWxzOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIERpYWxvZyBnZXRDdXN0b21EaWFsb2coZmluYWwgQWN0aXZpdHkgYWN0aXZpdHksIFZpZXcgdmlldywgYm9vbGVhbiBkaXNtaXNzVG91Y2hPdXRzaWRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gY2FuY2VsYWJsZSkgewogICAgICAgIERpYWxvZyBkaWFsb2cgPSBuZXcgRGlhbG9nKGFjdGl2aXR5LCBSLnN0eWxlLkRpYWxvZ19GdWxsU2NyZWVuKTsKICAgICAgICBkaWFsb2cuc2V0Q29udGVudFZpZXcodmlldyk7CiAgICAgICAgZGlhbG9nLnNldENhbmNlbGFibGUoY2FuY2VsYWJsZSk7CiAgICAgICAgZGlhbG9nLnNldENhbmNlbGVkT25Ub3VjaE91dHNpZGUoZGlzbWlzc1RvdWNoT3V0c2lkZSk7CiAgICAgICAgaWYgKCFjYW5jZWxhYmxlKSB7CiAgICAgICAgICAgIGRpYWxvZy5zZXRPbktleUxpc3RlbmVyKG5ldyBEaWFsb2dJbnRlcmZhY2UuT25LZXlMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25LZXkoRGlhbG9nSW50ZXJmYWNlIGRpYWxvZywgaW50IGtleUNvZGUsIEtleUV2ZW50IGV2ZW50KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGV2ZW50LmdldEFjdGlvbigpID09IEtleUV2ZW50LkFDVElPTl9VUCAmJiBrZXlDb2RlID09IEtleUV2ZW50LktFWUNPREVfQkFDSykgewogICAgICAgICAgICAgICAgICAgICAgICBkaWFsb2cuZGlzbWlzcygpOwogICAgICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eS5maW5pc2goKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGRpYWxvZzsKICAgIH0=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIERpYWxvZyBnZXRCdXR0b25zRGlhbG9nKEFjdGl2aXR5IGFjdGl2aXR5LCBTdHJpbmcgY29udGVudCwgYm9vbGVhbiBkaXNtaXNzVG91Y2hPdXRzaWRlLAogICAgICAgICAgICBib29sZWFuIGNhbmNlbGFibGUsIERpYWxvZ0ludGVyZmFjZS5PbkNsaWNrTGlzdGVuZXIgY29uZmlybU9uQ2xpY2tMaXN0ZW5lciwKICAgICAgICAgICAgRGlhbG9nSW50ZXJmYWNlLk9uQ2xpY2tMaXN0ZW5lciBjYW5jZWxPbkNsaWNrTGlzdGVuZXIpIHsKICAgICAgICBEaWFsb2cgZGlhbG9nID0gbmV3IEFsZXJ0RGlhbG9nLkJ1aWxkZXIoYWN0aXZpdHkpCiAgICAgICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oUi5zdHJpbmcuY2FuY2VsLCBjYW5jZWxPbkNsaWNrTGlzdGVuZXIpCiAgICAgICAgICAgICAgICAuc2V0UG9zaXRpdmVCdXR0b24oUi5zdHJpbmcuY29uZmlybSwgY29uZmlybU9uQ2xpY2tMaXN0ZW5lcikKICAgICAgICAgICAgICAgIC5zZXRDYW5jZWxhYmxlKGNhbmNlbGFibGUpCiAgICAgICAgICAgICAgICAuc2V0TWVzc2FnZShjb250ZW50KQogICAgICAgICAgICAgICAgLmNyZWF0ZSgpOwogICAgICAgIGRpYWxvZy5zZXRDYW5jZWxlZE9uVG91Y2hPdXRzaWRlKGRpc21pc3NUb3VjaE91dHNpZGUpOwogICAgICAgIHJldHVybiBkaWFsb2c7CiAgICB9</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIERpYWxvZyBnZXRQcm9jZXNzRGlhbG9nKEFjdGl2aXR5IGFjdGl2aXR5LCBDaGFyU2VxdWVuY2UgbWVzc2FnZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9vbGVhbiBkaXNtaXNzVG91Y2hPdXRzaWRlLCBib29sZWFuIGNhbmNlbGFibGUpIHsKICAgICAgICBmaW5hbCBMYXlvdXRJbmZsYXRlciBpbmZsYXRlciA9IExheW91dEluZmxhdGVyLmZyb20oYWN0aXZpdHkpOwogICAgICAgIFZpZXcgdiA9IGluZmxhdGVyLmluZmxhdGUoUi5sYXlvdXQucHJvZ3Jlc3NfaHVkLCBudWxsKTsKICAgICAgICBEaWFsb2cgZGlhbG9nID0gZ2V0Q3VzdG9tRGlhbG9nKGFjdGl2aXR5LCB2LCBkaXNtaXNzVG91Y2hPdXRzaWRlLCBjYW5jZWxhYmxlKTsKICAgICAgICBpZiAoZGlzbWlzc1RvdWNoT3V0c2lkZSkgewogICAgICAgICAgICBkaWFsb2cuc2V0Q2FuY2VsZWRPblRvdWNoT3V0c2lkZSh0cnVlKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBkaWFsb2cuc2V0Q2FuY2VsZWRPblRvdWNoT3V0c2lkZShmYWxzZSk7CiAgICAgICAgfQoKICAgICAgICBJbWFnZVZpZXcgc3Bpbm5lciA9IChJbWFnZVZpZXcpIHYuZmluZFZpZXdCeUlkKFIuaWQuc3Bpbm5lckltYWdlVmlldyk7CiAgICAgICAgKChBbmltYXRpb25EcmF3YWJsZSkgc3Bpbm5lci5nZXRCYWNrZ3JvdW5kKCkpLnN0YXJ0KCk7CiAgICAgICAgVGV4dFZpZXcgbWVzc2FnZVR2ID0gKFRleHRWaWV3KSB2LmZpbmRWaWV3QnlJZChSLmlkLm1lc3NhZ2UpOwogICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShtZXNzYWdlKSkgewogICAgICAgICAgICBtZXNzYWdlVHYuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIG1lc3NhZ2VUdi5zZXRUZXh0KG1lc3NhZ2UpOwogICAgICAgICAgICBtZXNzYWdlVHYuc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGRpYWxvZzsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
