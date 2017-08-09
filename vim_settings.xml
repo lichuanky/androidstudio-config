@@ -909,7 +909,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502179167402">
+      <file name="/Dummy.txt" timestamp="1502247799924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -982,11 +982,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/youtu/bean/FaceEntity.java" timestamp="1502179891017">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="412" column="0" />
-        <mark key="]" line="412" column="98" />
-        <mark key="." line="412" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/youtu/bean/FaceEntity.java" timestamp="1502248164239">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="411" column="37" />
+        <mark key="]" line="411" column="36" />
+        <mark key="." line="411" column="36" />
+        <mark key="^" line="411" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_topic_recommend_view.xml" timestamp="1492162651364">
         <mark key="[" line="14" column="47" />
@@ -1041,13 +1042,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectHelper.java" timestamp="1502179742265">
-        <mark key="[" line="91" column="70" />
-        <mark key="]" line="91" column="87" />
-        <mark key="." line="91" column="87" />
-        <mark key="^" line="91" column="87" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectHelper.java" timestamp="1502247835115">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="69" column="33" />
+        <mark key="]" line="69" column="100" />
+        <mark key="." line="69" column="33" />
+        <mark key="^" line="69" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1502179167398">
+      <file name="/fragment.java" timestamp="1502247799920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -1056,7 +1058,6 @@
       <file name="$USER_HOME$/android/android-sdk-linux/sources/android-25/android/opengl/GLSurfaceView.java" timestamp="1502161045394" />
     </filemarks>
     <jumps>
-      <jump line="754" column="63" filename="$USER_HOME$/workspace/yzb/easyvaas/ai-screen/android/demo/src/main/java/com/easyvaas/sdk/demo/RecorderActivity.java" />
       <jump line="343" column="83" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LivePrepareActivity.java" />
       <jump line="206" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/PlayerActivity.java" />
       <jump line="291" column="28" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
@@ -1156,63 +1157,63 @@
       <jump line="153" column="7" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/fragment/RTCFragment.java" />
       <jump line="154" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/fragment/RTCFragment.java" />
       <jump line="136" column="15" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/fragment/RTCFragment.java" />
+      <jump line="65" column="12" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">U3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzTGFzdFVwbG9hZFRpbWUgPiBTQVZFX1VQTE9BRF9JTlRFUlZBTA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>mode</text>
+        <text encoding="base64">XDxpZlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVjdCBtUmVjdDsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">U3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzTGFzdFVwbG9hZFRpbWUgPiBTQVZFX1VQTE9BRF9JTlRFUlZBTA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlY3QgYm91bmRzID0gbmV3IFJlY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gT25seSBmYWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdHguZ2V0U3RyaW5nKFIuc3RyaW5nLmNvbHVtbl9nZW5kZXIsIGN0eC5nZXRTdHJpbmcoUi5zdHJpbmcuZ2VuZGVyX21hbGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBBCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdHguZ2V0U3RyaW5nKFIuc3RyaW5nLmNvbHVtbl9nZW5kZXIsIGN0eC5nZXRTdHJpbmcoUi5zdHJpbmcuZ2VuZGVyX2ZlbWFsZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlY3QgYm91bmRzID0gbmV3IFJlY3QoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1PdmVybGF5Vmlldy5zZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdHguZ2V0U3RyaW5nKFIuc3RyaW5nLmNvbHVtbl9nZW5kZXIsIGN0eC5nZXRTdHJpbmcoUi5zdHJpbmcuZ2VuZGVyX21hbGUpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdHguZ2V0U3RyaW5nKFIuc3RyaW5nLmNvbHVtbl9nZW5kZXIsIGN0eC5nZXRTdHJpbmcoUi5zdHJpbmcuZ2VuZGVyX2ZlbWFsZSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpdG1hcC5jb21wcmVzcyhCaXRtYXAuQ29tcHJlc3NGb3JtYXQuSlBFRywgNzAsIGZvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1PdmVybGF5Vmlldy5zZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpdG1hcC5yZWN5Y2xlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpdG1hcC5jb21wcmVzcyhCaXRtYXAuQ29tcHJlc3NGb3JtYXQuSlBFRywgNzAsIGZvKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtUGFpbnQuc2V0Q29sb3IoZ2V0UmVzb3VyY2VzKCkuZ2V0Q29sb3IoYW5kcm9pZC5SLmNvbG9yLmhvbG9fcmVkX2xpZ2h0KSk7CiAgICAgICAgbVBhaW50LnNldFN0eWxlKFBhaW50LlN0eWxlLlNUUk9LRSk7CiAgICAgICAgbVBhaW50LnNldFN0cm9rZVdpZHRoKDZmKTsKICAgICAgICBtUGFpbnQuc2V0QWxwaGEoMTAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpdG1hcC5yZWN5Y2xlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mode</last-search>
+      <last-search encoding="base64">XDxpZlw+</last-search>
       <last-offset />
-      <last-pattern>mode</last-pattern>
+      <last-pattern encoding="base64">XDxpZlw+</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prompt</entry>
         <entry>good_mall</entry>
         <entry>friends</entry>
         <entry>rice_roll</entry>
@@ -1232,6 +1233,7 @@
         <entry>smart</entry>
         <entry>loading</entry>
         <entry>mode</entry>
+        <entry encoding="base64">XDxpZlw+</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
