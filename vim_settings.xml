@@ -163,6 +163,11 @@
         <mark key="]" line="1292" column="4" />
         <mark key="." line="1292" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectHelper.java" timestamp="1502271462752">
+        <mark key="[" line="91" column="16" />
+        <mark key="]" line="91" column="16" />
+        <mark key="." line="91" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/chat/adapter/LiveMessageAdapter.java" timestamp="1496660393045">
         <mark key="[" line="472" column="90" />
         <mark key="]" line="465" column="58" />
@@ -555,6 +560,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/fragment/RTCFragment.java" timestamp="1502271431725">
+        <mark key="[" line="158" column="25" />
+        <mark key="]" line="159" column="67" />
+        <mark key="^" line="159" column="67" />
+        <mark key="." line="159" column="67" />
+      </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/swipe/MySwipeMessageAdapter.java" timestamp="1496660359889">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
@@ -631,12 +642,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1502270778280">
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1502271482333">
         <mark key="'" line="82" column="51" />
-        <mark key="[" line="212" column="8" />
-        <mark key="]" line="212" column="9" />
-        <mark key="." line="212" column="9" />
-        <mark key="^" line="212" column="9" />
+        <mark key="[" line="213" column="8" />
+        <mark key="]" line="213" column="8" />
+        <mark key="." line="213" column="8" />
+        <mark key="^" line="211" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/colors.xml" timestamp="1492153144425">
         <mark key="[" line="227" column="26" />
@@ -649,6 +660,7 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="53" column="9" />
       </file>
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/youtu/YoutuHelper.java" timestamp="1502271279085" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/tab_discovery_fragment.xml" timestamp="1492150635386">
         <mark key="[" line="28" column="31" />
         <mark key="]" line="29" column="0" />
