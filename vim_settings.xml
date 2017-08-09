@@ -358,7 +358,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/sdk/android_sdk/EVLiveBase/src/com/easyvaas/sdk/live/base/streamer/BaseStreamer.java" timestamp="1502160483267" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/WatchingUserAdapter.java" timestamp="1492151734215">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -376,11 +375,12 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/fragment/RTCFragment.java" timestamp="1502179722902">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/fragment/RTCFragment.java" timestamp="1502256696843">
         <mark key="'" line="137" column="15" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+        <mark key="[" line="155" column="82" />
+        <mark key="]" line="156" column="68" />
+        <mark key="." line="156" column="68" />
+        <mark key="^" line="156" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/TextActivity.java" timestamp="1493018069195">
         <mark key="[" line="50" column="8" />
@@ -873,7 +873,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/sdk/android_sdk/EVLiveBase/src/com/easyvaas/sdk/live/base/EVStreamer.java" timestamp="1502160366276" />
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/include_user_info_page_two.xml" timestamp="1496653095293">
         <mark key="[" line="27" column="27" />
         <mark key="]" line="27" column="27" />
@@ -909,7 +908,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502247799924">
+      <file name="/Dummy.txt" timestamp="1502248453073">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -953,11 +952,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/CaptureRectView.java" timestamp="1502245601180">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="54" column="52" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/CaptureRectView.java" timestamp="1502256117541">
+        <mark key="[" line="72" column="67" />
+        <mark key="]" line="72" column="67" />
+        <mark key="^" line="72" column="67" />
+        <mark key="." line="72" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/youtu/YTServerAPI.java" timestamp="1502101846127">
         <mark key="'" line="292" column="0" />
@@ -982,12 +981,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/youtu/bean/FaceEntity.java" timestamp="1502248164239">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/youtu/bean/FaceEntity.java" timestamp="1502248195645">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="411" column="37" />
-        <mark key="]" line="411" column="36" />
-        <mark key="." line="411" column="36" />
-        <mark key="^" line="411" column="36" />
+        <mark key="[" line="411" column="12" />
+        <mark key="]" line="411" column="17" />
+        <mark key="." line="411" column="17" />
+        <mark key="^" line="411" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/item_topic_recommend_view.xml" timestamp="1492162651364">
         <mark key="[" line="14" column="47" />
@@ -1042,20 +1041,19 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectHelper.java" timestamp="1502247835115">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectHelper.java" timestamp="1502251475948">
         <mark key="'" line="65" column="12" />
         <mark key="[" line="69" column="33" />
         <mark key="]" line="69" column="100" />
         <mark key="." line="69" column="33" />
         <mark key="^" line="69" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1502247799920">
+      <file name="/fragment.java" timestamp="1502248453076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/android/android-sdk-linux/sources/android-25/android/opengl/GLSurfaceView.java" timestamp="1502161045394" />
     </filemarks>
     <jumps>
       <jump line="343" column="83" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LivePrepareActivity.java" />
@@ -1161,43 +1159,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzTGFzdFVwbG9hZFRpbWUgPiBTQVZFX1VQTE9BRF9JTlRFUlZBTA==</text>
+        <text>rect</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>rect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">U3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzTGFzdFVwbG9hZFRpbWUgPiBTQVZFX1VQTE9BRF9JTlRFUlZBTA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1PdmVybGF5Vmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gT25seSBmYWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1PdmVybGF5Vmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgZm9yIChTdHJpbmdbXSBkZWNzIDogbUZhY2VEZWNzKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlY3QgYm91bmRzID0gbmV3IFJlY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdHguZ2V0U3RyaW5nKFIuc3RyaW5nLmNvbHVtbl9nZW5kZXIsIGN0eC5nZXRTdHJpbmcoUi5zdHJpbmcuZ2VuZGVyX21hbGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICBtT3ZlcmxheVZpZXcuc2V0UmVjdChuZXcgUmVjdCgxMDAsIDEwMCwgNDAwLCA1MDApKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdHguZ2V0U3RyaW5nKFIuc3RyaW5nLmNvbHVtbl9nZW5kZXIsIGN0eC5nZXRTdHJpbmcoUi5zdHJpbmcuZ2VuZGVyX2ZlbWFsZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUZhY2VEZWNzICE9IG51bGwgJiYgbUZhY2VEZWNzLmxlbmd0aCA+IDApIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1PdmVybGF5Vmlldy5zZXQK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBtRmFjZURlY3MubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgIFN0cmluZyBkZXNjID0gbUZhY2VEZWNzW2ldOwogICAgICAgICAgICAgICAgbVJlY3RUZXh0LnNldEVtcHR5KCk7CiAgICAgICAgICAgICAgICBtUGFpbnQuZ2V0VGV4dEJvdW5kcyhkZXNjLCAwLCBkZXNjLmxlbmd0aCgpLCBtUmVjdFRleHQpOwogICAgICAgICAgICAgICAgZmxvYXQgeSA9IG1GYWNlUmVjdHMudG9wICsgbVJlY3RUZXh0LmhlaWdodCgpICsgaSAqIChtUmVjdFRleHQuaGVpZ2h0KCkgKyAyMCk7CiAgICAgICAgICAgICAgICBjYW52YXMuZHJhd1RleHQoZGVzYywgbUZhY2VSZWN0cy5yaWdodCArIDEwLCB5LCBtUGFpbnQpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpdG1hcC5jb21wcmVzcyhCaXRtYXAuQ29tcHJlc3NGb3JtYXQuSlBFRywgNzAsIGZvKTsK</text>
+        <text encoding="base64">ICAgICAgICBmYWNlRGVjc1swXSA9IGZhY2VCZWFuLmdldEdlbmRlcihnZXRDb250ZXh0KCkpOwogICAgICAgIGZhY2VEZWNzWzFdID0gZmFjZUJlYW4uZ2V0QWdlKGdldENvbnRleHQoKSk7CiAgICAgICAgZmFjZURlY3NbMl0gPSBmYWNlQmVhbi5nZXRFeHByZXNzaW9uKGdldENvbnRleHQoKSk7CiAgICAgICAgZmFjZURlY3NbM10gPSBmYWNlQmVhbi5nZXRCZWF1dHkoZ2V0Q29udGV4dCgpKTsKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpdG1hcC5yZWN5Y2xlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXVtdIGZhY2VEZWNzID0gbmV3IFN0cmluZ1tmYWNlcy5zaXplKCldWzRdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
