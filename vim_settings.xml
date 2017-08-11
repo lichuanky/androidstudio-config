@@ -141,6 +141,7 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/.android/build-cache/f383f1c92de326717e06a90bfa6535999768bddb/output/jars/classes.jar!/com/easyvaas/sdk/live/base/EVStreamerParameter.class" timestamp="1502443836754" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Logger.java" timestamp="1493290379502">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="4" column="41" />
@@ -162,6 +163,12 @@
         <mark key="[" line="1292" column="4" />
         <mark key="]" line="1292" column="4" />
         <mark key="." line="1292" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectHelper.java" timestamp="1502443546298">
+        <mark key="[" line="111" column="52" />
+        <mark key="]" line="111" column="50" />
+        <mark key="^" line="111" column="50" />
+        <mark key="." line="111" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/chat/adapter/LiveMessageAdapter.java" timestamp="1496660393045">
         <mark key="[" line="472" column="90" />
@@ -362,6 +369,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/RTCActivity.java" timestamp="1502444094676">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/menu/menu_message.xml" timestamp="1500459067520">
         <mark key="[" line="3" column="21" />
@@ -1008,7 +1020,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtRVZMaXZlLnNldERpc3BsYXlPcmllbnRhdGlvbigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -1020,31 +1032,31 @@
         <text encoding="base64">ICAgICAgICAgICAgRmlsZSBkaXIgPSBFVkFwcGxpY2F0aW9uLmdldEFwcCgpLmdldEV4dGVybmFsRmlsZXNEaXIoRW52aXJvbm1lbnQuRElSRUNUT1JZX1BJQ1RVUkVTKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtRVZMaXZlLnNldERpc3BsYXlPcmllbnRhdGlvbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIudyhUQUcsICJJdCBpcyBtb2JpbGUgZGV2aWNlOiAiICsgIXJldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXREaXNwbGF5Um90YXRpb24oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIudyhUQUcsICJJdCBpcyBtb2JpbGUgZGV2aWNlOiAiICsgIXJldCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6aW1hZ2Vfc2NhbGVfdHlwZT0vPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0RXh0ZXJuYWxGaWxlc0RpcihFbnZpcm9ubWVudC5ESVJFQ1RPUllfUElDVFVSRVMpLmdldEFic29sdXRlUGF0aCgpICsgRmlsZS5zZXBhcmF0b3IgKyBVdGlscy5mb3JtYXRUb0RhdGUobmV3IERhdGUoKS5nZXRUaW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZpbGUgZGlyID0gRVZBcHBsaWNhdGlvbi5nZXRBcHAoKS4K</text>
+        <text encoding="base64">ICAgICAgICBhcHA6aW1hZ2Vfc2NhbGVfdHlwZT0vPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChUQUcsICJTYXZlIHNuYXBzaG90OiAiICsgc2F2ZUZpbGUuZ2V0QWJzb2x1dGVQYXRoKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0RXh0ZXJuYWxGaWxlc0RpcihFbnZpcm9ubWVudC5ESVJFQ1RPUllfUElDVFVSRVMpLmdldEFic29sdXRlUGF0aCgpICsgRmlsZS5zZXBhcmF0b3IgKyBVdGlscy5mb3JtYXRUb0RhdGUobmV3IERhdGUoKS5nZXRUaW1lKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpCg==</text>
+        <text encoding="base64">ICAgIEZpbGUgZGlyID0gRVZBcHBsaWNhdGlvbi5nZXRBcHAoKS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
