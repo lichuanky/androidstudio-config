@@ -941,6 +941,12 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FUDualInputToTextureExampleActivity.java" timestamp="1502707478232">
         <mark key="[" line="466" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectHelper.java" timestamp="1502778034344">
+        <mark key="[" line="111" column="33" />
+        <mark key="]" line="111" column="36" />
+        <mark key="." line="111" column="36" />
+        <mark key="^" line="111" column="36" />
+      </file>
       <file name="/fragment.java" timestamp="1502272884796">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1059,16 +1065,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>Utils.isMobileDevice(EVApplication.getApp()) ? -90 : 0;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Utils.isMobileDevice(EVApplication.getApp()) ? -90 : 0;</text>
       </register>
       <register name="/" type="4">
         <text>loading</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TG9nLmQoVEFHLCA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCByb3RlRGVncmVlID0gVXRpbHMuaXNNb2JpbGVEZXZpY2UoRVZBcHBsaWNhdGlvbi5nZXRBcHAoKSkgPyAtOTAgOiAwOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJiaXRtYXAgZ290ISIpOwo=</text>
