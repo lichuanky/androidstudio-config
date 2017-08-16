@@ -129,11 +129,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" timestamp="1502861855833">
-        <mark key="[" line="179" column="55" />
-        <mark key="]" line="179" column="57" />
-        <mark key="." line="179" column="57" />
-        <mark key="^" line="179" column="57" />
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" timestamp="1502862882727">
+        <mark key="[" line="148" column="12" />
+        <mark key="]" line="148" column="28" />
+        <mark key="." line="148" column="28" />
+        <mark key="^" line="148" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/media_controller.xml" timestamp="1500359124621">
         <mark key="[" line="74" column="20" />
@@ -313,6 +313,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/source/CameraSource.java" timestamp="1502863463268">
+        <mark key="[" line="116" column="50" />
+        <mark key="]" line="116" column="73" />
+        <mark key="." line="116" column="73" />
+        <mark key="^" line="116" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/live_top_area_info.xml" timestamp="1492151282250">
         <mark key="[" line="34" column="34" />
         <mark key="]" line="35" column="0" />
@@ -442,6 +448,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/TuSDKCameraCallback.java" timestamp="1502862985762" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/ui/news/MyStockNewsListFragment.java" timestamp="1484765793295">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1089,17 +1096,17 @@
       <jump line="1161" column="35" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>atapacket</text>
       </register>
       <register name="-" type="4">
-        <text>png</text>
+        <text>atapacket</text>
       </register>
       <register name="/" type="4">
         <text>takepicture</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gb3MgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZChUQUcsICJBbGxvY2F0aW5nIG5ldyBkYXRhcGFja2V0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
