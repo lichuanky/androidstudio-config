@@ -900,7 +900,12 @@
         <mark key="." line="130" column="96" />
         <mark key="^" line="130" column="96" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/utils/Logger.java" timestamp="1502854228080" />
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/utils/Logger.java" timestamp="1502860421289">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+        <mark key="^" line="6" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/net/JsonParserUtil.java" timestamp="1500449128334">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -1085,10 +1090,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>savePath</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>savePath</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>takepicture</text>
