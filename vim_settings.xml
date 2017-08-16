@@ -129,11 +129,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" timestamp="1495881372425">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" timestamp="1502853715504">
+        <mark key="[" line="175" column="47" />
+        <mark key="]" line="178" column="19" />
+        <mark key="." line="178" column="19" />
+        <mark key="^" line="178" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/media_controller.xml" timestamp="1500359124621">
         <mark key="[" line="74" column="20" />
@@ -625,6 +625,9 @@
         <mark key="." line="146" column="46" />
         <mark key="^" line="146" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" timestamp="1502852712243">
+        <mark key="'" line="1161" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/SingleToast.java" timestamp="1500449197980">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -897,6 +900,7 @@
         <mark key="." line="130" column="96" />
         <mark key="^" line="130" column="96" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/utils/Logger.java" timestamp="1502854228080" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/net/JsonParserUtil.java" timestamp="1500449128334">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -957,9 +961,9 @@
         <mark key="." line="74" column="83" />
         <mark key="^" line="74" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectHelper.java" timestamp="1502778034344">
-        <mark key="[" line="110" column="33" />
-        <mark key="]" line="110" column="36" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/FaceDetectHelper.java" timestamp="1502853546736">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="63" />
         <mark key="." line="110" column="36" />
         <mark key="^" line="110" column="36" />
       </file>
@@ -978,7 +982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="28" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
       <jump line="118" column="25" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
       <jump line="726" column="45" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
       <jump line="138" column="47" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
@@ -1078,43 +1081,44 @@
       <jump line="756" column="45" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FURenderToNV21ImageExampleActivity.java" />
       <jump line="484" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/layout/activity_base.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/layout/activity_base.xml" />
+      <jump line="1161" column="35" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>savePath</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>savePath</text>
       </register>
       <register name="/" type="4">
-        <text>loading</text>
+        <text>takepicture</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOkZlZWRiYWNrJwo=</text>
+        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gb3MgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCaXRtYXAgYml0bWFwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYmxhY2s1MFBlcmNlbnRDb2xvciIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">PExpbmVhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NjcmVlbnNob3RfcHJldmlld19sbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYmxhY2s1MFBlcmNlbnRDb2xvciI+</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIi8+Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBtaXBtYXAvbW9vZCIK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYmxhY2s1MFBlcmNlbnRDb2xvciIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">PExpbmVhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NjcmVlbnNob3RfcHJldmlld19sbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYmxhY2s1MFBlcmNlbnRDb2xvciI+</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1124,9 +1128,9 @@
       </register>
     </registers>
     <search>
-      <last-search>loading</last-search>
+      <last-search>takepicture</last-search>
       <last-offset />
-      <last-pattern>loading</last-pattern>
+      <last-pattern>takepicture</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
       <last-dir>1</last-dir>
@@ -1134,7 +1138,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prompty</entry>
         <entry>prompt</entry>
         <entry>good_mall</entry>
         <entry>friends</entry>
@@ -1154,6 +1157,7 @@
         <entry>smartscree</entry>
         <entry>smart</entry>
         <entry>loading</entry>
+        <entry>takepicture</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
