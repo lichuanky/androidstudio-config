@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/encoder/TextureMovieEncoder.java" timestamp="1502767472910">
         <mark key="'" line="156" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1502767931433">
+      <file name="/a.dummy" timestamp="1502878369924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -129,12 +129,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" timestamp="1502877569681">
-        <mark key="'" line="134" column="44" />
-        <mark key="[" line="178" column="53" />
-        <mark key="]" line="178" column="54" />
-        <mark key="." line="178" column="54" />
-        <mark key="^" line="178" column="54" />
+      <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" timestamp="1502878343925">
+        <mark key="'" line="182" column="38" />
+        <mark key="[" line="174" column="53" />
+        <mark key="]" line="174" column="54" />
+        <mark key="." line="174" column="54" />
+        <mark key="^" line="174" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/media_controller.xml" timestamp="1500359124621">
         <mark key="[" line="74" column="20" />
@@ -331,11 +331,11 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" timestamp="1502876448937">
-        <mark key="[" line="179" column="30" />
-        <mark key="]" line="179" column="30" />
-        <mark key="." line="179" column="30" />
-        <mark key="^" line="179" column="30" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/build.gradle" timestamp="1502878962431">
+        <mark key="[" line="180" column="30" />
+        <mark key="]" line="180" column="30" />
+        <mark key="." line="180" column="30" />
+        <mark key="^" line="180" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/proguard-rules.txt" timestamp="1500455865577">
         <mark key="[" line="16" column="2" />
@@ -996,7 +996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="726" column="45" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
       <jump line="138" column="47" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/RecorderActivity.java" />
       <jump line="39" column="51" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/Constants.java" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/Constants.java" />
@@ -1096,6 +1095,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/layout/activity_base.xml" />
       <jump line="1161" column="35" filename="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/RecorderActivity.java" />
       <jump line="134" column="44" filename="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" />
+      <jump line="186" column="38" filename="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/manager/CameraManagerTuSDK.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
