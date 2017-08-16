@@ -71,7 +71,6 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/DialogUtil.java" timestamp="1502784460205" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FURenderToNV21ImageExampleActivity.java" timestamp="1502787924191">
         <mark key="'" line="757" column="45" />
         <mark key="[" line="837" column="29" />
@@ -175,7 +174,6 @@
         <mark key="." line="189" column="48" />
         <mark key="^" line="187" column="47" />
       </file>
-      <file name="$USER_HOME$/android/android-sdk-linux/sources/android-25/android/opengl/GLES20.java" timestamp="1502783249767" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/drawable/common_bg.xml" timestamp="1501145577659">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="32" />
@@ -232,7 +230,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/android/android-sdk-linux/sources/android-25/android/app/ListActivity.java" timestamp="1502705452179" />
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/app/src/main/java/com/easyvass/sdk/vrdemo/PlayerActivity.java" timestamp="1481618488096">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -326,7 +323,6 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/values/colors.xml" timestamp="1502788383047" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/proguard-rules.txt" timestamp="1500455865577">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="18" column="31" />
@@ -445,10 +441,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/settings.gradle" timestamp="1491363242772">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/oversea/front/android/settings.gradle" timestamp="1502851021660">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/fragment_service_end.xml" timestamp="1501213294643">
         <mark key="[" line="7" column="25" />
@@ -1084,16 +1081,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>drawable</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>drawable</text>
       </register>
       <register name="/" type="4">
         <text>loading</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2NyZWVuc2hvdF9wcmV2aWV3X2l2Igo=</text>
+        <text encoding="base64">cHJvamVjdCgnOmFuZHJvaWQtZ2lmLWRyYXdhYmxlJykucHJvamVjdERpciA9IG5ldyBGaWxlKCdleHRyYXMvYW5kcm9pZC1naWYtZHJhd2FibGUnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYmxhY2s1MFBlcmNlbnRDb2xvciIK</text>
