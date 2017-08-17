@@ -931,7 +931,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/ChangeLog.md" timestamp="1502954704499" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/ChangeLog.md" timestamp="1502959306996">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/view/flowlayout/FlowLayout.java" timestamp="1494573361214">
         <mark key="[" line="206" column="65" />
         <mark key="]" line="206" column="65" />
@@ -1117,7 +1122,7 @@
         <text encoding="base64">PExpbmVhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NjcmVlbnNob3RfcHJldmlld19sbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYmxhY2s1MFBlcmNlbnRDb2xvciI+</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1162,8 +1167,8 @@
         <entry>%s/*com.lecloud.sdk*/d</entry>
         <entry>%g/.*com.lecloud.sdk.*/d</entry>
         <entry>set hls</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
