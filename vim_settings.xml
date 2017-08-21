@@ -14,7 +14,7 @@
         <mark key="^" line="177" column="22" />
         <mark key="." line="177" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1503040034349">
+      <file name="/a.dummy" timestamp="1503283568199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -34,6 +34,12 @@
         <mark key="[" line="227" column="26" />
         <mark key="]" line="227" column="45" />
         <mark key="." line="227" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/layout/view_share_screen_shot.xml" timestamp="1503286381554">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/drawable/live_anim.xml" timestamp="1494573993083">
         <mark key="[" line="63" column="0" />
@@ -171,6 +177,13 @@
         <mark key="]" line="389" column="0" />
         <mark key="." line="389" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/drawable/effect_item_circle_unselected.xml" timestamp="1503284762768">
+        <mark key="'" line="0" column="70" />
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+        <mark key="^" line="5" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/AndroidManifest.xml" timestamp="1503043043643">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="43" column="11" />
@@ -245,15 +258,22 @@
         <mark key="." line="51" column="41" />
         <mark key="^" line="51" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/values-w1080dp/dimens.xml" timestamp="1503039632944">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/values-w1080dp/dimens.xml" timestamp="1503284489372">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/layout/activity_news_detail.xml" timestamp="1483784608133">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FUBaseUIActivity.java" timestamp="1503286611986">
+        <mark key="'" line="371" column="6" />
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="0" />
+        <mark key="." line="290" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/adapter/item/LivingFriendsInfoAdapterItem.java" timestamp="1494573942125">
         <mark key="[" line="120" column="37" />
@@ -296,10 +316,6 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainFragmentActivity.java" timestamp="1503046970950">
-        <mark key="[" line="307" column="4" />
-        <mark key="]" line="316" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/de_panoplay/.project" timestamp="1481617759682">
         <mark key="[" line="0" column="0" />
@@ -413,10 +429,16 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503050431229">
+      <file name="/Dummy.txt" timestamp="1503285750511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/values/dimens.xml" timestamp="1503286109059">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1503053288586">
         <mark key="[" line="105" column="71" />
@@ -435,11 +457,6 @@
         <mark key="]" line="84" column="27" />
         <mark key="." line="84" column="27" />
         <mark key="^" line="84" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/ImageUtil.java" timestamp="1503051107517">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/db/Preferences.java" timestamp="1493092628592">
         <mark key="[" line="26" column="0" />
@@ -473,6 +490,18 @@
         <mark key="]" line="465" column="58" />
         <mark key="." line="465" column="58" />
         <mark key="^" line="465" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FUDualInputToTextureExampleActivity.java" timestamp="1503284970829">
+        <mark key="'" line="741" column="19" />
+        <mark key="[" line="745" column="45" />
+        <mark key="]" line="747" column="0" />
+        <mark key="." line="747" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/layout/effect_and_filter_item_view.xml" timestamp="1503284603133">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+        <mark key="^" line="8" column="57" />
       </file>
       <file name="/fragment.java" timestamp="1503050431224">
         <mark key="[" line="0" column="0" />
@@ -513,11 +542,18 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FURenderToNV21ImageExampleActivity.java" timestamp="1503026680135">
-        <mark key="[" line="927" column="29" />
-        <mark key="]" line="927" column="29" />
-        <mark key="." line="927" column="29" />
-        <mark key="^" line="927" column="16" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FURenderToNV21ImageExampleActivity.java" timestamp="1503286480773">
+        <mark key="'" line="785" column="19" />
+        <mark key="[" line="837" column="91" />
+        <mark key="]" line="838" column="23" />
+        <mark key="." line="838" column="23" />
+        <mark key="^" line="838" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/layout/activity_base.xml" timestamp="1503286214881">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="501" column="0" />
+        <mark key="]" line="501" column="0" />
+        <mark key="." line="501" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatVideoCallState.java" timestamp="1479459959836">
         <mark key="[" line="44" column="0" />
@@ -1066,10 +1102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/db/Preferences.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/bean/user/BaseUser.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/bean/user/BaseUser.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/bean/user/BaseUser.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/bean/user/BaseUser.java" />
       <jump line="127" column="1" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/bean/User.java" />
       <jump line="101" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/bean/BaseUserEntity.java" />
@@ -1166,55 +1198,63 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/layout/activity_base.xml" />
       <jump line="14" column="42" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_main.xml" />
       <jump line="84" column="27" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/face/youtu/bean/FaceEntity.java" />
+      <jump line="1" column="70" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/drawable/effect_item_circle_unselected.xml" />
+      <jump line="741" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FUDualInputToTextureExampleActivity.java" />
+      <jump line="785" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FURenderToNV21ImageExampleActivity.java" />
+      <jump line="360" column="6" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FUBaseUIActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSJAZGltZW4vdG9wX2Jhbm5lcl9hdmF0YXJfcGFkZGluZyIK</text>
-      </register>
-      <register name="-" type="4">
-        <text>wrap_content</text>
-      </register>
-      <register name="/" type="4">
-        <text>takepicture</text>
-      </register>
-      <register name="0" type="4">
-        <text>@dimen/top_banner_avatar_bg_size</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSJAZGltZW4vdG9wX2Jhbm5lcl9hdmF0YXJfcGFkZGluZyIK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29tLmVhc3l2YWFzLnNtYXJ0c2NyZWVuLnZpZXcuUm91bmRJbWFnZVZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90b3BfYmFubmVyX2F2YXRhcl9pdiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IkBkaW1lbi90b3BfYmFubmVyX2F2YXRhcl9zaXplIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IkBkaW1lbi90b3BfYmFubmVyX2F2YXRhcl9zaXplIgogICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3NvbWVib2R5Ii8+Cg==</text>
+      <register name="-" type="4">
+        <text>;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29tLmVhc3l2YWFzLnNtYXJ0c2NyZWVuLnZpZXcuUm91bmRJbWFnZVZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90b3BfYmFubmVyX2F2YXRhcl9pdiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IkBkaW1lbi90b3BfYmFubmVyX2F2YXRhcl9zaXplIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IkBkaW1lbi90b3BfYmFubmVyX2F2YXRhcl9zaXplIgogICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3NvbWVib2R5Ii8+Cgo=</text>
+      <register name="/" type="4">
+        <text>setoncli</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>setOnClickListener(new View.OnClickListener() {
+            @Override public void onClick(View v) {
+                v.setVisibility(View.GONE);
+            }
+        });</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29tLmVhc3l2YWFzLnNtYXJ0c2NyZWVuLnZpZXcuUm91bmRJbWFnZVZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90b3BfYmFubmVyX2F2YXRhcl9pdiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IkBkaW1lbi90b3BfYmFubmVyX2F2YXRhcl9zaXplIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IkBkaW1lbi90b3BfYmFubmVyX2F2YXRhcl9zaXplIgogICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3NvbWVib2R5Ii8+CgogICAgICAgIDxJbWFnZVZpZXcK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvdG9wX2Jhbm5lcl9hdmF0YXJfYmciCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PEltYWdlVmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NjcmVlbnNob3RfcHJldmlld19pdiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL3BlcmNlbnQ2MHRyYW5zbHVjZW50QmxhY2siCiAgICAgICAgICAgIGFuZHJvaWQ6Zm9yZWdyb3VuZEdyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgogICAgICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiLz4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSJAZGltZW4vdG9wX2Jhbm5lcl9hdmF0YXJfcGFkZGluZyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSI0OGRwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iQGRpbWVuL3RvcF9iYW5uZXJfYXZhdGFyX21hcmdpbl9sZWZ0Igo=</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBhbmRyb2lkOmxheW91dF93aWR0aD0iIiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJ0b3BfYmFubmVyX3VzZXJfaW5mb19wYWRkaW5nX2xlZnQiPjYwZHA8L2RpbWVuPgogICAgPGRpbWVuIG5hbWU9InRvcF9iYW5uZXJfYXZhdGFyX3NpemUiPjIyMmRwPC9kaW1lbj4K</text>
+        <text encoding="base64">ICAgICAgICBpc1NjcmVlblNob3QgPSB0cnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>takepicture</last-search>
+      <last-search>setoncli</last-search>
       <last-offset />
-      <last-pattern>takepicture</last-pattern>
+      <last-pattern>setoncli</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
       <last-dir>1</last-dir>
@@ -1222,7 +1262,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prompt</entry>
         <entry>good_mall</entry>
         <entry>friends</entry>
         <entry>rice_roll</entry>
@@ -1242,6 +1281,7 @@
         <entry>smart</entry>
         <entry>loading</entry>
         <entry>takepicture</entry>
+        <entry>setoncli</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
