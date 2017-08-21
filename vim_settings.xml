@@ -252,12 +252,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_rtc.xml" timestamp="1503310095001">
-        <mark key="'" line="39" column="14" />
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="30" />
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_rtc.xml" timestamp="1503312001439">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
         <mark key="^" line="31" column="30" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/fragment_idle.xml" timestamp="1501213731146">
         <mark key="[" line="23" column="20" />
@@ -666,11 +665,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1503311170264">
-        <mark key="[" line="80" column="8" />
-        <mark key="]" line="80" column="9" />
-        <mark key="." line="80" column="9" />
-        <mark key="^" line="80" column="9" />
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1503311956385">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/colors.xml" timestamp="1492153144425">
         <mark key="[" line="227" column="26" />
@@ -929,9 +928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="8" filename="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/build.gradle" />
-      <jump line="79" column="52" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/extras/CustomView/src/main/java/com/easyvaas/common/widget/verticalseekbar/VerticalSeekBar.java" />
-      <jump line="156" column="40" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/MediaController.java" />
       <jump line="186" column="4" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/MediaController.java" />
       <jump line="272" column="79" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/MediaController.java" />
       <jump line="72" column="5" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/view/MediaController.java" />
@@ -1029,55 +1025,58 @@
       <jump line="82" column="22" filename="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/Utils.java" />
       <jump line="4" column="34" filename="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_rtc.xml" />
       <jump line="38" column="14" filename="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_rtc.xml" />
+      <jump line="48" column="0" filename="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
+      <jump line="18" column="27" filename="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_rtc.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>9.0f/16</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBJbXBsZW1lbnQgbmV3IFJUQyBmZWF0dXJlIGFib3V0IGFkYXB0ZXIgbmV3IFVJCg==</text>
       </register>
       <register name="-" type="4">
         <text>9.0f/16</text>
       </register>
       <register name="/" type="4">
-        <text>loading</text>
+        <text encoding="base64">PDw=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIK</text>
+        <text encoding="base64">Pj4+Pj4+PiBJbXBsZW1lbnQgbmV3IFJUQyBmZWF0dXJlIGFib3V0IGFkYXB0ZXIgbmV3IFVJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBiNDc5OTQzYjExMTVkNTE4MjUyZTg5YzY0OAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIK</text>
+      <register name="3" type="4">
+        <text encoding="base64">MzgxM2ExMWQ3NTNjOWEKICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3J0Y19jbG9zZV9pdiIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50UmlnaHQ9InRydWUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI3ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iOWRwIgogICAgICAgIGFuZHJvaWQ6b25DbGljaz0ib25DbGljayIKICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjlkcCIKICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljb25fY2xvc2VfbGl2ZSIvPgo9PT09PT09</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBJbXBsZW1lbnQgbmV3IFJUQyBmZWF0dXJlIGFib3V0IGFkYXB0ZXIgbmV3IFVJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQXNwZWN0RnJhbWVMYXlvdXQuc2V0QXNwZWN0UmF0aW8obUFzcGVjdFJhZGlvKTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBwcm90ZWN0ZWQgdm9pZCBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpOwogICAgfQoK</text>
+        <text encoding="base64">PDw8PDw8PCBiNDc5OTQzYjExMTVkNTE4MjUyZTg5YzY0ODM4MTNhMTFkNzUzYzlhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtQXNwZWN0RnJhbWVMYXlvdXQuc2V0QXNwZWN0UmF0aW8obUFzcGVjdFJhZGlvKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBJbXBsZW1lbnQgbmV3IFJUQyBmZWF0dXJlIGFib3V0IGFkYXB0ZXIgbmV3IFVJCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLmFmbCkgQXNwZWN0RnJhbWVMYXlvdXQgbUFzcGVjdEZyYW1lTGF5b3V0Owo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">PDw8PDw8PCBiNDc5OTQzYjExMTVkNTE4MjUyZTg5YzY0ODM4MTNhMTFkNzUzYzlhCgogICAgICAgIG1FVkxpdmUuc2V0T25QcmV2aWV3RnJhbWVMaXN0ZW5lcihuZXcgT25ZdXZGcmFtZUxpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgb25ZdXZGcmFtZShieXRlW10gYnl0ZXMsIGludCBpLCBpbnQgaTEsIGJvb2xlYW4gYikgewo9PT09PT09</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBJbXBsZW1lbnQgbmV3IFJUQyBmZWF0dXJlIGFib3V0IGFkYXB0ZXIgbmV3IFVJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loading</last-search>
+      <last-search encoding="base64">PDw=</last-search>
       <last-offset />
-      <last-pattern>loading</last-pattern>
+      <last-pattern encoding="base64">PDw=</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
       <last-dir>1</last-dir>
@@ -1085,7 +1084,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prompty</entry>
         <entry>prompt</entry>
         <entry>good_mall</entry>
         <entry>friends</entry>
@@ -1105,6 +1103,7 @@
         <entry>smartscree</entry>
         <entry>smart</entry>
         <entry>loading</entry>
+        <entry encoding="base64">PDw=</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
