@@ -70,7 +70,7 @@
         <mark key="^" line="56" column="78" />
         <mark key="." line="56" column="78" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/BaseLiveActivity.java" timestamp="1503308192078">
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/BaseLiveActivity.java" timestamp="1503308652788">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
         <mark key="." line="34" column="0" />
@@ -329,7 +329,10 @@
         <mark key="]" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FURenderToNV21ImageExampleActivity.java" timestamp="1503308268468" />
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FURenderToNV21ImageExampleActivity.java" timestamp="1503308514166">
+        <mark key="[" line="438" column="41" />
+        <mark key="]" line="438" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_rtc.xml" timestamp="1501061830404">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -482,7 +485,12 @@
         <mark key="." line="92" column="41" />
         <mark key="^" line="92" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/face/FaceHelper.java" timestamp="1503307034182" />
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/face/FaceHelper.java" timestamp="1503308882150">
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="56" />
+        <mark key="." line="37" column="56" />
+        <mark key="^" line="37" column="56" />
+      </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/permission_friend_search_view.xml" timestamp="1496653066042">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="22" column="31" />
@@ -656,11 +664,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1503308286024">
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" timestamp="1503309077855">
+        <mark key="[" line="105" column="22" />
+        <mark key="]" line="105" column="22" />
+        <mark key="." line="105" column="22" />
+        <mark key="^" line="105" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/res/values/colors.xml" timestamp="1492153144425">
         <mark key="[" line="227" column="26" />
@@ -1022,43 +1030,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLmFmbCkgQXNwZWN0RnJhbWVMYXlvdXQgbUFzcGVjdEZyYW1lTGF5b3V0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>loading</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBkaXIgPSBFVkFwcGxpY2F0aW9uLmdldEFwcCgpLmdldEV4dGVybmFsRmlsZXNEaXIoRW52aXJvbm1lbnQuRElSRUNUT1JZX1BJQ1RVUkVTKTsK</text>
+      <register name="0" type="4">
+        <text>1.0f * cameraHeight / cameraWidth</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLmFmbCkgQXNwZWN0RnJhbWVMYXlvdXQgbUFzcGVjdEZyYW1lTGF5b3V0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQXNwZWN0RnJhbWVMYXlvdXQuc2V0QXNwZWN0UmF0aW8obUFzcGVjdFJhZGlvKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtRVZMaXZlLnNldERpc3BsYXlPcmllbnRhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwcm90ZWN0ZWQgdm9pZCBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpOwogICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXREaXNwbGF5Um90YXRpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBtQXNwZWN0RnJhbWVMYXlvdXQuc2V0QXNwZWN0UmF0aW8obUFzcGVjdFJhZGlvKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLmFmbCkgQXNwZWN0RnJhbWVMYXlvdXQgbUFzcGVjdEZyYW1lTGF5b3V0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIudyhUQUcsICJJdCBpcyBtb2JpbGUgZGV2aWNlOiAiICsgIXJldCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtRVZMaXZlLnNldERpc3BsYXlPcmllbnRhdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXREaXNwbGF5Um90YXRpb24oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6aW1hZ2Vfc2NhbGVfdHlwZT0vPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
