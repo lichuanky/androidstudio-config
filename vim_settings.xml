@@ -14,9 +14,6 @@
         <mark key="^" line="177" column="22" />
         <mark key="." line="177" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/encoder/TextureMovieEncoder.java" timestamp="1502767472910">
-        <mark key="'" line="156" column="16" />
-      </file>
       <file name="/a.dummy" timestamp="1503371495652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
@@ -57,6 +54,11 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/RotatingButton.java" timestamp="1503395293352">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/sdk/demo/PlayOptionsActivity.java" timestamp="1500459158711">
         <mark key="[" line="23" column="38" />
@@ -135,17 +137,6 @@
         <mark key="]" line="1224" column="100" />
         <mark key="." line="1224" column="100" />
         <mark key="^" line="1224" column="100" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_main.xml" timestamp="1503293283668">
-        <mark key="d" line="54" column="30" />
-        <mark key="'" line="14" column="42" />
-        <mark key="[" line="101" column="71" />
-        <mark key="]" line="102" column="35" />
-        <mark key="^" line="102" column="35" />
-        <mark key="." line="102" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/net/ApiHelper.java" timestamp="1503298903293">
-        <mark key="'" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/source/MuxerSource.java" timestamp="1502877169191">
         <mark key="[" line="185" column="31" />
@@ -242,6 +233,12 @@
         <mark key="]" line="15" column="57" />
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/RotatingDrawable.java" timestamp="1503395414845">
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="37" />
+        <mark key="^" line="42" column="37" />
+        <mark key="." line="42" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/net/UploadThumbAsyncTask.java" timestamp="1500449228015">
         <mark key="[" line="15" column="0" />
@@ -381,9 +378,6 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/android/android-sdk-linux/extras/android/m2repository/com/android/support/appcompat-v7/25.3.1/appcompat-v7-25.3.1-sources.jar!/android/support/v7/app/AlertDialog.java" timestamp="1502784658118">
-        <mark key="'" line="195" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/chat/adapter/MessageAdapter.java" timestamp="1496660314732">
         <mark key="[" line="418" column="86" />
@@ -541,7 +535,7 @@
         <mark key="." line="8" column="57" />
         <mark key="^" line="8" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1503371116710">
+      <file name="/fragment.java" timestamp="1503395214517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -791,6 +785,7 @@
         <mark key="]" line="86" column="8" />
         <mark key="." line="86" column="8" />
       </file>
+      <file name="$USER_HOME$/android/android-sdk-linux/sources/android-25/android/graphics/drawable/Drawable.java" timestamp="1503395340674" />
       <file name="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/build/intermediates/res/merged/debug/values/values.xml" timestamp="1501235294086">
         <mark key="[" line="986" column="20" />
         <mark key="]" line="2626" column="22" />
@@ -1031,9 +1026,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/MiscUtil.java" timestamp="1502784540836">
-        <mark key="'" line="140" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/bean/serverparam/ServerParam.java" timestamp="1492680704235">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -1272,11 +1264,11 @@
       <jump line="300" column="50" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/java/com/faceunity/fulivedemo/FUBaseUIActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtTGFzdEFzcmF0aW8gPSBtTGFzdEFzcmF0aW8gIT0gMCA/ICByYXRpbyA6IDA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>as</text>
