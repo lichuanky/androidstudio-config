@@ -30,11 +30,11 @@
         <mark key="]" line="227" column="45" />
         <mark key="." line="227" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/values/attrs.xml" timestamp="1503400605218">
-        <mark key="[" line="30" column="52" />
-        <mark key="]" line="30" column="52" />
-        <mark key="^" line="30" column="52" />
-        <mark key="." line="30" column="52" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/values/attrs.xml" timestamp="1503548291582">
+        <mark key="[" line="33" column="47" />
+        <mark key="]" line="33" column="47" />
+        <mark key="^" line="33" column="47" />
+        <mark key="." line="33" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/layout/view_share_screen_shot.xml" timestamp="1503288157175">
         <mark key="[" line="9" column="0" />
@@ -897,11 +897,11 @@
         <mark key="]" line="196" column="39" />
         <mark key="." line="196" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/ZLoadingBuilder.java" timestamp="1503542210651">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="13" />
-        <mark key="." line="26" column="13" />
-        <mark key="^" line="26" column="13" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/ZLoadingBuilder.java" timestamp="1503548214133">
+        <mark key="[" line="16" column="53" />
+        <mark key="]" line="16" column="53" />
+        <mark key="." line="16" column="53" />
+        <mark key="^" line="16" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/utils/Logger.java" timestamp="1493290379502">
         <mark key="[" line="4" column="37" />
@@ -1212,11 +1212,11 @@
       <jump line="91" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/TypeTextView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>1333</text>
       </register>
       <register name="-" type="4">
-        <text>startsWith</text>
+        <text>1333</text>
       </register>
       <register name="/" type="4">
         <text>as</text>
