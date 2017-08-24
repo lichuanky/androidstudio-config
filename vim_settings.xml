@@ -504,7 +504,7 @@
         <mark key="." line="8" column="57" />
         <mark key="^" line="8" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1503546441780">
+      <file name="/fragment.java" timestamp="1503556034003">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -1035,7 +1035,7 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/RoundImageView.java" timestamp="1503542830573" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/RoundImageView.java" timestamp="1503555784501" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/base/EVApplication.java" timestamp="1503301132458">
         <mark key="[" line="56" column="39" />
         <mark key="]" line="57" column="30" />
@@ -1105,11 +1105,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/DoubleCircleBuilder.java" timestamp="1503554892672">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="117" column="25" />
-        <mark key="^" line="117" column="25" />
-        <mark key="." line="117" column="25" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/DoubleCircleBuilder.java" timestamp="1503556359894">
+        <mark key="[" line="140" column="12" />
+        <mark key="]" line="140" column="21" />
+        <mark key="." line="140" column="21" />
+        <mark key="^" line="140" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/settings.gradle" timestamp="1481617965191">
         <mark key="[" line="1" column="10" />
@@ -1232,43 +1232,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text encoding="base64">bUlubmVyV1Ig</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">bUlubmVyV1Ig</text>
       </register>
       <register name="/" type="4">
         <text>as</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aWYgKG1PdXRlckNpcmNsZUJpdG1hcCAhPSBudWxsICYmICFtT3V0ZXJDaXJjbGVCaXRtYXAuaXNSZWN5Y2xlZCgpKSB7CiAgICAgICAgICAgIG1PdXRlckNpcmNsZUJpdG1hcC5yZWN5Y2xlKCk7CiAgICAgICAgfQogICAgICAgIGlmIChtTWlkZGxlQ2lyY2xlQml0bWFwICE9IG51bGwgJiYgIW1NaWRkbGVDaXJjbGVCaXRtYXAuaXNSZWN5Y2xlZCgpKSB7CiAgICAgICAgICAgIG1NaWRkbGVDaXJjbGVCaXRtYXAucmVjeWNsZSgpOwogICAgICAgIH0KICAgICAgICBpZiAobUlubmVyQml0bWFwICE9IG51bGwgJiYgIW1Jbm5lckJpdG1hcC5pc1JlY3ljbGVkKCkpIHsKICAgICAgICAgICAgbUlubmVyQml0bWFwLnJlY3ljbGUoKTsKICAgICAgICB9</text>
+        <text>BitmapFactory.decodeResource(mContext.getResources(), mDrawableIDs[1]);</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKG1Db250ZXh0ID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBpZiAobU91dGVyQ2lyY2xlQml0bWFwICE9IG51bGwgJiYgIW1PdXRlckNpcmNsZUJpdG1hcC5pc1JlY3ljbGVkKCkpIHsKICAgICAgICAgICAgbU91dGVyQ2lyY2xlQml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShtQ29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzBdKTsKICAgICAgICB9CiAgICAgICAgaWYgKG1NaWRkbGVDaXJjbGVCaXRtYXAgIT0gbnVsbCAmJiAhbU1pZGRsZUNpcmNsZUJpdG1hcC5pc1JlY3ljbGVkKCkpIHsKICAgICAgICAgICAgbU1pZGRsZUNpcmNsZUJpdG1hcCA9IEJpdG1hcEZhY3RvcnkuZGVjb2RlUmVzb3VyY2UobUNvbnRleHQuZ2V0UmVzb3VyY2VzKCksIG1EcmF3YWJsZUlEc1sxXSk7CiAgICAgICAgfQogICAgICAgIGlmIChtSW5uZXJCaXRtYXAgIT0gbnVsbCAmJiAhbUlubmVyQml0bWFwLmlzUmVjeWNsZWQoKSkgewogICAgICAgICAgICBtSW5uZXJCaXRtYXAgPSBCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKG1Db250ZXh0LmdldFJlc291cmNlcygpLCBtRHJhd2FibGVJRHNbMl0pOwogICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkY2hlY2tCaXRtYXBzKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlubmVyQml0bWFwLnJlY3ljbGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjaGVja0JpdG1hcHMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtSW5uZXJCaXRtYXAgPSBCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKGNvbnRleHQuZ2V0UmVzb3VyY2VzKCksIG1EcmF3YWJsZUlEc1syXSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU1pZGRsZUNpcmNsZUJpdG1hcC5yZWN5Y2xlKCk7Cg==</text>
+      <register name="4" type="4">
+        <text>private Matrix mMatrix;
+    private Context mContext;
+    private int[] mDrawableIDs;
+
+    DoubleCircleBuilder(int type) {
+        if (type == TYPE_GREEN) {
+            mDrawableIDs = new int[] {
+                    R.drawable.green_outside_circle_ic,
+                    R.drawable.green_middle_circle_ic,
+                    R.drawable.green_internal_ic
+            };
+        } else {
+            mDrawableIDs = new int[] {
+                    R.drawable.blue_outside_circle_ic,
+                    R.drawable.blue_middle_circle_ic,
+                    R.drawable.blue_internal_ic
+            };
+        }
+    }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtTWlkZGxlQ2lyY2xlQml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShjb250ZXh0LmdldFJlc291cmNlcygpLCBtRHJhd2FibGVJRHNbMV0pOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKG1Db250ZXh0ID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBpZiAobU91dGVyQ2lyY2xlQml0bWFwICE9IG51bGwgJiYgIW1PdXRlckNpcmNsZUJpdG1hcC5pc1JlY3ljbGVkKCkpIHsKICAgICAgICAgICAgbU91dGVyQ2lyY2xlQml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShtQ29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzBdKTsKICAgICAgICB9CiAgICAgICAgaWYgKG1NaWRkbGVDaXJjbGVCaXRtYXAgIT0gbnVsbCAmJiAhbU1pZGRsZUNpcmNsZUJpdG1hcC5pc1JlY3ljbGVkKCkpIHsKICAgICAgICAgICAgbU1pZGRsZUNpcmNsZUJpdG1hcCA9IEJpdG1hcEZhY3RvcnkuZGVjb2RlUmVzb3VyY2UobUNvbnRleHQuZ2V0UmVzb3VyY2VzKCksIG1EcmF3YWJsZUlEc1sxXSk7CiAgICAgICAgfQogICAgICAgIGlmIChtSW5uZXJCaXRtYXAgIT0gbnVsbCAmJiAhbUlubmVyQml0bWFwLmlzUmVjeWNsZWQoKSkgewogICAgICAgICAgICBtSW5uZXJCaXRtYXAgPSBCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKG1Db250ZXh0LmdldFJlc291cmNlcygpLCBtRHJhd2FibGVJRHNbMl0pOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU91dGVyQ2lyY2xlQml0bWFwLnJlY3ljbGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUlubmVyQml0bWFwLnJlY3ljbGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtT3V0ZXJDaXJjbGVCaXRtYXAgPSBCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKGNvbnRleHQuZ2V0UmVzb3VyY2VzKCksIG1EcmF3YWJsZUlEc1swXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtSW5uZXJCaXRtYXAgPSBCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKGNvbnRleHQuZ2V0UmVzb3VyY2VzKCksIG1EcmF3YWJsZUlEc1syXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU1pZGRsZUNpcmNsZUJpdG1hcC5yZWN5Y2xlKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKG1PdXRlckNpcmNsZUJpdG1hcCAhPSBudWxsICYmICFtT3V0ZXJDaXJjbGVCaXRtYXAuaXNSZWN5Y2xlZCgpKSB7CiAgICAgICAgICAgIG1PdXRlckNpcmNsZUJpdG1hcC5yZWN5Y2xlKCk7CiAgICAgICAgfQogICAgICAgIGlmIChtTWlkZGxlQ2lyY2xlQml0bWFwICE9IG51bGwgJiYgIW1NaWRkbGVDaXJjbGVCaXRtYXAuaXNSZWN5Y2xlZCgpKSB7CiAgICAgICAgICAgIG1NaWRkbGVDaXJjbGVCaXRtYXAucmVjeWNsZSgpOwogICAgICAgIH0KICAgICAgICBpZiAobUlubmVyQml0bWFwICE9IG51bGwgJiYgIW1Jbm5lckJpdG1hcC5pc1JlY3ljbGVkKCkpIHsKICAgICAgICAgICAgbUlubmVyQml0bWFwLnJlY3ljbGUoKTsKICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtTWlkZGxlQ2lyY2xlQml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShjb250ZXh0LmdldFJlc291cmNlcygpLCBtRHJhd2FibGVJRHNbMV0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
