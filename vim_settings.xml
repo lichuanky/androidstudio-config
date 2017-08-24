@@ -14,7 +14,7 @@
         <mark key="^" line="177" column="22" />
         <mark key="." line="177" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1503397514795">
+      <file name="/a.dummy" timestamp="1503557635334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -549,11 +549,11 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/view_main.xml" timestamp="1503553685379">
-        <mark key="[" line="108" column="14" />
-        <mark key="]" line="109" column="34" />
-        <mark key="." line="109" column="34" />
-        <mark key="^" line="109" column="34" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/view_main.xml" timestamp="1503559034858">
+        <mark key="[" line="128" column="35" />
+        <mark key="]" line="128" column="47" />
+        <mark key="." line="128" column="47" />
+        <mark key="^" line="128" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatVideoCallState.java" timestamp="1479459959836">
         <mark key="[" line="44" column="0" />
@@ -739,11 +739,11 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/values/dimens.xml" timestamp="1503292020929">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="41" />
-        <mark key="^" line="13" column="41" />
-        <mark key="." line="13" column="41" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/values/dimens.xml" timestamp="1503559312313">
+        <mark key="[" line="46" column="41" />
+        <mark key="]" line="46" column="41" />
+        <mark key="^" line="46" column="41" />
+        <mark key="." line="46" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/app/EVApplication.java" timestamp="1484800869873">
         <mark key="[" line="86" column="8" />
@@ -1036,7 +1036,18 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/RoundImageView.java" timestamp="1503555784501" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/RoundImageView.java" timestamp="1503558783752">
+        <mark key="[" line="106" column="44" />
+        <mark key="]" line="106" column="44" />
+        <mark key="." line="106" column="44" />
+        <mark key="^" line="106" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/face/FaceHelper.java" timestamp="1503557670290">
+        <mark key="[" line="111" column="71" />
+        <mark key="]" line="112" column="63" />
+        <mark key="^" line="112" column="63" />
+        <mark key="." line="112" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/base/EVApplication.java" timestamp="1503301132458">
         <mark key="[" line="56" column="39" />
         <mark key="]" line="57" column="30" />
@@ -1106,11 +1117,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/DoubleCircleBuilder.java" timestamp="1503557399685">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="^" line="64" column="38" />
-        <mark key="." line="120" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/DoubleCircleBuilder.java" timestamp="1503559398494">
+        <mark key="[" line="46" column="47" />
+        <mark key="]" line="46" column="47" />
+        <mark key="^" line="46" column="47" />
+        <mark key="." line="46" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/settings.gradle" timestamp="1481617965191">
         <mark key="[" line="1" column="10" />
@@ -1233,16 +1244,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdXaWR0aCA9IGJpdG1hcC5nZXRXaWR0aCgpOwogICAgICAgICAgICBtVmlld0hlaWdodCA9IGJpdG1hcC5nZXRIZWlnaHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSLmRyYXdhYmxlLmJsdWVfaGFuZF9pYwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bU91dGVyQ2lyY2xlQml0bWFwIA==</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>as</text>
       </register>
-      <register name="0" type="4">
-        <text>BitmapFactory.decodeResource(mContext.getResources(), mDrawableIDs[1]);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSLmRyYXdhYmxlLmJsdWVfaGFuZF9pYwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbVZpZXdXaWR0aCA9IGJpdG1hcC5nZXRXaWR0aCgpOwogICAgICAgICAgICBtVmlld0hlaWdodCA9IGJpdG1hcC5nZXRIZWlnaHQoKTsK</text>
