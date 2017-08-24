@@ -328,7 +328,6 @@
         <mark key="^" line="114" column="47" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/android/android-sdk-linux/sources/android-25/android/graphics/BitmapFactory.java" timestamp="1503400871698" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/net/ApiUtil.java" timestamp="1484803733222">
         <mark key="[" line="255" column="0" />
         <mark key="]" line="255" column="62" />
@@ -647,7 +646,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/ZLoadingDrawable.java" timestamp="1503400515320">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/ZLoadingDrawable.java" timestamp="1503541736090">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -1009,7 +1008,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/RoundImageView.java" timestamp="1503400808202" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/base/EVApplication.java" timestamp="1503301132458">
         <mark key="[" line="56" column="39" />
         <mark key="]" line="57" column="30" />
@@ -1032,7 +1030,6 @@
         <mark key="]" line="27" column="27" />
         <mark key="." line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/android/android-sdk-linux/sources/android-25/android/graphics/PorterDuffXfermode.java" timestamp="1503399636839" />
       <file name="$USER_HOME$/Workspace/yzb/oversea/front/android/yzb-app/src/main/res/layout/fragment_left_menu.xml" timestamp="1496653025612">
         <mark key="[" line="160" column="39" />
         <mark key="]" line="160" column="39" />
@@ -1082,10 +1079,6 @@
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/DoubleCircleBuilder.java" timestamp="1503400481348">
         <mark key="'" line="37" column="21" />
-        <mark key="[" line="73" column="8" />
-        <mark key="]" line="73" column="9" />
-        <mark key="." line="73" column="9" />
-        <mark key="^" line="73" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/settings.gradle" timestamp="1481617965191">
         <mark key="[" line="1" column="10" />
