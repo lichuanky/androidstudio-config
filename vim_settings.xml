@@ -549,11 +549,11 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/view_main.xml" timestamp="1503559034858">
-        <mark key="[" line="128" column="35" />
-        <mark key="]" line="128" column="47" />
-        <mark key="." line="128" column="47" />
-        <mark key="^" line="128" column="47" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/view_main.xml" timestamp="1503561553068">
+        <mark key="[" line="147" column="26" />
+        <mark key="]" line="147" column="26" />
+        <mark key="." line="147" column="26" />
+        <mark key="^" line="138" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatVideoCallState.java" timestamp="1479459959836">
         <mark key="[" line="44" column="0" />
@@ -1117,11 +1117,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/DoubleCircleBuilder.java" timestamp="1503559398494">
-        <mark key="[" line="46" column="47" />
-        <mark key="]" line="46" column="47" />
-        <mark key="^" line="46" column="47" />
-        <mark key="." line="46" column="47" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/DoubleCircleBuilder.java" timestamp="1503562169141">
+        <mark key="[" line="141" column="100" />
+        <mark key="]" line="141" column="98" />
+        <mark key="." line="141" column="98" />
+        <mark key="^" line="141" column="98" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/vrdemo/VRDemo/settings.gradle" timestamp="1481617965191">
         <mark key="[" line="1" column="10" />
@@ -1141,7 +1141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="36" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/RTCActivity.java" />
       <jump line="169" column="45" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/RTCActivity.java" />
       <jump line="220" column="33" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/RTCActivity.java" />
       <jump line="251" column="16" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/RTCActivity.java" />
@@ -1241,63 +1240,63 @@
       <jump line="128" column="1" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/TypeTextView.java" />
       <jump line="91" column="19" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/TypeTextView.java" />
       <jump line="60" column="49" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/DoubleCircleBuilder.java" />
+      <jump line="140" column="99" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/DoubleCircleBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSLmRyYXdhYmxlLmJsdWVfaGFuZF9pYwo=</text>
+      <register name="&quot;" type="4">
+        <text>RotateAngle</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>as</text>
+        <text encoding="base64">XDxtRHJhd2FibGVJRHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSLmRyYXdhYmxlLmJsdWVfaGFuZF9pYwo=</text>
+      <register name="0" type="4">
+        <text>RotateAngle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdXaWR0aCA9IGJpdG1hcC5nZXRXaWR0aCgpOwogICAgICAgICAgICBtVmlld0hlaWdodCA9IGJpdG1hcC5nZXRIZWlnaHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUhhbmRXUiAhPSBudWxsICYmICFtSGFuZFdSLmlzUmVjeWNsZWQoKSkgewogICAgICAgICAgICBtSGFuZFdSLnJlY3ljbGUoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtTWlkZGxlQ2lyY2xlQml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShjb250ZXh0LmdldFJlc291cmNlcygpLCBtRHJhd2FibGVJRHNbMV0pOwogICAgICAgIG1Jbm5lckJpdG1hcCA9IEJpdG1hcEZhY3RvcnkuZGVjb2RlUmVzb3VyY2UoY29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzJdKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUhhbmRXUiA9PSBudWxsIHx8ICFtSGFuZFdSLmlzUmVjeWNsZWQoKSkgewogICAgICAgICAgICBtSGFuZFdSID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShtQ29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzNdKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtT3V0ZXJDaXJjbGVCaXRtYXAgPSBCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKGNvbnRleHQuZ2V0UmVzb3VyY2VzKCksIG1EcmF3YWJsZUlEc1swXSk7CiAgICAgICAgbU1pZGRsZUNpcmNsZUJpdG1hcCA9IEJpdG1hcEZhY3RvcnkuZGVjb2RlUmVzb3VyY2UoY29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzFdKTsKICAgICAgICBtSW5uZXJCaXRtYXAgPSBCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKGNvbnRleHQuZ2V0UmVzb3VyY2VzKCksIG1EcmF3YWJsZUlEc1syXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUhhbmRXUiA9PSBudWxsIHx8ICFtSGFuZFdSLmlzUmVjeWNsZWQoKSkgewogICAgICAgICAgICBtSGFuZFdSID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShtQ29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzNdKTsKICAgICAgICB9CiAgICAgICAgaWYgKG1DaXJjbGVXUiA9PSBudWxsIHx8ICFtQ2lyY2xlV1IuaXNSZWN5Y2xlZCgpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSLmRyYXdhYmxlLmJsdWVfaGFuZF9pYwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKG1PdXRlckNpcmNsZUJpdG1hcCAhPSBudWxsICYmICFtT3V0ZXJDaXJjbGVCaXRtYXAuaXNSZWN5Y2xlZCgpKSB7CiAgICAgICAgICAgIG1PdXRlckNpcmNsZUJpdG1hcC5yZWN5Y2xlKCk7CiAgICAgICAgfQogICAgICAgIGlmIChtTWlkZGxlQ2lyY2xlQml0bWFwICE9IG51bGwgJiYgIW1NaWRkbGVDaXJjbGVCaXRtYXAuaXNSZWN5Y2xlZCgpKSB7CiAgICAgICAgICAgIG1NaWRkbGVDaXJjbGVCaXRtYXAucmVjeWNsZSgpOwogICAgICAgIH0KICAgICAgICBpZiAobUlubmVyQml0bWFwICE9IG51bGwgJiYgIW1Jbm5lckJpdG1hcC5pc1JlY3ljbGVkKCkpIHsKICAgICAgICAgICAgbUlubmVyQml0bWFwLnJlY3ljbGUoKTsKICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdXaWR0aCA9IGJpdG1hcC5nZXRXaWR0aCgpOwogICAgICAgICAgICBtVmlld0hlaWdodCA9IGJpdG1hcC5nZXRIZWlnaHQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQml0bWFwIG1PdXRlckNpcmNsZUJpdG1hcDsKICAgIHByaXZhdGUgQml0bWFwIG1NaWRkbGVDaXJjbGVCaXRtYXA7CiAgICBwcml2YXRlIEJpdG1hcCBtSW5uZXJCaXRtYXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtTWlkZGxlQ2lyY2xlQml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShjb250ZXh0LmdldFJlc291cmNlcygpLCBtRHJhd2FibGVJRHNbMV0pOwogICAgICAgIG1Jbm5lckJpdG1hcCA9IEJpdG1hcEZhY3RvcnkuZGVjb2RlUmVzb3VyY2UoY29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzJdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtT3V0ZXJDaXJjbGVCaXRtYXAgPSBCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKGNvbnRleHQuZ2V0UmVzb3VyY2VzKCksIG1EcmF3YWJsZUlEc1swXSk7CiAgICAgICAgbU1pZGRsZUNpcmNsZUJpdG1hcCA9IEJpdG1hcEZhY3RvcnkuZGVjb2RlUmVzb3VyY2UoY29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzFdKTsKICAgICAgICBtSW5uZXJCaXRtYXAgPSBCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKGNvbnRleHQuZ2V0UmVzb3VyY2VzKCksIG1EcmF3YWJsZUlEc1syXSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgY2hlY2tCaXRtYXBzKCkgewogICAgICAgIGlmIChtQ29udGV4dCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgaWYgKG1PdXRlckNpcmNsZUJpdG1hcCA9PSBudWxsIHx8IG1PdXRlckNpcmNsZUJpdG1hcC5pc1JlY3ljbGVkKCkpIHsKICAgICAgICAgICAgbU91dGVyQ2lyY2xlQml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShtQ29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzBdKTsKICAgICAgICB9CiAgICAgICAgaWYgKG1NaWRkbGVDaXJjbGVCaXRtYXAgPT0gbnVsbCB8fCBtTWlkZGxlQ2lyY2xlQml0bWFwLmlzUmVjeWNsZWQoKSkgewogICAgICAgICAgICBtTWlkZGxlQ2lyY2xlQml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShtQ29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzFdKTsKICAgICAgICB9CiAgICAgICAgaWYgKG1Jbm5lckJpdG1hcCA9PSBudWxsIHx8IG1Jbm5lckJpdG1hcC5pc1JlY3ljbGVkKCkpIHsKICAgICAgICAgICAgbUlubmVyQml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVSZXNvdXJjZShtQ29udGV4dC5nZXRSZXNvdXJjZXMoKSwgbURyYXdhYmxlSURzWzJdKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">aWYgKG1PdXRlckNpcmNsZUJpdG1hcCAhPSBudWxsICYmICFtT3V0ZXJDaXJjbGVCaXRtYXAuaXNSZWN5Y2xlZCgpKSB7CiAgICAgICAgICAgIG1PdXRlckNpcmNsZUJpdG1hcC5yZWN5Y2xlKCk7CiAgICAgICAgfQogICAgICAgIGlmIChtTWlkZGxlQ2lyY2xlQml0bWFwICE9IG51bGwgJiYgIW1NaWRkbGVDaXJjbGVCaXRtYXAuaXNSZWN5Y2xlZCgpKSB7CiAgICAgICAgICAgIG1NaWRkbGVDaXJjbGVCaXRtYXAucmVjeWNsZSgpOwogICAgICAgIH0KICAgICAgICBpZiAobUlubmVyQml0bWFwICE9IG51bGwgJiYgIW1Jbm5lckJpdG1hcC5pc1JlY3ljbGVkKCkpIHsKICAgICAgICAgICAgbUlubmVyQml0bWFwLnJlY3ljbGUoKTsKICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>as</last-search>
+      <last-search encoding="base64">XDxtRHJhd2FibGVJRHNcPg==</last-search>
       <last-offset />
-      <last-pattern>as</last-pattern>
+      <last-pattern encoding="base64">XDxtRHJhd2FibGVJRHNcPg==</last-pattern>
       <last-replace>d</last-replace>
       <last-substitute>*com.lecloud.sdk*</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>friends</entry>
         <entry>rice_roll</entry>
         <entry>cash_out_rice</entry>
         <entry>not_enough</entry>
@@ -1317,6 +1316,7 @@
         <entry>setoncli</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>as</entry>
+        <entry encoding="base64">XDxtRHJhd2FibGVJRHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
