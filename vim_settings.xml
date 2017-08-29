@@ -1169,6 +1169,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github/android/GankMM/app/src/main/java/com/maning/gankmm/ui/view/CookRefreshHeaderView.java" timestamp="1503989922413">
+        <mark key="'" line="58" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/view/animator/DoubleCircleBuilder.java" timestamp="1503629171757">
         <mark key="[" line="122" column="47" />
         <mark key="]" line="123" column="0" />
@@ -1192,7 +1195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="21" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
       <jump line="35" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
       <jump line="268" column="72" filename="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/activity/MainActivity.java" />
       <jump line="62" column="44" filename="$USER_HOME$/Workspace/yzb/easyvaas/smart-screen/android/app/src/main/res/layout/activity_main.xml" />
@@ -1292,6 +1294,7 @@
       <jump line="241" column="53" filename="$USER_HOME$/workspace/github/android/GankMM/app/src/main/java/com/maning/gankmm/http/APIService.java" />
       <jump line="121" column="47" filename="$USER_HOME$/workspace/github/android/GankMM/app/src/main/java/com/maning/gankmm/http/APIService.java" />
       <jump line="149" column="17" filename="$USER_HOME$/workspace/github/android/GankMM/app/src/main/java/com/maning/gankmm/ui/activity/mob/CookListActivity.java" />
+      <jump line="58" column="58" filename="$USER_HOME$/workspace/github/android/GankMM/app/src/main/java/com/maning/gankmm/ui/view/CookRefreshHeaderView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
