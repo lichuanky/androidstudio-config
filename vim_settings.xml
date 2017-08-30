@@ -15,7 +15,8 @@
         <mark key="^" line="177" column="22" />
         <mark key="." line="177" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1503991889761">
+      <file name="$USER_HOME$/workspace/github/android/GankMM/app/src/main/res/values/styles.xml" timestamp="1504062874899" />
+      <file name="/a.dummy" timestamp="1504062343354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -144,6 +145,7 @@
         <mark key="." line="1224" column="100" />
         <mark key="^" line="1224" column="100" />
       </file>
+      <file name="$USER_HOME$/workspace/github/android/GankMM/app/src/main/java/com/maning/gankmm/ui/activity/GankActivity.java" timestamp="1504062643700" />
       <file name="$USER_HOME$/workspace/yzb/lib/yilive_lib/AgilioRtmp/src/com/cloudfocus/streamer/source/MuxerSource.java" timestamp="1502877169191">
         <mark key="[" line="185" column="31" />
         <mark key="]" line="185" column="31" />
@@ -336,11 +338,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github/android/GankMM/app/src/main/java/com/maning/gankmm/utils/ColoredSnackbar.java" timestamp="1504062046905" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/src/main/java/com/easyvaas/smartscreen/utils/SingleToast.java" timestamp="1500449197980">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/github/android/GankMM/app/src/main/res/layout/activity_day_show.xml" timestamp="1504062582851" />
       <file name="$USER_HOME$/workspace/yzb/oversea/front/android/yzb-app/src/main/java/com/yizhibo/video/activity/UserVipBuyActivity.java" timestamp="1493266042737">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -588,12 +592,6 @@
         <mark key="." line="921" column="29" />
         <mark key="^" line="921" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/extras/faceunity/src/main/res/layout/activity_base.xml" timestamp="1503651869555">
-        <mark key="'" line="499" column="46" />
-        <mark key="[" line="515" column="0" />
-        <mark key="]" line="515" column="0" />
-        <mark key="." line="515" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatVideoCallState.java" timestamp="1479459959836">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -682,12 +680,6 @@
         <mark key="]" line="1350" column="34" />
         <mark key="^" line="1338" column="11" />
         <mark key="." line="1350" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/smart-screen/android/app/build.gradle" timestamp="1503650973171">
-        <mark key="'" line="59" column="25" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/drawable/ic_live_video_call.xml" timestamp="1479798012379">
         <mark key="[" line="14" column="0" />
